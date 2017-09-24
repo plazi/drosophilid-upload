@@ -1,0 +1,181 @@
+{
+  "conceptrecid": "805678", 
+  "created": "2017-06-10T16:20:52.065787+00:00", 
+  "files": [], 
+  "id": 805679, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/6d53ea37-60f1-4e96-8eb9-7daf9c077ce8", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805679/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805679/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805679/files", 
+    "html": "https://zenodo.org/deposit/805679", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805679", 
+    "latest_draft_html": "https://zenodo.org/deposit/805679", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805679/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805679"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Almeida, L.M."
+      }, 
+      {
+        "name": "Castro, J.P."
+      }, 
+      {
+        "name": "Carareto, C.M.A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "114-117", 
+    "journal_title": "D. I. S.", 
+    "journal_volume": "84", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805679", 
+      "recid": 805679
+    }, 
+    "publication_date": "2001-12-31", 
+    "publication_type": "article", 
+    "title": "Micropia transposable element occurrence in Drosophila species of the saltans group.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:20:52.065795+00:00", 
+  "owner": 1161, 
+  "record_id": 805679, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Micropia transposable element occurrence in Drosophila species of the saltans group."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:20:55 GMT
+Content-Type: application/json
+Content-Length: 373
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497115253
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "dc16a0622e16d5c508b9f4cce7524e4f", "filename": "almeida_et_al__2001.pdf", "filesize": 173825, "id": "af13e2dd-fca1-4eb1-b775-73e622409b43", "links": {"download": "https://zenodo.org/api/files/6d53ea37-60f1-4e96-8eb9-7daf9c077ce8/almeida_et_al__2001.pdf", "self": "https://zenodo.org/api/deposit/depositions/805679/files/af13e2dd-fca1-4eb1-b775-73e622409b43"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:20:56 GMT
+Content-Type: application/json
+Content-Length: 2589
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:20:56 GMT
+Location: https://zenodo.org/api/deposit/depositions/805679
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4996
+X-RateLimit-Reset: 1497114547
+Retry-After: 2890
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805678", 
+  "conceptrecid": "805678", 
+  "created": "2017-06-10T16:20:52.065787+00:00", 
+  "doi": "10.5281/zenodo.805679", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805679", 
+  "files": [
+    {
+      "checksum": "dc16a0622e16d5c508b9f4cce7524e4f", 
+      "filename": "almeida_et_al__2001.pdf", 
+      "filesize": 173825, 
+      "id": "af13e2dd-fca1-4eb1-b775-73e622409b43", 
+      "links": {
+        "download": "https://zenodo.org/api/files/6d53ea37-60f1-4e96-8eb9-7daf9c077ce8/almeida_et_al__2001.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804695/files/af13e2dd-fca1-4eb1-b775-73e622409b43"
+      }
+    }
+  ], 
+  "id": 805679, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805679.svg", 
+    "bucket": "https://zenodo.org/api/files/6d53ea37-60f1-4e96-8eb9-7daf9c077ce8", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805678.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805678", 
+    "doi": "https://doi.org/10.5281/zenodo.805679", 
+    "latest": "https://zenodo.org/api/records/805679", 
+    "latest_html": "https://zenodo.org/record/805679", 
+    "record": "https://zenodo.org/api/records/805679", 
+    "record_html": "https://zenodo.org/record/805679"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Almeida, L.M."
+      }, 
+      {
+        "name": "Castro, J.P."
+      }, 
+      {
+        "name": "Carareto, C.M.A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805679", 
+    "journal_pages": "114-117", 
+    "journal_title": "D. I. S.", 
+    "journal_volume": "84", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805679", 
+      "recid": 805679
+    }, 
+    "publication_date": "2001-12-31", 
+    "publication_type": "article", 
+    "title": "Micropia transposable element occurrence in Drosophila species of the saltans group.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:20:56.546352+00:00", 
+  "owner": 1161, 
+  "record_id": 805679, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Micropia transposable element occurrence in Drosophila species of the saltans group."
+}

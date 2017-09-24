@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805741", 
+  "conceptrecid": "805741", 
+  "created": "2017-06-10T20:07:22.217566+00:00", 
+  "doi": "10.5281/zenodo.805742", 
+  "id": 805742, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805742.svg", 
+    "bucket": "https://zenodo.org/api/files/dcce48d2-1944-44d5-97db-a3397bd8a8d9", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805741.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805741", 
+    "doi": "https://doi.org/10.5281/zenodo.805742", 
+    "html": "https://zenodo.org/record/805742", 
+    "latest": "https://zenodo.org/api/records/805742", 
+    "latest_html": "https://zenodo.org/record/805742", 
+    "self": "https://zenodo.org/api/records/805742"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "van Alphen, J.J.M."
+      }, 
+      {
+        "name": "Janssen, A.R.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805742", 
+    "journal": {
+      "pages": "194-214", 
+      "title": "Neth. J. Zool.", 
+      "volume": "32"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1982-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805741", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805742"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805741"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Host selection by Asobara tabida nees (Braconidae; Alysiinae) a larval parasitoid of fruit inhabiting Drosophila species. II. Host species selection."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:04:27.842714+00:00"
+}

@@ -1,0 +1,98 @@
+{
+  "conceptdoi": "10.5281/zenodo.805112", 
+  "conceptrecid": "805112", 
+  "created": "2017-06-09T21:56:49.833091+00:00", 
+  "doi": "10.5281/zenodo.805113", 
+  "id": 805113, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805113.svg", 
+    "bucket": "https://zenodo.org/api/files/7f925a80-c15e-468a-b9f6-b3a1c396914c", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805112.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805112", 
+    "doi": "https://doi.org/10.5281/zenodo.805113", 
+    "html": "https://zenodo.org/record/805113", 
+    "latest": "https://zenodo.org/api/records/805113", 
+    "latest_html": "https://zenodo.org/record/805113", 
+    "self": "https://zenodo.org/api/records/805113"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aguade, M."
+      }, 
+      {
+        "name": "Serra, L."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805113", 
+    "journal": {
+      "pages": "3-9", 
+      "title": "Genetica", 
+      "volume": "75"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "notspecified"
+    }, 
+    "publication_date": "1987-11-16", 
+    "related_identifiers": [
+      {
+        "identifier": "10.1007/bf00056027", 
+        "relation": "isIdenticalTo", 
+        "scheme": "doi"
+      }, 
+      {
+        "identifier": "10.5281/zenodo.805112", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805113"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805112"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Analysis of microdifferentiation in a Spanish cellar population of Drosophila melanogaster."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 5, 
+  "updated": "2017-09-22T17:41:21.414400+00:00"
+}

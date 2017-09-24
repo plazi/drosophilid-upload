@@ -1,0 +1,183 @@
+{
+  "conceptrecid": "805785", 
+  "created": "2017-06-10T20:09:39.521557+00:00", 
+  "files": [], 
+  "id": 805786, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/ae4fcc6b-5456-4aa2-999b-8ede37335ae0", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805786/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805786/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805786/files", 
+    "html": "https://zenodo.org/deposit/805786", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805786", 
+    "latest_draft_html": "https://zenodo.org/deposit/805786", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805786/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805786"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amlou, M."
+      }, 
+      {
+        "name": "Moreteau, B."
+      }, 
+      {
+        "name": "David, J.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "7-14", 
+    "journal_title": "Hereditas", 
+    "journal_volume": "129", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805786", 
+      "recid": 805786
+    }, 
+    "publication_date": "1998-12-31", 
+    "publication_type": "article", 
+    "title": "Larval tolerance in the Drosophila melanogaster species complex toward the two toxic acids of the D. sechellia host plant.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:09:39.521563+00:00", 
+  "owner": 1161, 
+  "record_id": 805786, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Larval tolerance in the Drosophila melanogaster species complex toward the two toxic acids of the D. sechellia host plant."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:09:43 GMT
+Content-Type: application/json
+Content-Length: 371
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497128980
+Retry-After: 3596
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "10623d56d9b31b48505dfda943d83783", "filename": "amlou_et_al__1998a.pdf", "filesize": 703132, "id": "33e6fd75-84ec-41e9-8e69-10151e5f89b9", "links": {"download": "https://zenodo.org/api/files/ae4fcc6b-5456-4aa2-999b-8ede37335ae0/amlou_et_al__1998a.pdf", "self": "https://zenodo.org/api/deposit/depositions/805786/files/33e6fd75-84ec-41e9-8e69-10151e5f89b9"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:09:45 GMT
+Content-Type: application/json
+Content-Length: 2680
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 20:09:44 GMT
+Location: https://zenodo.org/api/deposit/depositions/805786
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497128897
+Retry-After: 3511
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805785", 
+  "conceptrecid": "805785", 
+  "created": "2017-06-10T20:09:39.521557+00:00", 
+  "doi": "10.5281/zenodo.805786", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805786", 
+  "files": [
+    {
+      "checksum": "10623d56d9b31b48505dfda943d83783", 
+      "filename": "amlou_et_al__1998a.pdf", 
+      "filesize": 703132, 
+      "id": "33e6fd75-84ec-41e9-8e69-10151e5f89b9", 
+      "links": {
+        "download": "https://zenodo.org/api/files/ae4fcc6b-5456-4aa2-999b-8ede37335ae0/amlou_et_al__1998a.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804687/files/33e6fd75-84ec-41e9-8e69-10151e5f89b9"
+      }
+    }
+  ], 
+  "id": 805786, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805786.svg", 
+    "bucket": "https://zenodo.org/api/files/ae4fcc6b-5456-4aa2-999b-8ede37335ae0", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805785.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805785", 
+    "doi": "https://doi.org/10.5281/zenodo.805786", 
+    "latest": "https://zenodo.org/api/records/805786", 
+    "latest_html": "https://zenodo.org/record/805786", 
+    "record": "https://zenodo.org/api/records/805786", 
+    "record_html": "https://zenodo.org/record/805786"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amlou, M."
+      }, 
+      {
+        "name": "Moreteau, B."
+      }, 
+      {
+        "name": "David, J.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805786", 
+    "journal_pages": "7-14", 
+    "journal_title": "Hereditas", 
+    "journal_volume": "129", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805786", 
+      "recid": 805786
+    }, 
+    "publication_date": "1998-12-31", 
+    "publication_type": "article", 
+    "title": "Larval tolerance in the Drosophila melanogaster species complex toward the two toxic acids of the D. sechellia host plant.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:09:44.688283+00:00", 
+  "owner": 1161, 
+  "record_id": 805786, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Larval tolerance in the Drosophila melanogaster species complex toward the two toxic acids of the D. sechellia host plant."
+}

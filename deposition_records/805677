@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805676", 
+  "conceptrecid": "805676", 
+  "created": "2017-06-10T16:20:50.354858+00:00", 
+  "doi": "10.5281/zenodo.805677", 
+  "id": 805677, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805677.svg", 
+    "bucket": "https://zenodo.org/api/files/2871d2ca-d957-4dbc-bbc1-588c85eb9890", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805676.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805676", 
+    "doi": "https://doi.org/10.5281/zenodo.805677", 
+    "html": "https://zenodo.org/record/805677", 
+    "latest": "https://zenodo.org/api/records/805677", 
+    "latest_html": "https://zenodo.org/record/805677", 
+    "self": "https://zenodo.org/api/records/805677"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "de Almeida, G.R."
+      }, 
+      {
+        "name": "Reyes, F.G.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805677", 
+    "journal": {
+      "pages": "15-23", 
+      "title": "Revta Inst. Adolfo Lutz", 
+      "volume": "58"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2000-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805676", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805677"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805676"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Drosophila melanogaster Meigen: 1. Sensibilidade ao endosulfan e biomonitoramento de seus residuos em couve-manteiga."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T08:43:29.972440+00:00"
+}

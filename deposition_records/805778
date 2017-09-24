@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805777", 
+  "conceptrecid": "805777", 
+  "created": "2017-06-10T20:09:18.631013+00:00", 
+  "doi": "10.5281/zenodo.805778", 
+  "id": 805778, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805778.svg", 
+    "bucket": "https://zenodo.org/api/files/c2d36138-5ac9-4814-9f52-febff143a613", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805777.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805777", 
+    "doi": "https://doi.org/10.5281/zenodo.805778", 
+    "html": "https://zenodo.org/record/805778", 
+    "latest": "https://zenodo.org/api/records/805778", 
+    "latest_html": "https://zenodo.org/record/805778", 
+    "self": "https://zenodo.org/api/records/805778"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amante, E."
+      }, 
+      {
+        "name": "Vulcano, A."
+      }, 
+      {
+        "name": "Abrahao, J."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805778", 
+    "journal": {
+      "pages": "102-105", 
+      "title": "Biologico", 
+      "volume": "37"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1971-04-30", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805777", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805778"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805777"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Observacoes preliminares sobre a influencia da entomofauna na dispersao dos uredosporos da ferrugem do cafeeiro (Hemileia vastatrix)."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:27:33.768916+00:00"
+}

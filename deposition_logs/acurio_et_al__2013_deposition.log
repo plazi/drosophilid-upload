@@ -1,0 +1,189 @@
+{
+  "conceptrecid": "805072", 
+  "created": "2017-06-09T21:39:39.029607+00:00", 
+  "files": [], 
+  "id": 805073, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/d6581310-d6ec-426b-b434-0220ea0cc3c0", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805073/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805073/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805073/files", 
+    "html": "https://zenodo.org/deposit/805073", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805073", 
+    "latest_draft_html": "https://zenodo.org/deposit/805073", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805073/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805073"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Acurio, A."
+      }, 
+      {
+        "name": "Rafael, V."
+      }, 
+      {
+        "name": "Cespedes, D."
+      }, 
+      {
+        "name": "Ruiz, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "1-11", 
+    "journal_title": "Ann. ent. Soc. Am.", 
+    "journal_volume": "106", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805073", 
+      "recid": 805073
+    }, 
+    "publication_date": "2013-12-31", 
+    "publication_type": "article", 
+    "title": "Description of a New Spotted Wing Drosophila (Diptera: Drosophilidae) Species and Its Evolutionary Relationships Inferred by a Cladistic Analysis of Morphological Traits.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:39:39.029614+00:00", 
+  "owner": 1161, 
+  "record_id": 805073, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Description of a New Spotted Wing Drosophila (Diptera: Drosophilidae) Species and Its Evolutionary Relationships Inferred by a Cladistic Analysis of Morphological Traits."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:39:46 GMT
+Content-Type: application/json
+Content-Length: 371
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497047982
+Retry-After: 3595
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "79756fcbbe2209f628b12af252ba2eb0", "filename": "acurio_et_al__2013.pdf", "filesize": 395062, "id": "9c291249-39ad-4505-bd91-0f25e4cd4dff", "links": {"download": "https://zenodo.org/api/files/d6581310-d6ec-426b-b434-0220ea0cc3c0/acurio_et_al__2013.pdf", "self": "https://zenodo.org/api/deposit/depositions/805073/files/9c291249-39ad-4505-bd91-0f25e4cd4dff"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:39:51 GMT
+Content-Type: application/json
+Content-Length: 2830
+ETag: "2"
+Last-Modified: Fri, 09 Jun 2017 21:39:50 GMT
+Location: https://zenodo.org/api/deposit/depositions/805073
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497047987
+Retry-After: 3595
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805072", 
+  "conceptrecid": "805072", 
+  "created": "2017-06-09T21:39:39.029607+00:00", 
+  "doi": "10.5281/zenodo.805073", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805073", 
+  "files": [
+    {
+      "checksum": "79756fcbbe2209f628b12af252ba2eb0", 
+      "filename": "acurio_et_al__2013.pdf", 
+      "filesize": 395062, 
+      "id": "9c291249-39ad-4505-bd91-0f25e4cd4dff", 
+      "links": {
+        "download": "https://zenodo.org/api/files/d6581310-d6ec-426b-b434-0220ea0cc3c0/acurio_et_al__2013.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804699/files/9c291249-39ad-4505-bd91-0f25e4cd4dff"
+      }
+    }
+  ], 
+  "id": 805073, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805073.svg", 
+    "bucket": "https://zenodo.org/api/files/d6581310-d6ec-426b-b434-0220ea0cc3c0", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805072.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805072", 
+    "doi": "https://doi.org/10.5281/zenodo.805073", 
+    "latest": "https://zenodo.org/api/records/805073", 
+    "latest_html": "https://zenodo.org/record/805073", 
+    "record": "https://zenodo.org/api/records/805073", 
+    "record_html": "https://zenodo.org/record/805073"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Acurio, A."
+      }, 
+      {
+        "name": "Rafael, V."
+      }, 
+      {
+        "name": "Cespedes, D."
+      }, 
+      {
+        "name": "Ruiz, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805073", 
+    "journal_pages": "1-11", 
+    "journal_title": "Ann. ent. Soc. Am.", 
+    "journal_volume": "106", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805073", 
+      "recid": 805073
+    }, 
+    "publication_date": "2013-12-31", 
+    "publication_type": "article", 
+    "title": "Description of a New Spotted Wing Drosophila (Diptera: Drosophilidae) Species and Its Evolutionary Relationships Inferred by a Cladistic Analysis of Morphological Traits.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:39:50.195717+00:00", 
+  "owner": 1161, 
+  "record_id": 805073, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Description of a New Spotted Wing Drosophila (Diptera: Drosophilidae) Species and Its Evolutionary Relationships Inferred by a Cladistic Analysis of Morphological Traits."
+}

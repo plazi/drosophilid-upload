@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805644", 
+  "conceptrecid": "805644", 
+  "created": "2017-06-10T16:19:17.077491+00:00", 
+  "doi": "10.5281/zenodo.805645", 
+  "id": 805645, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805645.svg", 
+    "bucket": "https://zenodo.org/api/files/a67d6496-e9fd-42ed-b706-06234b14cae2", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805644.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805644", 
+    "doi": "https://doi.org/10.5281/zenodo.805645", 
+    "html": "https://zenodo.org/record/805645", 
+    "latest": "https://zenodo.org/api/records/805645", 
+    "latest_html": "https://zenodo.org/record/805645", 
+    "self": "https://zenodo.org/api/records/805645"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allemand, R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805645", 
+    "journal": {
+      "pages": "2075-2077", 
+      "title": "C. r. Seanc. Acad. Sci., Paris", 
+      "volume": "279"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1974-12-23", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805644", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805645"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805644"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Importance evolutive du comportement de ponte chez les insectes: comparaison du rythme circadien d'oviposition chez les six especes de Drosophila du sous-groupe melanogaster."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:35:20.796252+00:00"
+}

@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805078", 
+  "created": "2017-06-09T21:40:11.963308+00:00", 
+  "files": [], 
+  "id": 805079, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/63556e29-8f16-4b35-a227-50efb7072320", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805079/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805079/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805079/files", 
+    "html": "https://zenodo.org/deposit/805079", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805079", 
+    "latest_draft_html": "https://zenodo.org/deposit/805079", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805079/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805079"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Adams, F.C."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "110", 
+    "journal_title": "Ent. mon. Mag.", 
+    "journal_volume": "38", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805079", 
+      "recid": 805079
+    }, 
+    "publication_date": "1902-05-31", 
+    "publication_type": "article", 
+    "title": "Acletoxenus syrphoides, Frnfd., at Lyndhurst.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:40:11.963316+00:00", 
+  "owner": 1161, 
+  "record_id": 805079, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Acletoxenus syrphoides, Frnfd., at Lyndhurst."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:40:14 GMT
+Content-Type: application/json
+Content-Length: 354
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497048013
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "4bc184987facd94772affc0db53aae8b", "filename": "adams_1902.pdf", "filesize": 19084, "id": "579ccae3-68bd-4847-b206-467bd2a9aa5c", "links": {"download": "https://zenodo.org/api/files/63556e29-8f16-4b35-a227-50efb7072320/adams_1902.pdf", "self": "https://zenodo.org/api/deposit/depositions/805079/files/579ccae3-68bd-4847-b206-467bd2a9aa5c"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:40:15 GMT
+Content-Type: application/json
+Content-Length: 2417
+ETag: "2"
+Last-Modified: Fri, 09 Jun 2017 21:40:15 GMT
+Location: https://zenodo.org/api/deposit/depositions/805079
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4996
+X-RateLimit-Reset: 1497044443
+Retry-After: 27
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805078", 
+  "conceptrecid": "805078", 
+  "created": "2017-06-09T21:40:11.963308+00:00", 
+  "doi": "10.5281/zenodo.805079", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805079", 
+  "files": [
+    {
+      "checksum": "4bc184987facd94772affc0db53aae8b", 
+      "filename": "adams_1902.pdf", 
+      "filesize": 19084, 
+      "id": "579ccae3-68bd-4847-b206-467bd2a9aa5c", 
+      "links": {
+        "download": "https://zenodo.org/api/files/63556e29-8f16-4b35-a227-50efb7072320/adams_1902.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804703/files/579ccae3-68bd-4847-b206-467bd2a9aa5c"
+      }
+    }
+  ], 
+  "id": 805079, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805079.svg", 
+    "bucket": "https://zenodo.org/api/files/63556e29-8f16-4b35-a227-50efb7072320", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805078.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805078", 
+    "doi": "https://doi.org/10.5281/zenodo.805079", 
+    "latest": "https://zenodo.org/api/records/805079", 
+    "latest_html": "https://zenodo.org/record/805079", 
+    "record": "https://zenodo.org/api/records/805079", 
+    "record_html": "https://zenodo.org/record/805079"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Adams, F.C."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805079", 
+    "journal_pages": "110", 
+    "journal_title": "Ent. mon. Mag.", 
+    "journal_volume": "38", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805079", 
+      "recid": 805079
+    }, 
+    "publication_date": "1902-05-31", 
+    "publication_type": "article", 
+    "title": "Acletoxenus syrphoides, Frnfd., at Lyndhurst.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:40:15.585543+00:00", 
+  "owner": 1161, 
+  "record_id": 805079, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Acletoxenus syrphoides, Frnfd., at Lyndhurst."
+}

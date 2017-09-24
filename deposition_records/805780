@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805779", 
+  "conceptrecid": "805779", 
+  "created": "2017-06-10T20:09:24.930516+00:00", 
+  "doi": "10.5281/zenodo.805780", 
+  "id": 805780, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805780.svg", 
+    "bucket": "https://zenodo.org/api/files/3575ccab-a475-4f5b-86b2-85e7329f4c35", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805779.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805779", 
+    "doi": "https://doi.org/10.5281/zenodo.805780", 
+    "html": "https://zenodo.org/record/805780", 
+    "latest": "https://zenodo.org/api/records/805780", 
+    "latest_html": "https://zenodo.org/record/805780", 
+    "self": "https://zenodo.org/api/records/805780"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amin ud Din, M."
+      }, 
+      {
+        "name": "Mazhar, K."
+      }, 
+      {
+        "name": "Haque, S."
+      }, 
+      {
+        "name": "Ahmed, M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805780", 
+    "journal": {
+      "pages": "6-7", 
+      "title": "D. I. S.", 
+      "volume": "88"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2005-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805779", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805780"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805779"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "A preliminary report on Drosophila fauna of Islamabad (Capital, Pakistan)."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T07:23:15.158594+00:00"
+}

@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805809", 
+  "conceptrecid": "805809", 
+  "created": "2017-06-10T20:11:03.011316+00:00", 
+  "doi": "10.5281/zenodo.805810", 
+  "id": 805810, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805810.svg", 
+    "bucket": "https://zenodo.org/api/files/269b91d7-8162-48cd-875b-c015f46ba4c7", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805809.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805809", 
+    "doi": "https://doi.org/10.5281/zenodo.805810", 
+    "html": "https://zenodo.org/record/805810", 
+    "latest": "https://zenodo.org/api/records/805810", 
+    "latest_html": "https://zenodo.org/record/805810", 
+    "self": "https://zenodo.org/api/records/805810"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ananina, G."
+      }, 
+      {
+        "name": "Peixoto, A.A."
+      }, 
+      {
+        "name": "Souza, W.N."
+      }, 
+      {
+        "name": "Klaczko, L.B."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805810", 
+    "journal": {
+      "pages": "1-4", 
+      "title": "Mem. Inst. Oswaldo Cruz", 
+      "volume": "97"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2002-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805809", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805810"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805809"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Polytene Chromosome Map and Inversion Polymorphism in Drosophila mediopunctata."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T07:45:52.653464+00:00"
+}

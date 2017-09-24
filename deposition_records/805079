@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805078", 
+  "conceptrecid": "805078", 
+  "created": "2017-06-09T21:40:15.313977+00:00", 
+  "doi": "10.5281/zenodo.805079", 
+  "id": 805079, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805079.svg", 
+    "bucket": "https://zenodo.org/api/files/d65485da-0c12-4345-905d-8df61e6ead9b", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805078.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805078", 
+    "doi": "https://doi.org/10.5281/zenodo.805079", 
+    "html": "https://zenodo.org/record/805079", 
+    "latest": "https://zenodo.org/api/records/805079", 
+    "latest_html": "https://zenodo.org/record/805079", 
+    "self": "https://zenodo.org/api/records/805079"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Adams, F.C."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805079", 
+    "journal": {
+      "pages": "110", 
+      "title": "Ent. mon. Mag.", 
+      "volume": "38"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "notspecified"
+    }, 
+    "publication_date": "1902-05-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805078", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805079"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805078"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Acletoxenus syrphoides, Frnfd., at Lyndhurst."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-08-05T11:23:21.937761+00:00"
+}

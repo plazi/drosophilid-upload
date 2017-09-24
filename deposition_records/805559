@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805558", 
+  "conceptrecid": "805558", 
+  "created": "2017-06-10T13:12:24.720693+00:00", 
+  "doi": "10.5281/zenodo.805559", 
+  "id": 805559, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805559.svg", 
+    "bucket": "https://zenodo.org/api/files/2e3c9d73-542c-4cba-b6ce-b2a0e99a3b29", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805558.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805558", 
+    "doi": "https://doi.org/10.5281/zenodo.805559", 
+    "html": "https://zenodo.org/record/805559", 
+    "latest": "https://zenodo.org/api/records/805559", 
+    "latest_html": "https://zenodo.org/record/805559", 
+    "self": "https://zenodo.org/api/records/805559"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alawi, A.A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805559", 
+    "journal": {
+      "pages": "287-299", 
+      "title": "Iraqi J. Sci.", 
+      "volume": "22"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1981-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805558", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805559"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805558"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Correlative spectral sensitivity studies on the electroretinogram components and the receptor potential of Drosophila."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:39:22.646197+00:00"
+}

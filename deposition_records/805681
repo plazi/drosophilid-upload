@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805680", 
+  "conceptrecid": "805680", 
+  "created": "2017-06-10T16:21:01.334468+00:00", 
+  "doi": "10.5281/zenodo.805681", 
+  "id": 805681, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805681.svg", 
+    "bucket": "https://zenodo.org/api/files/8647faa6-91a9-42b6-955a-399278ff966d", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805680.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805680", 
+    "doi": "https://doi.org/10.5281/zenodo.805681", 
+    "html": "https://zenodo.org/record/805681", 
+    "latest": "https://zenodo.org/api/records/805681", 
+    "latest_html": "https://zenodo.org/record/805681", 
+    "self": "https://zenodo.org/api/records/805681"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "de Almeida, L.M."
+      }, 
+      {
+        "name": "Langeani, F."
+      }, 
+      {
+        "name": "Carareto, C.M.A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805681", 
+    "journal": {
+      "pages": "175-179", 
+      "title": "Genet. and Molec. Biol.", 
+      "volume": "26"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2003-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805680", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805681"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805680"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Geographic polymorphism of P element in populations of Drosophila sturtevanti."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T08:32:27.719236+00:00"
+}

@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805684", 
+  "conceptrecid": "805684", 
+  "created": "2017-06-10T16:21:13.125062+00:00", 
+  "doi": "10.5281/zenodo.805685", 
+  "id": 805685, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805685.svg", 
+    "bucket": "https://zenodo.org/api/files/73cf435f-e171-4166-88b0-30311d8060d7", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805684.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805684", 
+    "doi": "https://doi.org/10.5281/zenodo.805685", 
+    "html": "https://zenodo.org/record/805685", 
+    "latest": "https://zenodo.org/api/records/805685", 
+    "latest_html": "https://zenodo.org/record/805685", 
+    "self": "https://zenodo.org/api/records/805685"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alonso-Moraga, A."
+      }, 
+      {
+        "name": "Munoz-Serrano, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805685", 
+    "journal": {
+      "pages": "15-24", 
+      "title": "Genet. Sel. Evol.", 
+      "volume": "20"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1988-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805684", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805685"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805684"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Variation at four enzyme loci in natural populations of Drosophila melanogaster: factor analyses of genotypic and gametic associations."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:03:54.649562+00:00"
+}

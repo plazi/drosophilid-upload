@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805791", 
+  "conceptrecid": "805791", 
+  "created": "2017-06-10T20:10:08.243214+00:00", 
+  "doi": "10.5281/zenodo.805792", 
+  "id": 805792, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805792.svg", 
+    "bucket": "https://zenodo.org/api/files/f9bbfc9e-72d7-4784-93d6-9f3fdb53d69a", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805791.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805791", 
+    "doi": "https://doi.org/10.5281/zenodo.805792", 
+    "html": "https://zenodo.org/record/805792", 
+    "latest": "https://zenodo.org/api/records/805792", 
+    "latest_html": "https://zenodo.org/record/805792", 
+    "self": "https://zenodo.org/api/records/805792"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amorim, D. de S."
+      }, 
+      {
+        "name": "de Vasconcelos, C.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805792", 
+    "journal": {
+      "pages": "37-44", 
+      "title": "Mem. Inst. Oswaldo Cruz", 
+      "volume": "84"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1989-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805791", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805792"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805791"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "First known Brazilian species of the genera Scutops and Neoscutops (Diptera: Periscelididae), with comments on the relationships among the species in each genus."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:01:37.956668+00:00"
+}

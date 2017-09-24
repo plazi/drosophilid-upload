@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805504", 
+  "conceptrecid": "805504", 
+  "created": "2017-06-10T11:53:36.551221+00:00", 
+  "doi": "10.5281/zenodo.805505", 
+  "id": 805505, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805505.svg", 
+    "bucket": "https://zenodo.org/api/files/76272cce-25ac-4cc5-8992-99501a390ed9", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805504.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805504", 
+    "doi": "https://doi.org/10.5281/zenodo.805505", 
+    "html": "https://zenodo.org/record/805505", 
+    "latest": "https://zenodo.org/api/records/805505", 
+    "latest_html": "https://zenodo.org/record/805505", 
+    "self": "https://zenodo.org/api/records/805505"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aksit, T."
+      }, 
+      {
+        "name": "Ozsemerci, F."
+      }, 
+      {
+        "name": "Cakmak, I."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805505", 
+    "journal": {
+      "pages": "181-189", 
+      "title": "Turkiye Entomoloji Dergisi", 
+      "volume": "27"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2003-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805504", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805505"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805504"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Studies on determination of harmful fauna in the fig orchards in Aydin province (Turkey). Aydin ilinde incir agaclarinda saptanan zararli turler. (in Turkish)."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:01:22.197038+00:00"
+}

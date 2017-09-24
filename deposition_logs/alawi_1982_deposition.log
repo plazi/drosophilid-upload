@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805560", 
+  "created": "2017-06-10T13:12:26.608627+00:00", 
+  "files": [], 
+  "id": 805561, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/1afbbf6c-87df-43f3-9127-0af5d8ff32a6", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805561/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805561/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805561/files", 
+    "html": "https://zenodo.org/deposit/805561", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805561", 
+    "latest_draft_html": "https://zenodo.org/deposit/805561", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805561/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805561"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alawi, A.A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "281-287", 
+    "journal_title": "Arab. J. Sci. Eng.", 
+    "journal_volume": "7", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805561", 
+      "recid": 805561
+    }, 
+    "publication_date": "1982-07-31", 
+    "publication_type": "article", 
+    "title": "Light-induced pore formation in the membrane of the photoreceptor cell.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T13:12:26.608634+00:00", 
+  "owner": 1161, 
+  "record_id": 805561, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Light-induced pore formation in the membrane of the photoreceptor cell."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 13:12:29 GMT
+Content-Type: application/json
+Content-Length: 355
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497103947
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "2438fb42be265b42756f2382ebafc96f", "filename": "alawi_1982.pdf", "filesize": 231937, "id": "3c13583b-8d90-4c1e-9398-381280c3ae58", "links": {"download": "https://zenodo.org/api/files/1afbbf6c-87df-43f3-9127-0af5d8ff32a6/alawi_1982.pdf", "self": "https://zenodo.org/api/deposit/depositions/805561/files/3c13583b-8d90-4c1e-9398-381280c3ae58"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 13:12:31 GMT
+Content-Type: application/json
+Content-Length: 2477
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 13:12:31 GMT
+Location: https://zenodo.org/api/deposit/depositions/805561
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497103950
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805560", 
+  "conceptrecid": "805560", 
+  "created": "2017-06-10T13:12:26.608627+00:00", 
+  "doi": "10.5281/zenodo.805561", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805561", 
+  "files": [
+    {
+      "checksum": "2438fb42be265b42756f2382ebafc96f", 
+      "filename": "alawi_1982.pdf", 
+      "filesize": 231937, 
+      "id": "3c13583b-8d90-4c1e-9398-381280c3ae58", 
+      "links": {
+        "download": "https://zenodo.org/api/files/1afbbf6c-87df-43f3-9127-0af5d8ff32a6/alawi_1982.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804711/files/3c13583b-8d90-4c1e-9398-381280c3ae58"
+      }
+    }
+  ], 
+  "id": 805561, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805561.svg", 
+    "bucket": "https://zenodo.org/api/files/1afbbf6c-87df-43f3-9127-0af5d8ff32a6", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805560.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805560", 
+    "doi": "https://doi.org/10.5281/zenodo.805561", 
+    "latest": "https://zenodo.org/api/records/805561", 
+    "latest_html": "https://zenodo.org/record/805561", 
+    "record": "https://zenodo.org/api/records/805561", 
+    "record_html": "https://zenodo.org/record/805561"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alawi, A.A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805561", 
+    "journal_pages": "281-287", 
+    "journal_title": "Arab. J. Sci. Eng.", 
+    "journal_volume": "7", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805561", 
+      "recid": 805561
+    }, 
+    "publication_date": "1982-07-31", 
+    "publication_type": "article", 
+    "title": "Light-induced pore formation in the membrane of the photoreceptor cell.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T13:12:31.014645+00:00", 
+  "owner": 1161, 
+  "record_id": 805561, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Light-induced pore formation in the membrane of the photoreceptor cell."
+}

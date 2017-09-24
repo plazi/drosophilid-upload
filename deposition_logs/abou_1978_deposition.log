@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805039", 
+  "created": "2017-06-09T21:31:05.014800+00:00", 
+  "files": [], 
+  "id": 805040, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/854c1f54-a73e-47a6-9613-878c1b1dfcbb", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805040/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805040/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805040/files", 
+    "html": "https://zenodo.org/deposit/805040", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805040", 
+    "latest_draft_html": "https://zenodo.org/deposit/805040", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805040/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805040"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Abou-Youssef, A.Y."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "56-68", 
+    "journal_title": "Egypt. J. Genet. Cytol.", 
+    "journal_volume": "7", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805040", 
+      "recid": 805040
+    }, 
+    "publication_date": "1978-01-31", 
+    "publication_type": "article", 
+    "title": "Genetic studies on isozyme polymorphism in Drosophila: I. Survey of D. virilis natural populations for amylase isozymes.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:31:05.014807+00:00", 
+  "owner": 1161, 
+  "record_id": 805040, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Genetic studies on isozyme polymorphism in Drosophila: I. Survey of D. virilis natural populations for amylase isozymes."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:31:09 GMT
+Content-Type: application/json
+Content-Length: 353
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497047466
+Retry-After: 3596
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "2b906ff4207a0f5f38fc52905eef3b49", "filename": "abou_1978.pdf", "filesize": 333851, "id": "4c7b40cd-307c-4c39-b0c7-778427ad5084", "links": {"download": "https://zenodo.org/api/files/854c1f54-a73e-47a6-9613-878c1b1dfcbb/abou_1978.pdf", "self": "https://zenodo.org/api/deposit/depositions/805040/files/4c7b40cd-307c-4c39-b0c7-778427ad5084"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:31:12 GMT
+Content-Type: application/json
+Content-Length: 2583
+ETag: "2"
+Last-Modified: Fri, 09 Jun 2017 21:31:10 GMT
+Location: https://zenodo.org/api/deposit/depositions/805040
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497045279
+Retry-After: 1406
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805039", 
+  "conceptrecid": "805039", 
+  "created": "2017-06-09T21:31:05.014800+00:00", 
+  "doi": "10.5281/zenodo.805040", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805040", 
+  "files": [
+    {
+      "checksum": "2b906ff4207a0f5f38fc52905eef3b49", 
+      "filename": "abou_1978.pdf", 
+      "filesize": 333851, 
+      "id": "4c7b40cd-307c-4c39-b0c7-778427ad5084", 
+      "links": {
+        "download": "https://zenodo.org/api/files/854c1f54-a73e-47a6-9613-878c1b1dfcbb/abou_1978.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804695/files/4c7b40cd-307c-4c39-b0c7-778427ad5084"
+      }
+    }
+  ], 
+  "id": 805040, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805040.svg", 
+    "bucket": "https://zenodo.org/api/files/854c1f54-a73e-47a6-9613-878c1b1dfcbb", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805039.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805039", 
+    "doi": "https://doi.org/10.5281/zenodo.805040", 
+    "latest": "https://zenodo.org/api/records/805040", 
+    "latest_html": "https://zenodo.org/record/805040", 
+    "record": "https://zenodo.org/api/records/805040", 
+    "record_html": "https://zenodo.org/record/805040"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Abou-Youssef, A.Y."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805040", 
+    "journal_pages": "56-68", 
+    "journal_title": "Egypt. J. Genet. Cytol.", 
+    "journal_volume": "7", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805040", 
+      "recid": 805040
+    }, 
+    "publication_date": "1978-01-31", 
+    "publication_type": "article", 
+    "title": "Genetic studies on isozyme polymorphism in Drosophila: I. Survey of D. virilis natural populations for amylase isozymes.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:31:10.834404+00:00", 
+  "owner": 1161, 
+  "record_id": 805040, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Genetic studies on isozyme polymorphism in Drosophila: I. Survey of D. virilis natural populations for amylase isozymes."
+}

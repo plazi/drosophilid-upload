@@ -1,0 +1,99 @@
+{
+  "conceptdoi": "10.5281/zenodo.805813", 
+  "conceptrecid": "805813", 
+  "created": "2017-06-10T20:11:16.529005+00:00", 
+  "doi": "10.5281/zenodo.805814", 
+  "id": 805814, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805814.svg", 
+    "bucket": "https://zenodo.org/api/files/157cb2af-3adb-4e2e-bb8d-8665bf8682e8", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805813.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805813", 
+    "doi": "https://doi.org/10.5281/zenodo.805814", 
+    "html": "https://zenodo.org/record/805814", 
+    "latest": "https://zenodo.org/api/records/805814", 
+    "latest_html": "https://zenodo.org/record/805814", 
+    "self": "https://zenodo.org/api/records/805814"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ananina, G."
+      }, 
+      {
+        "name": "Rohde, C."
+      }, 
+      {
+        "name": "David, J.R."
+      }, 
+      {
+        "name": "Valente, V.L.S."
+      }, 
+      {
+        "name": "Klaczko, L.B."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805814", 
+    "journal": {
+      "pages": "117-125", 
+      "title": "Genetica", 
+      "volume": "131"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2007-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805813", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805814"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805813"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Inversion polymorphism and a new polytene chromosome map of Zaprionus indianus Gupta (1970) (Diptera: Drosophilidae)."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T07:28:14.385895+00:00"
+}

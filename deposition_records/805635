@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805634", 
+  "conceptrecid": "805634", 
+  "created": "2017-06-10T16:09:48.062320+00:00", 
+  "doi": "10.5281/zenodo.805635", 
+  "id": 805635, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805635.svg", 
+    "bucket": "https://zenodo.org/api/files/710f2965-a622-4752-9359-6d97d396bf5f", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805634.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805634", 
+    "doi": "https://doi.org/10.5281/zenodo.805635", 
+    "html": "https://zenodo.org/record/805635", 
+    "latest": "https://zenodo.org/api/records/805635", 
+    "latest_html": "https://zenodo.org/record/805635", 
+    "self": "https://zenodo.org/api/records/805635"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allemand, R."
+      }, 
+      {
+        "name": "David, J.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805635", 
+    "journal": {
+      "pages": "1403-1405", 
+      "title": "Experientia", 
+      "volume": "32"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1976-11-15", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805634", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805635"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805634"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "The Circadian Rhythm of Oviposition in Drosophila melanogaster: A Genetic Latitudinal Cline in Wild Populations."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:00:30.158823+00:00"
+}

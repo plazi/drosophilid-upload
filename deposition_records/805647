@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805646", 
+  "conceptrecid": "805646", 
+  "created": "2017-06-10T16:19:22.818235+00:00", 
+  "doi": "10.5281/zenodo.805647", 
+  "id": 805647, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805647.svg", 
+    "bucket": "https://zenodo.org/api/files/a14ce4ca-b24d-4a48-afa8-654bd32b6de5", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805646.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805646", 
+    "doi": "https://doi.org/10.5281/zenodo.805647", 
+    "html": "https://zenodo.org/record/805647", 
+    "latest": "https://zenodo.org/api/records/805647", 
+    "latest_html": "https://zenodo.org/record/805647", 
+    "self": "https://zenodo.org/api/records/805647"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allemand, R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805647", 
+    "journal": {
+      "pages": "85-88", 
+      "title": "C. r. Seanc. Acad. Sci., Paris", 
+      "volume": "282"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1976-01-05", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805646", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805647"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805646"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Importance adaptative du rythme circadien de ponte chez les drosophilides: comparaison de huit especes du genre Zaprionus."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:46:11.360497+00:00"
+}

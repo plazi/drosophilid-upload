@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805492", 
+  "conceptrecid": "805492", 
+  "created": "2017-06-10T11:52:57.710166+00:00", 
+  "doi": "10.5281/zenodo.805493", 
+  "id": 805493, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805493.svg", 
+    "bucket": "https://zenodo.org/api/files/c5d73d85-e2cd-4c3f-95b6-e43bc8755947", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805492.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805492", 
+    "doi": "https://doi.org/10.5281/zenodo.805493", 
+    "html": "https://zenodo.org/record/805493", 
+    "latest": "https://zenodo.org/api/records/805493", 
+    "latest_html": "https://zenodo.org/record/805493", 
+    "self": "https://zenodo.org/api/records/805493"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ahr, H."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805493", 
+    "journal": {
+      "pages": "21-32", 
+      "title": "Ent. Ber., Berlin", 
+      "volume": "1966"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1967-02-01", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805492", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805493"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805492"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Mitteldeutsche Blattminenkunde, 1. Teil."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:32:44.510141+00:00"
+}

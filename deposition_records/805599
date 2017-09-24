@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805598", 
+  "conceptrecid": "805598", 
+  "created": "2017-06-10T16:06:20.228992+00:00", 
+  "doi": "10.5281/zenodo.805599", 
+  "id": 805599, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805599.svg", 
+    "bucket": "https://zenodo.org/api/files/3724609b-7f3f-4c58-ba78-c320a6ceadc4", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805598.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805598", 
+    "doi": "https://doi.org/10.5281/zenodo.805599", 
+    "html": "https://zenodo.org/record/805599", 
+    "latest": "https://zenodo.org/api/records/805599", 
+    "latest_html": "https://zenodo.org/record/805599", 
+    "self": "https://zenodo.org/api/records/805599"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alemdar, N."
+      }, 
+      {
+        "name": "Miller, D.D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805599", 
+    "journal": {
+      "pages": "4-5", 
+      "title": "Proc. Neb. Acad. Sci.", 
+      "volume": "88"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1978-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805598", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805599"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805598"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Further investigations of light-dependent mating in Drosophila algonquin and related species. (Abstract)."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:27:13.294818+00:00"
+}

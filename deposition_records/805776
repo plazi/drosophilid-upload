@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805775", 
+  "conceptrecid": "805775", 
+  "created": "2017-06-10T20:09:12.489904+00:00", 
+  "doi": "10.5281/zenodo.805776", 
+  "id": 805776, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805776.svg", 
+    "bucket": "https://zenodo.org/api/files/c6213ea1-5580-4608-9352-cdaf60c61cbd", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805775.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805775", 
+    "doi": "https://doi.org/10.5281/zenodo.805776", 
+    "html": "https://zenodo.org/record/805776", 
+    "latest": "https://zenodo.org/api/records/805776", 
+    "latest_html": "https://zenodo.org/record/805776", 
+    "self": "https://zenodo.org/api/records/805776"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amador, R.B."
+      }, 
+      {
+        "name": "Martins, M.B."
+      }, 
+      {
+        "name": "da Silva Furtado, I."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805776", 
+    "journal": {
+      "pages": "73", 
+      "title": "D. I. S.", 
+      "volume": "94"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2011-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805775", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805776"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805775"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Is Zaprionus indianus invading a preserved Amazon forest?"
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T07:44:40.148342+00:00"
+}

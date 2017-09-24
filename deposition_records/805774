@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805773", 
+  "conceptrecid": "805773", 
+  "created": "2017-06-10T20:09:06.296447+00:00", 
+  "doi": "10.5281/zenodo.805774", 
+  "id": 805774, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805774.svg", 
+    "bucket": "https://zenodo.org/api/files/54975754-19cc-46c7-97a8-4e1294be98f5", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805773.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805773", 
+    "doi": "https://doi.org/10.5281/zenodo.805774", 
+    "html": "https://zenodo.org/record/805774", 
+    "latest": "https://zenodo.org/api/records/805774", 
+    "latest_html": "https://zenodo.org/record/805774", 
+    "self": "https://zenodo.org/api/records/805774"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amador, A."
+      }, 
+      {
+        "name": "Juan, E."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805774", 
+    "journal": {
+      "pages": "153-154", 
+      "title": "D. I. S.", 
+      "volume": "81"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1998-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805773", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805774"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805773"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Morphology of mouth hooks and anterior spiracles during larval development of D. funebris."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:42:12.933542+00:00"
+}

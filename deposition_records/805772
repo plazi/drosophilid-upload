@@ -1,0 +1,105 @@
+{
+  "conceptdoi": "10.5281/zenodo.805771", 
+  "conceptrecid": "805771", 
+  "created": "2017-06-10T20:09:00.938260+00:00", 
+  "doi": "10.5281/zenodo.805772", 
+  "id": 805772, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805772.svg", 
+    "bucket": "https://zenodo.org/api/files/cdff23b4-602a-49e6-a4b9-f5ab4b101176", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805771.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805771", 
+    "doi": "https://doi.org/10.5281/zenodo.805772", 
+    "html": "https://zenodo.org/record/805772", 
+    "latest": "https://zenodo.org/api/records/805772", 
+    "latest_html": "https://zenodo.org/record/805772", 
+    "self": "https://zenodo.org/api/records/805772"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alves, H."
+      }, 
+      {
+        "name": "Rouault, J.-D."
+      }, 
+      {
+        "name": "Kondoh, Y."
+      }, 
+      {
+        "name": "Nakano, Y."
+      }, 
+      {
+        "name": "Yamamoto, D."
+      }, 
+      {
+        "name": "Kim, Y.-K."
+      }, 
+      {
+        "name": "Jallon, J.-M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805772", 
+    "journal": {
+      "pages": "694-705", 
+      "title": "Behav. Genet.", 
+      "volume": "40"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2010-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805771", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805772"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805771"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Evolution of Cuticular Hydrocarbons of Hawaiian Drosophilidae."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T07:24:54.813657+00:00"
+}

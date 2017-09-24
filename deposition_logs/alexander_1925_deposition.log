@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805604", 
+  "created": "2017-06-10T16:06:35.656907+00:00", 
+  "files": [], 
+  "id": 805605, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/e9937d61-0fa1-4cc6-83e3-ebc14ffe8124", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805605/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805605/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805605/files", 
+    "html": "https://zenodo.org/deposit/805605", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805605", 
+    "latest_draft_html": "https://zenodo.org/deposit/805605", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805605/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805605"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alexander, W.B."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "1", 
+    "journal_title": "Bull. Inst. Sci. Ind., Melb.", 
+    "journal_volume": "29", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805605", 
+      "recid": 805605
+    }, 
+    "publication_date": "1925-12-31", 
+    "publication_type": "article", 
+    "title": "Natural Enemies of Prickly Pear and their Introduction into Australia.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:06:35.656920+00:00", 
+  "owner": 1161, 
+  "record_id": 805605, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Natural Enemies of Prickly Pear and their Introduction into Australia."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:06:38 GMT
+Content-Type: application/json
+Content-Length: 362
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497114396
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "21f189f3e6b119049d33106d07d685c9", "filename": "alexander_1925.pdf", "filesize": 68504, "id": "8c6f7cc4-5ded-4caf-9218-49e439a016d0", "links": {"download": "https://zenodo.org/api/files/e9937d61-0fa1-4cc6-83e3-ebc14ffe8124/alexander_1925.pdf", "self": "https://zenodo.org/api/deposit/depositions/805605/files/8c6f7cc4-5ded-4caf-9218-49e439a016d0"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:06:40 GMT
+Content-Type: application/json
+Content-Length: 2491
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:06:39 GMT
+Location: https://zenodo.org/api/deposit/depositions/805605
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497114399
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805604", 
+  "conceptrecid": "805604", 
+  "created": "2017-06-10T16:06:35.656907+00:00", 
+  "doi": "10.5281/zenodo.805605", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805605", 
+  "files": [
+    {
+      "checksum": "21f189f3e6b119049d33106d07d685c9", 
+      "filename": "alexander_1925.pdf", 
+      "filesize": 68504, 
+      "id": "8c6f7cc4-5ded-4caf-9218-49e439a016d0", 
+      "links": {
+        "download": "https://zenodo.org/api/files/e9937d61-0fa1-4cc6-83e3-ebc14ffe8124/alexander_1925.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804711/files/8c6f7cc4-5ded-4caf-9218-49e439a016d0"
+      }
+    }
+  ], 
+  "id": 805605, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805605.svg", 
+    "bucket": "https://zenodo.org/api/files/e9937d61-0fa1-4cc6-83e3-ebc14ffe8124", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805604.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805604", 
+    "doi": "https://doi.org/10.5281/zenodo.805605", 
+    "latest": "https://zenodo.org/api/records/805605", 
+    "latest_html": "https://zenodo.org/record/805605", 
+    "record": "https://zenodo.org/api/records/805605", 
+    "record_html": "https://zenodo.org/record/805605"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alexander, W.B."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805605", 
+    "journal_pages": "1", 
+    "journal_title": "Bull. Inst. Sci. Ind., Melb.", 
+    "journal_volume": "29", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805605", 
+      "recid": 805605
+    }, 
+    "publication_date": "1925-12-31", 
+    "publication_type": "article", 
+    "title": "Natural Enemies of Prickly Pear and their Introduction into Australia.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:06:39.779202+00:00", 
+  "owner": 1161, 
+  "record_id": 805605, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Natural Enemies of Prickly Pear and their Introduction into Australia."
+}

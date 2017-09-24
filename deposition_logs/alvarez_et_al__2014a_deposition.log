@@ -1,0 +1,88 @@
+{
+  "conceptrecid": "805767", 
+  "created": "2017-06-10T20:08:40.186419+00:00", 
+  "files": [], 
+  "id": 805768, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/d9c489bd-805e-4264-93e7-88f0eb2edf78", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805768/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805768/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805768/files", 
+    "html": "https://zenodo.org/deposit/805768", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805768", 
+    "latest_draft_html": "https://zenodo.org/deposit/805768", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805768/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805768"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alvarez, E."
+      }, 
+      {
+        "name": "Pino, L."
+      }, 
+      {
+        "name": "Jara, C."
+      }, 
+      {
+        "name": "Medina, M.C."
+      }, 
+      {
+        "name": "Del Pino, F."
+      }, 
+      {
+        "name": "Godoy-Herrera, R.."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "76-79", 
+    "journal_title": "D. I. S.", 
+    "journal_volume": "97", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805768", 
+      "recid": 805768
+    }, 
+    "publication_date": "2014-12-31", 
+    "publication_type": "article", 
+    "title": "The development of hooks in larvae of the two isolates of Drosophila gaucha.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:08:40.186429+00:00", 
+  "owner": 1161, 
+  "record_id": 805768, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "The development of hooks in larvae of the two isolates of Drosophila gaucha."
+}HTTP/1.1 400 BAD REQUEST
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:08:42 GMT
+Content-Type: application/json
+Content-Length: 137
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497128921
+Retry-After: 3598
+X-Sentry-ID: None
+
+{"status": 400, "message": "Validation error.", "errors": [{"field": null, "message": "Minimum one file must be provided.", "code": 10}]}

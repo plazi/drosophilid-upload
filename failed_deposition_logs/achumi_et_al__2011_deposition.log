@@ -1,0 +1,80 @@
+{
+  "conceptrecid": "805056", 
+  "created": "2017-06-09T21:38:48.695987+00:00", 
+  "files": [], 
+  "id": 805057, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/d24a1f2e-3159-409c-81e1-7ad5c150e1aa", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805057/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805057/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805057/files", 
+    "html": "https://zenodo.org/deposit/805057", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805057", 
+    "latest_draft_html": "https://zenodo.org/deposit/805057", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805057/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805057"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Achumi, R."
+      }, 
+      {
+        "name": "Lal, P."
+      }, 
+      {
+        "name": "Yenisetti, S.C."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "1-6", 
+    "journal_title": "Entomon", 
+    "journal_volume": "36", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805057", 
+      "recid": 805057
+    }, 
+    "publication_date": "2011-12-31", 
+    "publication_type": "article", 
+    "title": "Drosophila hegdii, a new species of Drosophila (Diptera: Drosophilidae) from Lumami (Nagaland: India).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:38:48.695995+00:00", 
+  "owner": 1161, 
+  "record_id": 805057, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Drosophila hegdii, a new species of Drosophila (Diptera: Drosophilidae) from Lumami (Nagaland: India)."
+}HTTP/1.1 400 BAD REQUEST
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:38:50 GMT
+Content-Type: application/json
+Content-Length: 137
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497046564
+Retry-After: 2233
+X-Sentry-ID: None
+
+{"status": 400, "message": "Validation error.", "errors": [{"field": null, "message": "Minimum one file must be provided.", "code": 10}]}

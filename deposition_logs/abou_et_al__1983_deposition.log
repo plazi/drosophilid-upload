@@ -1,0 +1,189 @@
+{
+  "conceptrecid": "805043", 
+  "created": "2017-06-09T21:31:20.363028+00:00", 
+  "files": [], 
+  "id": 805044, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/165cedfd-d8df-4f64-809f-70de0ef58dab", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805044/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805044/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805044/files", 
+    "html": "https://zenodo.org/deposit/805044", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805044", 
+    "latest_draft_html": "https://zenodo.org/deposit/805044", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805044/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805044"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Abou-Youssef, A.Y."
+      }, 
+      {
+        "name": "Youssef, M.K."
+      }, 
+      {
+        "name": "Riad, S.A."
+      }, 
+      {
+        "name": "Badr, E.A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "17-30", 
+    "journal_title": "Egypt. J. Genet. Cytol.", 
+    "journal_volume": "12", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805044", 
+      "recid": 805044
+    }, 
+    "publication_date": "1983-01-31", 
+    "publication_type": "article", 
+    "title": "Seasonal fluctuations of esterase-6 allelic frequencies of Drosophila melanogaster in an area heavily sprayed with insecticides.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:31:20.363034+00:00", 
+  "owner": 1161, 
+  "record_id": 805044, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Seasonal fluctuations of esterase-6 allelic frequencies of Drosophila melanogaster in an area heavily sprayed with insecticides."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:31:23 GMT
+Content-Type: application/json
+Content-Length: 367
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497047481
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "18466c06fbc2b63117ec911cede8bc50", "filename": "abou_et_al__1983.pdf", "filesize": 339675, "id": "4163e4b7-ee43-4962-9789-efa48c879cd6", "links": {"download": "https://zenodo.org/api/files/165cedfd-d8df-4f64-809f-70de0ef58dab/abou_et_al__1983.pdf", "self": "https://zenodo.org/api/deposit/depositions/805044/files/4163e4b7-ee43-4962-9789-efa48c879cd6"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:31:24 GMT
+Content-Type: application/json
+Content-Length: 2758
+ETag: "2"
+Last-Modified: Fri, 09 Jun 2017 21:31:24 GMT
+Location: https://zenodo.org/api/deposit/depositions/805044
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497047484
+Retry-After: 3599
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805043", 
+  "conceptrecid": "805043", 
+  "created": "2017-06-09T21:31:20.363028+00:00", 
+  "doi": "10.5281/zenodo.805044", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805044", 
+  "files": [
+    {
+      "checksum": "18466c06fbc2b63117ec911cede8bc50", 
+      "filename": "abou_et_al__1983.pdf", 
+      "filesize": 339675, 
+      "id": "4163e4b7-ee43-4962-9789-efa48c879cd6", 
+      "links": {
+        "download": "https://zenodo.org/api/files/165cedfd-d8df-4f64-809f-70de0ef58dab/abou_et_al__1983.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804865/files/4163e4b7-ee43-4962-9789-efa48c879cd6"
+      }
+    }
+  ], 
+  "id": 805044, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805044.svg", 
+    "bucket": "https://zenodo.org/api/files/165cedfd-d8df-4f64-809f-70de0ef58dab", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805043.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805043", 
+    "doi": "https://doi.org/10.5281/zenodo.805044", 
+    "latest": "https://zenodo.org/api/records/805044", 
+    "latest_html": "https://zenodo.org/record/805044", 
+    "record": "https://zenodo.org/api/records/805044", 
+    "record_html": "https://zenodo.org/record/805044"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Abou-Youssef, A.Y."
+      }, 
+      {
+        "name": "Youssef, M.K."
+      }, 
+      {
+        "name": "Riad, S.A."
+      }, 
+      {
+        "name": "Badr, E.A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805044", 
+    "journal_pages": "17-30", 
+    "journal_title": "Egypt. J. Genet. Cytol.", 
+    "journal_volume": "12", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805044", 
+      "recid": 805044
+    }, 
+    "publication_date": "1983-01-31", 
+    "publication_type": "article", 
+    "title": "Seasonal fluctuations of esterase-6 allelic frequencies of Drosophila melanogaster in an area heavily sprayed with insecticides.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:31:24.547134+00:00", 
+  "owner": 1161, 
+  "record_id": 805044, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Seasonal fluctuations of esterase-6 allelic frequencies of Drosophila melanogaster in an area heavily sprayed with insecticides."
+}

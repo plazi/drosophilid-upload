@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805544", 
+  "conceptrecid": "805544", 
+  "created": "2017-06-10T11:55:15.377303+00:00", 
+  "doi": "10.5281/zenodo.805545", 
+  "id": 805545, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805545.svg", 
+    "bucket": "https://zenodo.org/api/files/13135799-fc8f-49f4-aae4-0a88cb980fd4", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805544.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805544", 
+    "doi": "https://doi.org/10.5281/zenodo.805545", 
+    "html": "https://zenodo.org/record/805545", 
+    "latest": "https://zenodo.org/api/records/805545", 
+    "latest_html": "https://zenodo.org/record/805545", 
+    "self": "https://zenodo.org/api/records/805545"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alahiotis, S."
+      }, 
+      {
+        "name": "Zacharopoulou, A."
+      }, 
+      {
+        "name": "Pelecanos, M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805545", 
+    "journal": {
+      "pages": "106-108", 
+      "title": "D. I. S.", 
+      "volume": "52"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1977-05-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805544", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805545"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805544"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "The effect of two ecological factors upon the inversion frequencies in D. melanogaster cage population."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:36:33.844295+00:00"
+}

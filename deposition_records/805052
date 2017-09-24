@@ -1,0 +1,95 @@
+{
+  "conceptdoi": "10.5281/zenodo.805051", 
+  "conceptrecid": "805051", 
+  "created": "2017-06-09T21:31:48.900922+00:00", 
+  "doi": "10.5281/zenodo.805052", 
+  "id": 805052, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805052.svg", 
+    "bucket": "https://zenodo.org/api/files/a1286693-3359-46b9-8b18-af8bc0f55997", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805051.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805051", 
+    "doi": "https://doi.org/10.5281/zenodo.805052", 
+    "html": "https://zenodo.org/record/805052", 
+    "latest": "https://zenodo.org/api/records/805052", 
+    "latest_html": "https://zenodo.org/record/805052", 
+    "self": "https://zenodo.org/api/records/805052"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Abrusan, G."
+      }, 
+      {
+        "name": "Krambeck, H.-J."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805052", 
+    "journal": {
+      "pages": "364-375", 
+      "title": "Theoret. Pop. Biol.", 
+      "volume": "70"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2006-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.1016/j.tpb.2006.05.001", 
+        "relation": "isIdenticalTo", 
+        "scheme": "doi"
+      }, 
+      {
+        "identifier": "10.5281/zenodo.805051", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805052"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805051"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Competition may determine the diversity of transposable elements."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 6, 
+  "updated": "2017-09-22T17:21:29.951557+00:00"
+}

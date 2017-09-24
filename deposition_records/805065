@@ -1,0 +1,105 @@
+{
+  "conceptdoi": "10.5281/zenodo.805064", 
+  "conceptrecid": "805064", 
+  "created": "2017-06-09T21:39:16.099714+00:00", 
+  "doi": "10.5281/zenodo.805065", 
+  "id": 805065, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805065.svg", 
+    "bucket": "https://zenodo.org/api/files/2eba0127-30f3-4aae-a980-cba6c10a7077", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805064.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805064", 
+    "doi": "https://doi.org/10.5281/zenodo.805065", 
+    "html": "https://zenodo.org/record/805065", 
+    "latest": "https://zenodo.org/api/records/805065", 
+    "latest_html": "https://zenodo.org/record/805065", 
+    "self": "https://zenodo.org/api/records/805065"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Acosta, T."
+      }, 
+      {
+        "name": "Pinto, F."
+      }, 
+      {
+        "name": "Hernandez, M."
+      }, 
+      {
+        "name": "Gonzalez, A.M."
+      }, 
+      {
+        "name": "Cabrera, V.M."
+      }, 
+      {
+        "name": "Larruga, J.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805065", 
+    "journal": {
+      "pages": "101-108", 
+      "title": "J. Zool. Syst. Evol. Res.", 
+      "volume": "33"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1995-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805064", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805065"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805064"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Phylogeny of the Drosophila obscura group as inferred from one- and two-dimensional protein electrophoresis."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:43:45.750817+00:00"
+}

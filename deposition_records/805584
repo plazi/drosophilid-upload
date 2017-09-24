@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805583", 
+  "conceptrecid": "805583", 
+  "created": "2017-06-10T13:14:59.589689+00:00", 
+  "doi": "10.5281/zenodo.805584", 
+  "id": 805584, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805584.svg", 
+    "bucket": "https://zenodo.org/api/files/85ca73b5-54e2-474d-a2e8-9ff01073ab73", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805583.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805583", 
+    "doi": "https://doi.org/10.5281/zenodo.805584", 
+    "html": "https://zenodo.org/record/805584", 
+    "latest": "https://zenodo.org/api/records/805584", 
+    "latest_html": "https://zenodo.org/record/805584", 
+    "self": "https://zenodo.org/api/records/805584"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aldrich, J.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805584", 
+    "journal": {
+      "pages": "1-680", 
+      "title": "Smithson. misc. Collns", 
+      "volume": "46"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1005-05-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805583", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805584"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805583"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "A Catalogue of North American Diptera (or Two-winged Flies)."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:41:45.821539+00:00"
+}

@@ -1,0 +1,175 @@
+{
+  "conceptrecid": "805676", 
+  "created": "2017-06-10T16:20:45.884520+00:00", 
+  "files": [], 
+  "id": 805677, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/88d25516-92cd-4571-9e5f-7e3c42649d13", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805677/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805677/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805677/files", 
+    "html": "https://zenodo.org/deposit/805677", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805677", 
+    "latest_draft_html": "https://zenodo.org/deposit/805677", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805677/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805677"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "de Almeida, G.R."
+      }, 
+      {
+        "name": "Reyes, F.G.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "15-23", 
+    "journal_title": "Revta Inst. Adolfo Lutz", 
+    "journal_volume": "58", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805677", 
+      "recid": 805677
+    }, 
+    "publication_date": "2000-12-31", 
+    "publication_type": "article", 
+    "title": "Drosophila melanogaster Meigen: 1. Sensibilidade ao endosulfan e biomonitoramento de seus residuos em couve-manteiga.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:20:45.884535+00:00", 
+  "owner": 1161, 
+  "record_id": 805677, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Drosophila melanogaster Meigen: 1. Sensibilidade ao endosulfan e biomonitoramento de seus residuos em couve-manteiga."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:20:49 GMT
+Content-Type: application/json
+Content-Length: 373
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497115195
+Retry-After: 3545
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "0cc89bf359d9244ba2c3dd841b4c3ab2", "filename": "almeida__reyes_2000.pdf", "filesize": 342573, "id": "fb845e86-4dc1-4902-a82b-4e3a2101bf8c", "links": {"download": "https://zenodo.org/api/files/88d25516-92cd-4571-9e5f-7e3c42649d13/almeida__reyes_2000.pdf", "self": "https://zenodo.org/api/deposit/depositions/805677/files/fb845e86-4dc1-4902-a82b-4e3a2101bf8c"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:20:50 GMT
+Content-Type: application/json
+Content-Length: 2619
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:20:50 GMT
+Location: https://zenodo.org/api/deposit/depositions/805677
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497114534
+Retry-After: 2883
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805676", 
+  "conceptrecid": "805676", 
+  "created": "2017-06-10T16:20:45.884520+00:00", 
+  "doi": "10.5281/zenodo.805677", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805677", 
+  "files": [
+    {
+      "checksum": "0cc89bf359d9244ba2c3dd841b4c3ab2", 
+      "filename": "almeida__reyes_2000.pdf", 
+      "filesize": 342573, 
+      "id": "fb845e86-4dc1-4902-a82b-4e3a2101bf8c", 
+      "links": {
+        "download": "https://zenodo.org/api/files/88d25516-92cd-4571-9e5f-7e3c42649d13/almeida__reyes_2000.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804612/files/fb845e86-4dc1-4902-a82b-4e3a2101bf8c"
+      }
+    }
+  ], 
+  "id": 805677, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805677.svg", 
+    "bucket": "https://zenodo.org/api/files/88d25516-92cd-4571-9e5f-7e3c42649d13", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805676.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805676", 
+    "doi": "https://doi.org/10.5281/zenodo.805677", 
+    "latest": "https://zenodo.org/api/records/805677", 
+    "latest_html": "https://zenodo.org/record/805677", 
+    "record": "https://zenodo.org/api/records/805677", 
+    "record_html": "https://zenodo.org/record/805677"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "de Almeida, G.R."
+      }, 
+      {
+        "name": "Reyes, F.G.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805677", 
+    "journal_pages": "15-23", 
+    "journal_title": "Revta Inst. Adolfo Lutz", 
+    "journal_volume": "58", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805677", 
+      "recid": 805677
+    }, 
+    "publication_date": "2000-12-31", 
+    "publication_type": "article", 
+    "title": "Drosophila melanogaster Meigen: 1. Sensibilidade ao endosulfan e biomonitoramento de seus residuos em couve-manteiga.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:20:50.663570+00:00", 
+  "owner": 1161, 
+  "record_id": 805677, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Drosophila melanogaster Meigen: 1. Sensibilidade ao endosulfan e biomonitoramento de seus residuos em couve-manteiga."
+}

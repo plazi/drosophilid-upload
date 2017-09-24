@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805054", 
+  "conceptrecid": "805054", 
+  "created": "2017-06-09T21:38:46.424011+00:00", 
+  "doi": "10.5281/zenodo.805055", 
+  "id": 805055, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805055.svg", 
+    "bucket": "https://zenodo.org/api/files/1f628113-ae66-49c8-add5-d52320ff3347", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805054.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805054", 
+    "doi": "https://doi.org/10.5281/zenodo.805055", 
+    "html": "https://zenodo.org/record/805055", 
+    "latest": "https://zenodo.org/api/records/805055", 
+    "latest_html": "https://zenodo.org/record/805055", 
+    "self": "https://zenodo.org/api/records/805055"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "van Achterberg, C."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805055", 
+    "journal": {
+      "pages": "12-15", 
+      "title": "Ent. Ber., Amst.", 
+      "volume": "36"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "notspecified"
+    }, 
+    "publication_date": "1976-01-01", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805054", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805055"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805054"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "A new species of Tanycarpa Foerster from England (Hymenoptera, Braconidae, Alysiinae)."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-08-02T07:11:09.915908+00:00"
+}

@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805090", 
+  "conceptrecid": "805090", 
+  "created": "2017-06-09T21:55:37.164828+00:00", 
+  "doi": "10.5281/zenodo.805091", 
+  "id": 805091, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805091.svg", 
+    "bucket": "https://zenodo.org/api/files/0ba2d26d-1bc2-4860-a3eb-31f91f0e86ca", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805090.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805090", 
+    "doi": "https://doi.org/10.5281/zenodo.805091", 
+    "html": "https://zenodo.org/record/805091", 
+    "latest": "https://zenodo.org/api/records/805091", 
+    "latest_html": "https://zenodo.org/record/805091", 
+    "self": "https://zenodo.org/api/records/805091"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aders, W.M."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805091", 
+    "journal": {
+      "pages": "391-401", 
+      "title": "Bull. Ent. Res.", 
+      "volume": "7"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "notspecified"
+    }, 
+    "publication_date": "1917-06-18", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805090", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805091"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805090"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Insects injurious to man and stock in Zanzibar."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-08-02T07:14:18.446737+00:00"
+}

@@ -1,0 +1,183 @@
+{
+  "conceptrecid": "805797", 
+  "created": "2017-06-10T20:10:22.077202+00:00", 
+  "files": [], 
+  "id": 805798, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/72927e17-1eec-43d3-87cd-b035b73df323", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805798/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805798/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805798/files", 
+    "html": "https://zenodo.org/deposit/805798", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805798", 
+    "latest_draft_html": "https://zenodo.org/deposit/805798", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805798/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805798"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amoudi, M.A."
+      }, 
+      {
+        "name": "Diab, F.M."
+      }, 
+      {
+        "name": "and Abou-Fannah, S.S.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "263-274", 
+    "journal_title": "J. King Saud Univ.", 
+    "journal_volume": "5", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805798", 
+      "recid": 805798
+    }, 
+    "publication_date": "1993-12-31", 
+    "publication_type": "article", 
+    "title": "The Influence of Low Temperature on Development, Adult Longevity and Productivity of Zaprionus indiana Gupta (Diptera: Drosophilidae).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:10:22.077209+00:00", 
+  "owner": 1161, 
+  "record_id": 805798, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "The Influence of Low Temperature on Development, Adult Longevity and Productivity of Zaprionus indiana Gupta (Diptera: Drosophilidae)."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:10:25 GMT
+Content-Type: application/json
+Content-Length: 373
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497128974
+Retry-After: 3548
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "d6cb572036e40de4ba669291c788117b", "filename": "amoudi_et_al__1993a.pdf", "filesize": 331518, "id": "e243fd93-804f-4a91-a632-1489a7984c8e", "links": {"download": "https://zenodo.org/api/files/72927e17-1eec-43d3-87cd-b035b73df323/amoudi_et_al__1993a.pdf", "self": "https://zenodo.org/api/deposit/depositions/805798/files/e243fd93-804f-4a91-a632-1489a7984c8e"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:10:27 GMT
+Content-Type: application/json
+Content-Length: 2729
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 20:10:26 GMT
+Location: https://zenodo.org/api/deposit/depositions/805798
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497129026
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805797", 
+  "conceptrecid": "805797", 
+  "created": "2017-06-10T20:10:22.077202+00:00", 
+  "doi": "10.5281/zenodo.805798", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805798", 
+  "files": [
+    {
+      "checksum": "d6cb572036e40de4ba669291c788117b", 
+      "filename": "amoudi_et_al__1993a.pdf", 
+      "filesize": 331518, 
+      "id": "e243fd93-804f-4a91-a632-1489a7984c8e", 
+      "links": {
+        "download": "https://zenodo.org/api/files/72927e17-1eec-43d3-87cd-b035b73df323/amoudi_et_al__1993a.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/322378/files/e243fd93-804f-4a91-a632-1489a7984c8e"
+      }
+    }
+  ], 
+  "id": 805798, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805798.svg", 
+    "bucket": "https://zenodo.org/api/files/72927e17-1eec-43d3-87cd-b035b73df323", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805797.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805797", 
+    "doi": "https://doi.org/10.5281/zenodo.805798", 
+    "latest": "https://zenodo.org/api/records/805798", 
+    "latest_html": "https://zenodo.org/record/805798", 
+    "record": "https://zenodo.org/api/records/805798", 
+    "record_html": "https://zenodo.org/record/805798"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amoudi, M.A."
+      }, 
+      {
+        "name": "Diab, F.M."
+      }, 
+      {
+        "name": "and Abou-Fannah, S.S.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805798", 
+    "journal_pages": "263-274", 
+    "journal_title": "J. King Saud Univ.", 
+    "journal_volume": "5", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805798", 
+      "recid": 805798
+    }, 
+    "publication_date": "1993-12-31", 
+    "publication_type": "article", 
+    "title": "The Influence of Low Temperature on Development, Adult Longevity and Productivity of Zaprionus indiana Gupta (Diptera: Drosophilidae).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:10:26.867151+00:00", 
+  "owner": 1161, 
+  "record_id": 805798, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "The Influence of Low Temperature on Development, Adult Longevity and Productivity of Zaprionus indiana Gupta (Diptera: Drosophilidae)."
+}

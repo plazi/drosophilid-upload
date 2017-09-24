@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805638", 
+  "conceptrecid": "805638", 
+  "created": "2017-06-10T16:09:59.903427+00:00", 
+  "doi": "10.5281/zenodo.805639", 
+  "id": 805639, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805639.svg", 
+    "bucket": "https://zenodo.org/api/files/1549af1d-694f-40cc-a609-58f5049ac8aa", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805638.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805638", 
+    "doi": "https://doi.org/10.5281/zenodo.805639", 
+    "html": "https://zenodo.org/record/805639", 
+    "latest": "https://zenodo.org/api/records/805639", 
+    "latest_html": "https://zenodo.org/record/805639", 
+    "self": "https://zenodo.org/api/records/805639"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allemand, R."
+      }, 
+      {
+        "name": "Cohet, Y."
+      }, 
+      {
+        "name": "David, J."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805639", 
+    "journal": {
+      "pages": "279-283", 
+      "title": "Exp. Gerontol.", 
+      "volume": "8"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1973-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805638", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805639"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805638"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Increase in the longevity of adult Drosophila melanogaster kept in permanent darkness."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:55:02.309749+00:00"
+}

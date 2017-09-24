@@ -1,0 +1,181 @@
+{
+  "conceptrecid": "805630", 
+  "created": "2017-06-10T16:09:33.524806+00:00", 
+  "files": [], 
+  "id": 805631, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/ba56223a-410d-427f-9d34-ae8a63b26bde", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805631/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805631/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805631/files", 
+    "html": "https://zenodo.org/deposit/805631", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805631", 
+    "latest_draft_html": "https://zenodo.org/deposit/805631", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805631/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805631"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alipaz, J.A."
+      }, 
+      {
+        "name": "Wu, C.-I."
+      }, 
+      {
+        "name": "Karr, T.L."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "789-795", 
+    "journal_title": "Proc. r. Soc.", 
+    "journal_volume": "268", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805631", 
+      "recid": 805631
+    }, 
+    "publication_date": "2001-12-31", 
+    "publication_type": "article", 
+    "title": "Gametic incompatibilities between races of Drosophila melanogaster.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:09:33.524812+00:00", 
+  "owner": 1161, 
+  "record_id": 805631, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Gametic incompatibilities between races of Drosophila melanogaster."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:09:36 GMT
+Content-Type: application/json
+Content-Length: 371
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497114383
+Retry-After: 3406
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "fe76f005e9c33ad439ea50c488712dc9", "filename": "alipaz_et_al__2001.pdf", "filesize": 397831, "id": "5e169744-b987-40aa-8aa0-94e97cc4c204", "links": {"download": "https://zenodo.org/api/files/ba56223a-410d-427f-9d34-ae8a63b26bde/alipaz_et_al__2001.pdf", "self": "https://zenodo.org/api/deposit/depositions/805631/files/5e169744-b987-40aa-8aa0-94e97cc4c204"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:09:38 GMT
+Content-Type: application/json
+Content-Length: 2549
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:09:37 GMT
+Location: https://zenodo.org/api/deposit/depositions/805631
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497114399
+Retry-After: 3420
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805630", 
+  "conceptrecid": "805630", 
+  "created": "2017-06-10T16:09:33.524806+00:00", 
+  "doi": "10.5281/zenodo.805631", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805631", 
+  "files": [
+    {
+      "checksum": "fe76f005e9c33ad439ea50c488712dc9", 
+      "filename": "alipaz_et_al__2001.pdf", 
+      "filesize": 397831, 
+      "id": "5e169744-b987-40aa-8aa0-94e97cc4c204", 
+      "links": {
+        "download": "https://zenodo.org/api/files/ba56223a-410d-427f-9d34-ae8a63b26bde/alipaz_et_al__2001.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804711/files/5e169744-b987-40aa-8aa0-94e97cc4c204"
+      }
+    }
+  ], 
+  "id": 805631, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805631.svg", 
+    "bucket": "https://zenodo.org/api/files/ba56223a-410d-427f-9d34-ae8a63b26bde", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805630.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805630", 
+    "doi": "https://doi.org/10.5281/zenodo.805631", 
+    "latest": "https://zenodo.org/api/records/805631", 
+    "latest_html": "https://zenodo.org/record/805631", 
+    "record": "https://zenodo.org/api/records/805631", 
+    "record_html": "https://zenodo.org/record/805631"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alipaz, J.A."
+      }, 
+      {
+        "name": "Wu, C.-I."
+      }, 
+      {
+        "name": "Karr, T.L."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805631", 
+    "journal_pages": "789-795", 
+    "journal_title": "Proc. r. Soc.", 
+    "journal_volume": "268", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805631", 
+      "recid": 805631
+    }, 
+    "publication_date": "2001-12-31", 
+    "publication_type": "article", 
+    "title": "Gametic incompatibilities between races of Drosophila melanogaster.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:09:37.875165+00:00", 
+  "owner": 1161, 
+  "record_id": 805631, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Gametic incompatibilities between races of Drosophila melanogaster."
+}

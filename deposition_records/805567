@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805566", 
+  "conceptrecid": "805566", 
+  "created": "2017-06-10T13:12:50.565503+00:00", 
+  "doi": "10.5281/zenodo.805567", 
+  "id": 805567, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805567.svg", 
+    "bucket": "https://zenodo.org/api/files/f1718417-a116-4407-a192-9bcb7d6efb1d", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805566.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805566", 
+    "doi": "https://doi.org/10.5281/zenodo.805567", 
+    "html": "https://zenodo.org/record/805567", 
+    "latest": "https://zenodo.org/api/records/805567", 
+    "latest_html": "https://zenodo.org/record/805567", 
+    "self": "https://zenodo.org/api/records/805567"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alberola, T.M."
+      }, 
+      {
+        "name": "de Frutos, R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805567", 
+    "journal": {
+      "pages": "127-135", 
+      "title": "J. molec. Evol.", 
+      "volume": "36"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1993-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805566", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805567"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805566"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Gypsy Homologous Sequences in Drosophila subobscura (gypsyDS)."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:00:30.142621+00:00"
+}

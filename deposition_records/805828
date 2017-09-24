@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805827", 
+  "conceptrecid": "805827", 
+  "created": "2017-06-10T20:11:58.933953+00:00", 
+  "doi": "10.5281/zenodo.805828", 
+  "id": 805828, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805828.svg", 
+    "bucket": "https://zenodo.org/api/files/daf18951-45fd-47ec-a50a-8c0c7a7bd1a7", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805827.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805827", 
+    "doi": "https://doi.org/10.5281/zenodo.805828", 
+    "html": "https://zenodo.org/record/805828", 
+    "latest": "https://zenodo.org/api/records/805828", 
+    "latest_html": "https://zenodo.org/record/805828", 
+    "self": "https://zenodo.org/api/records/805828"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Anderson, P.R."
+      }, 
+      {
+        "name": "Oakeshott, J.G."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805828", 
+    "journal": {
+      "pages": "729-731", 
+      "title": "Nature", 
+      "volume": "308"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1984-04-19", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805827", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805828"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805827"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Parallel geographical patterns of allozyme variation in two sibling Drosophila species."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:08:00.872892+00:00"
+}

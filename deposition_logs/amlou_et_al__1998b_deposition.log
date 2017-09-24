@@ -1,0 +1,183 @@
+{
+  "conceptrecid": "805787", 
+  "created": "2017-06-10T20:09:46.037324+00:00", 
+  "files": [], 
+  "id": 805788, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/eb16b063-53f0-4d1d-af18-915729923e20", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805788/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805788/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805788/files", 
+    "html": "https://zenodo.org/deposit/805788", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805788", 
+    "latest_draft_html": "https://zenodo.org/deposit/805788", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805788/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805788"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amlou, M."
+      }, 
+      {
+        "name": "Moreteau, B."
+      }, 
+      {
+        "name": "David, J.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "455-464", 
+    "journal_title": "Behav. Genet.", 
+    "journal_volume": "28", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805788", 
+      "recid": 805788
+    }, 
+    "publication_date": "1998-12-31", 
+    "publication_type": "article", 
+    "title": "Genetic Analysis of Drosophila sechellia Specialization: Oviposition Behavior Toward the Major Aliphatic Acids of Its Host Plant.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:09:46.037341+00:00", 
+  "owner": 1161, 
+  "record_id": 805788, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Genetic Analysis of Drosophila sechellia Specialization: Oviposition Behavior Toward the Major Aliphatic Acids of Its Host Plant."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:09:54 GMT
+Content-Type: application/json
+Content-Length: 371
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497128813
+Retry-After: 3418
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "c3e942e1d07da77dcc360037b722400f", "filename": "amlou_et_al__1998b.pdf", "filesize": 981813, "id": "7c418812-58a5-433a-9d69-9071d6facef9", "links": {"download": "https://zenodo.org/api/files/eb16b063-53f0-4d1d-af18-915729923e20/amlou_et_al__1998b.pdf", "self": "https://zenodo.org/api/deposit/depositions/805788/files/7c418812-58a5-433a-9d69-9071d6facef9"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:09:56 GMT
+Content-Type: application/json
+Content-Length: 2700
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 20:09:56 GMT
+Location: https://zenodo.org/api/deposit/depositions/805788
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497128995
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805787", 
+  "conceptrecid": "805787", 
+  "created": "2017-06-10T20:09:46.037324+00:00", 
+  "doi": "10.5281/zenodo.805788", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805788", 
+  "files": [
+    {
+      "checksum": "c3e942e1d07da77dcc360037b722400f", 
+      "filename": "amlou_et_al__1998b.pdf", 
+      "filesize": 981813, 
+      "id": "7c418812-58a5-433a-9d69-9071d6facef9", 
+      "links": {
+        "download": "https://zenodo.org/api/files/eb16b063-53f0-4d1d-af18-915729923e20/amlou_et_al__1998b.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804610/files/7c418812-58a5-433a-9d69-9071d6facef9"
+      }
+    }
+  ], 
+  "id": 805788, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805788.svg", 
+    "bucket": "https://zenodo.org/api/files/eb16b063-53f0-4d1d-af18-915729923e20", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805787.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805787", 
+    "doi": "https://doi.org/10.5281/zenodo.805788", 
+    "latest": "https://zenodo.org/api/records/805788", 
+    "latest_html": "https://zenodo.org/record/805788", 
+    "record": "https://zenodo.org/api/records/805788", 
+    "record_html": "https://zenodo.org/record/805788"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amlou, M."
+      }, 
+      {
+        "name": "Moreteau, B."
+      }, 
+      {
+        "name": "David, J.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805788", 
+    "journal_pages": "455-464", 
+    "journal_title": "Behav. Genet.", 
+    "journal_volume": "28", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805788", 
+      "recid": 805788
+    }, 
+    "publication_date": "1998-12-31", 
+    "publication_type": "article", 
+    "title": "Genetic Analysis of Drosophila sechellia Specialization: Oviposition Behavior Toward the Major Aliphatic Acids of Its Host Plant.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:09:56.271679+00:00", 
+  "owner": 1161, 
+  "record_id": 805788, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Genetic Analysis of Drosophila sechellia Specialization: Oviposition Behavior Toward the Major Aliphatic Acids of Its Host Plant."
+}

@@ -1,0 +1,183 @@
+{
+  "conceptrecid": "805749", 
+  "created": "2017-06-10T20:07:41.809814+00:00", 
+  "files": [], 
+  "id": 805750, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/79f0d198-1668-4ebe-a6b6-ea734e9ac67e", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805750/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805750/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805750/files", 
+    "html": "https://zenodo.org/deposit/805750", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805750", 
+    "latest_draft_html": "https://zenodo.org/deposit/805750", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805750/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805750"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "van Alphen, J.J.M."
+      }, 
+      {
+        "name": "Visser, M.E."
+      }, 
+      {
+        "name": "Nell, H.W."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "528-535", 
+    "journal_title": "Funct. Ecol.", 
+    "journal_volume": "6", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805750", 
+      "recid": 805750
+    }, 
+    "publication_date": "1992-12-31", 
+    "publication_type": "article", 
+    "title": "Adaptive superparasitism and patch time allocation in solitary parasitoids: searching in groups vs sequential patch visits.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:07:41.809821+00:00", 
+  "owner": 1161, 
+  "record_id": 805750, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Adaptive superparasitism and patch time allocation in solitary parasitoids: searching in groups vs sequential patch visits."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:07:44 GMT
+Content-Type: application/json
+Content-Length: 371
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497128863
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "93122ee8709e31e4828e9ba50f029df2", "filename": "alphen_et_al__1992.pdf", "filesize": 120921, "id": "ca1105dd-45b7-4502-8e7e-69118fa24902", "links": {"download": "https://zenodo.org/api/files/79f0d198-1668-4ebe-a6b6-ea734e9ac67e/alphen_et_al__1992.pdf", "self": "https://zenodo.org/api/deposit/depositions/805750/files/ca1105dd-45b7-4502-8e7e-69118fa24902"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:07:46 GMT
+Content-Type: application/json
+Content-Length: 2694
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 20:07:46 GMT
+Location: https://zenodo.org/api/deposit/depositions/805750
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497128865
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805749", 
+  "conceptrecid": "805749", 
+  "created": "2017-06-10T20:07:41.809814+00:00", 
+  "doi": "10.5281/zenodo.805750", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805750", 
+  "files": [
+    {
+      "checksum": "93122ee8709e31e4828e9ba50f029df2", 
+      "filename": "alphen_et_al__1992.pdf", 
+      "filesize": 120921, 
+      "id": "ca1105dd-45b7-4502-8e7e-69118fa24902", 
+      "links": {
+        "download": "https://zenodo.org/api/files/79f0d198-1668-4ebe-a6b6-ea734e9ac67e/alphen_et_al__1992.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/128482/files/ca1105dd-45b7-4502-8e7e-69118fa24902"
+      }
+    }
+  ], 
+  "id": 805750, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805750.svg", 
+    "bucket": "https://zenodo.org/api/files/79f0d198-1668-4ebe-a6b6-ea734e9ac67e", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805749.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805749", 
+    "doi": "https://doi.org/10.5281/zenodo.805750", 
+    "latest": "https://zenodo.org/api/records/805750", 
+    "latest_html": "https://zenodo.org/record/805750", 
+    "record": "https://zenodo.org/api/records/805750", 
+    "record_html": "https://zenodo.org/record/805750"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "van Alphen, J.J.M."
+      }, 
+      {
+        "name": "Visser, M.E."
+      }, 
+      {
+        "name": "Nell, H.W."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805750", 
+    "journal_pages": "528-535", 
+    "journal_title": "Funct. Ecol.", 
+    "journal_volume": "6", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805750", 
+      "recid": 805750
+    }, 
+    "publication_date": "1992-12-31", 
+    "publication_type": "article", 
+    "title": "Adaptive superparasitism and patch time allocation in solitary parasitoids: searching in groups vs sequential patch visits.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:07:46.144144+00:00", 
+  "owner": 1161, 
+  "record_id": 805750, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Adaptive superparasitism and patch time allocation in solitary parasitoids: searching in groups vs sequential patch visits."
+}

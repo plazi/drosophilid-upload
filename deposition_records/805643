@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805642", 
+  "conceptrecid": "805642", 
+  "created": "2017-06-10T16:10:13.027651+00:00", 
+  "doi": "10.5281/zenodo.805643", 
+  "id": 805643, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805643.svg", 
+    "bucket": "https://zenodo.org/api/files/54aeb705-161e-4e40-bd9a-db3dd96d6e55", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805642.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805642", 
+    "doi": "https://doi.org/10.5281/zenodo.805643", 
+    "html": "https://zenodo.org/record/805643", 
+    "latest": "https://zenodo.org/api/records/805643", 
+    "latest_html": "https://zenodo.org/record/805643", 
+    "self": "https://zenodo.org/api/records/805643"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allemand, R."
+      }, 
+      {
+        "name": "Fouillet, P."
+      }, 
+      {
+        "name": "David, J.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805643", 
+    "journal": {
+      "pages": "27-44", 
+      "title": "Genet. Sel. Evol.", 
+      "volume": "16"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1984-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805642", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805643"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805642"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Variabilite genetique du rythme circadien de ponte dans les populations naturelles de Drosophila melanogaster."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:51:18.427007+00:00"
+}

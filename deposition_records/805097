@@ -1,0 +1,111 @@
+{
+  "conceptdoi": "10.5281/zenodo.805096", 
+  "conceptrecid": "805096", 
+  "created": "2017-06-09T21:55:54.739568+00:00", 
+  "doi": "10.5281/zenodo.805097", 
+  "id": 805097, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805097.svg", 
+    "bucket": "https://zenodo.org/api/files/457a8625-ae81-4346-a667-4eaf1cb044de", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805096.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805096", 
+    "doi": "https://doi.org/10.5281/zenodo.805097", 
+    "html": "https://zenodo.org/record/805097", 
+    "latest": "https://zenodo.org/api/records/805097", 
+    "latest_html": "https://zenodo.org/record/805097", 
+    "self": "https://zenodo.org/api/records/805097"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Afonso, J.M."
+      }, 
+      {
+        "name": "Volz, A."
+      }, 
+      {
+        "name": "Hernandez, M."
+      }, 
+      {
+        "name": "Ruttkay, H."
+      }, 
+      {
+        "name": "Gonzalez, M."
+      }, 
+      {
+        "name": "Larruga, J.M."
+      }, 
+      {
+        "name": "Cabrera, V.M."
+      }, 
+      {
+        "name": "Sperlich, D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805097", 
+    "journal": {
+      "pages": "123-142", 
+      "title": "Molec. Biol. Evol.", 
+      "volume": "7"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1990-03-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805096", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805097"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805096"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Mitochondrial DNA Variation and Genetic Structure in Old-World Populations of Drosophila subobscura."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:05:02.298959+00:00"
+}

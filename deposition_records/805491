@@ -1,0 +1,99 @@
+{
+  "conceptdoi": "10.5281/zenodo.805490", 
+  "conceptrecid": "805490", 
+  "created": "2017-06-10T11:52:51.441409+00:00", 
+  "doi": "10.5281/zenodo.805491", 
+  "id": 805491, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805491.svg", 
+    "bucket": "https://zenodo.org/api/files/a45e4b07-0e7b-4de2-905a-5ccbd5771d10", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805490.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805490", 
+    "doi": "https://doi.org/10.5281/zenodo.805491", 
+    "html": "https://zenodo.org/record/805491", 
+    "latest": "https://zenodo.org/api/records/805491", 
+    "latest_html": "https://zenodo.org/record/805491", 
+    "self": "https://zenodo.org/api/records/805491"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ahearn, J.N."
+      }, 
+      {
+        "name": "Carson, H.L."
+      }, 
+      {
+        "name": "Dobzhansky, T."
+      }, 
+      {
+        "name": "and Kaneshiro, K.Y."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805491", 
+    "journal": {
+      "pages": "901-903", 
+      "title": "Proc. Natl. Acad. Sci. USA", 
+      "volume": "71"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1974-03-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805490", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805491"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805490"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Ethological Isolation Among Three Species of the planitibia Subgroup of Hawaiian Drosophila."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:59:56.675928+00:00"
+}

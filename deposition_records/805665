@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805664", 
+  "conceptrecid": "805664", 
+  "created": "2017-06-10T16:20:16.773813+00:00", 
+  "doi": "10.5281/zenodo.805665", 
+  "id": 805665, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805665.svg", 
+    "bucket": "https://zenodo.org/api/files/316038e1-1fc6-4066-b0eb-16df94d8858b", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805664.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805664", 
+    "doi": "https://doi.org/10.5281/zenodo.805665", 
+    "html": "https://zenodo.org/record/805665", 
+    "latest": "https://zenodo.org/api/records/805665", 
+    "latest_html": "https://zenodo.org/record/805665", 
+    "self": "https://zenodo.org/api/records/805665"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allen, W.R."
+      }, 
+      {
+        "name": "Askew, W.L."
+      }, 
+      {
+        "name": "Schreiber, K."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805665", 
+    "journal": {
+      "pages": "178-181", 
+      "title": "J. econ. Ent.", 
+      "volume": "54"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1961-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805664", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805665"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805664"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Insecticidal Control of the Sugar-Beet Root Maggot and Yield of Sugar Beets."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:47:56.979603+00:00"
+}

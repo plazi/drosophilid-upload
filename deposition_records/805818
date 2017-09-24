@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805817", 
+  "conceptrecid": "805817", 
+  "created": "2017-06-10T20:11:29.950592+00:00", 
+  "doi": "10.5281/zenodo.805818", 
+  "id": 805818, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805818.svg", 
+    "bucket": "https://zenodo.org/api/files/2a4a5a29-fbd7-48b4-a21f-45c19855a6c2", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805817.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805817", 
+    "doi": "https://doi.org/10.5281/zenodo.805818", 
+    "html": "https://zenodo.org/record/805818", 
+    "latest": "https://zenodo.org/api/records/805818", 
+    "latest_html": "https://zenodo.org/record/805818", 
+    "self": "https://zenodo.org/api/records/805818"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Anderson, W.W."
+      }, 
+      {
+        "name": "Ehrman, L."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805818", 
+    "journal": {
+      "pages": "47-53", 
+      "title": "Am. Midl. Nat.", 
+      "volume": "81"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1969-01-29", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805817", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805818"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805817"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Mating Choice in Crosses between Geographic Populations of Drosophila pseudoobscura."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:32:27.747377+00:00"
+}

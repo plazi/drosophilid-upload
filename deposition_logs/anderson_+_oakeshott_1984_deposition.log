@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805827", 
+  "created": "2017-06-10T20:11:54.652946+00:00", 
+  "files": [], 
+  "id": 805828, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/3a580467-3626-47a2-a57f-971045769b41", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805828/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805828/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805828/files", 
+    "html": "https://zenodo.org/deposit/805828", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805828", 
+    "latest_draft_html": "https://zenodo.org/deposit/805828", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805828/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805828"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Anderson, P.R."
+      }, 
+      {
+        "name": "Oakeshott, J.G."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "729-731", 
+    "journal_title": "Nature", 
+    "journal_volume": "308", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805828", 
+      "recid": 805828
+    }, 
+    "publication_date": "1984-04-19", 
+    "publication_type": "article", 
+    "title": "Parallel geographical patterns of allozyme variation in two sibling Drosophila species.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:11:54.652952+00:00", 
+  "owner": 1161, 
+  "record_id": 805828, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Parallel geographical patterns of allozyme variation in two sibling Drosophila species."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:11:57 GMT
+Content-Type: application/json
+Content-Length: 383
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497128924
+Retry-After: 3406
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "e3fd538811e76d05982be7bd29864985", "filename": "anderson__oakeshott_1984.pdf", "filesize": 313631, "id": "387c90ef-b20c-484b-98e9-68a27192d5d5", "links": {"download": "https://zenodo.org/api/files/3a580467-3626-47a2-a57f-971045769b41/anderson__oakeshott_1984.pdf", "self": "https://zenodo.org/api/deposit/depositions/805828/files/387c90ef-b20c-484b-98e9-68a27192d5d5"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:11:59 GMT
+Content-Type: application/json
+Content-Length: 2582
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 20:11:59 GMT
+Location: https://zenodo.org/api/deposit/depositions/805828
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497129070
+Retry-After: 3550
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805827", 
+  "conceptrecid": "805827", 
+  "created": "2017-06-10T20:11:54.652946+00:00", 
+  "doi": "10.5281/zenodo.805828", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805828", 
+  "files": [
+    {
+      "checksum": "e3fd538811e76d05982be7bd29864985", 
+      "filename": "anderson__oakeshott_1984.pdf", 
+      "filesize": 313631, 
+      "id": "387c90ef-b20c-484b-98e9-68a27192d5d5", 
+      "links": {
+        "download": "https://zenodo.org/api/files/3a580467-3626-47a2-a57f-971045769b41/anderson__oakeshott_1984.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804689/files/387c90ef-b20c-484b-98e9-68a27192d5d5"
+      }
+    }
+  ], 
+  "id": 805828, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805828.svg", 
+    "bucket": "https://zenodo.org/api/files/3a580467-3626-47a2-a57f-971045769b41", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805827.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805827", 
+    "doi": "https://doi.org/10.5281/zenodo.805828", 
+    "latest": "https://zenodo.org/api/records/805828", 
+    "latest_html": "https://zenodo.org/record/805828", 
+    "record": "https://zenodo.org/api/records/805828", 
+    "record_html": "https://zenodo.org/record/805828"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Anderson, P.R."
+      }, 
+      {
+        "name": "Oakeshott, J.G."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805828", 
+    "journal_pages": "729-731", 
+    "journal_title": "Nature", 
+    "journal_volume": "308", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805828", 
+      "recid": 805828
+    }, 
+    "publication_date": "1984-04-19", 
+    "publication_type": "article", 
+    "title": "Parallel geographical patterns of allozyme variation in two sibling Drosophila species.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:11:59.208836+00:00", 
+  "owner": 1161, 
+  "record_id": 805828, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Parallel geographical patterns of allozyme variation in two sibling Drosophila species."
+}

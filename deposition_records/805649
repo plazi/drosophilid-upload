@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805648", 
+  "conceptrecid": "805648", 
+  "created": "2017-06-10T16:19:28.866812+00:00", 
+  "doi": "10.5281/zenodo.805649", 
+  "id": 805649, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805649.svg", 
+    "bucket": "https://zenodo.org/api/files/778f45e7-135c-4dc8-9b72-85a8663487f1", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805648.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805648", 
+    "doi": "https://doi.org/10.5281/zenodo.805649", 
+    "html": "https://zenodo.org/record/805649", 
+    "latest": "https://zenodo.org/api/records/805649", 
+    "latest_html": "https://zenodo.org/record/805649", 
+    "self": "https://zenodo.org/api/records/805649"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allemand, R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805649", 
+    "journal": {
+      "pages": "1-7", 
+      "title": "Genetica", 
+      "volume": "47"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1977-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805648", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805649"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805648"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Le potentiel reproducteur des adultes de Drosophila melanogaster: variations genetiques en reponse aux regimes lumineux."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:37:14.944379+00:00"
+}

@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805574", 
+  "conceptrecid": "805574", 
+  "created": "2017-06-10T13:13:28.783047+00:00", 
+  "doi": "10.5281/zenodo.805575", 
+  "id": 805575, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805575.svg", 
+    "bucket": "https://zenodo.org/api/files/a5af8731-504d-45d5-a663-5637f9991c99", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805574.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805574", 
+    "doi": "https://doi.org/10.5281/zenodo.805575", 
+    "html": "https://zenodo.org/record/805575", 
+    "latest": "https://zenodo.org/api/records/805575", 
+    "latest_html": "https://zenodo.org/record/805575", 
+    "self": "https://zenodo.org/api/records/805575"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "de Albuquerque, C.M.r."
+      }, 
+      {
+        "name": "Napp, M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805575", 
+    "journal": {
+      "pages": "399-407", 
+      "title": "Genetics", 
+      "volume": "98"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1981-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805574", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805575"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805574"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Genetic variability at the esterase-6 locus in natural populations of Drosophila simulans in relation to environmental heterogeneity."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:37:05.664020+00:00"
+}

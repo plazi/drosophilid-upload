@@ -1,0 +1,99 @@
+{
+  "conceptdoi": "10.5281/zenodo.805086", 
+  "conceptrecid": "805086", 
+  "created": "2017-06-09T21:54:08.601275+00:00", 
+  "doi": "10.5281/zenodo.805087", 
+  "id": 805087, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805087.svg", 
+    "bucket": "https://zenodo.org/api/files/a3f72ecf-c88c-444c-a4f8-2c6b53a052c5", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805086.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805086", 
+    "doi": "https://doi.org/10.5281/zenodo.805087", 
+    "html": "https://zenodo.org/record/805087", 
+    "latest": "https://zenodo.org/api/records/805087", 
+    "latest_html": "https://zenodo.org/record/805087", 
+    "self": "https://zenodo.org/api/records/805087"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Adell, J.C."
+      }, 
+      {
+        "name": "Moya, A."
+      }, 
+      {
+        "name": "Molina, V."
+      }, 
+      {
+        "name": "Gonzalez-Candelas, F."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805087", 
+    "journal": {
+      "pages": "39-46", 
+      "title": "Heredity", 
+      "volume": "65"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "notspecified"
+    }, 
+    "publication_date": "1990-08-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805086", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805087"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805086"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "On the analysis of viability data: an example with Drosophila."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 4, 
+  "updated": "2017-09-08T08:08:00.817299+00:00"
+}

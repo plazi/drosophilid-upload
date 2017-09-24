@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805662", 
+  "conceptrecid": "805662", 
+  "created": "2017-06-10T16:20:10.727336+00:00", 
+  "doi": "10.5281/zenodo.805663", 
+  "id": 805663, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805663.svg", 
+    "bucket": "https://zenodo.org/api/files/be18b93c-1552-4edd-9526-59d14dc43ec1", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805662.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805662", 
+    "doi": "https://doi.org/10.5281/zenodo.805663", 
+    "html": "https://zenodo.org/record/805663", 
+    "latest": "https://zenodo.org/api/records/805663", 
+    "latest_html": "https://zenodo.org/record/805663", 
+    "self": "https://zenodo.org/api/records/805663"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allen, A.C."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805663", 
+    "journal": {
+      "pages": "629-637", 
+      "title": "Genetics", 
+      "volume": "63"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1969-11-30", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805662", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805663"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805662"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Lethal frequencies on second and third chromosomes in populations of Drosophila melanogaster."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:38:22.075767+00:00"
+}

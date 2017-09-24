@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805628", 
+  "created": "2017-06-10T16:09:25.946289+00:00", 
+  "files": [], 
+  "id": 805629, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/92de49e0-1440-4e7e-865a-690563d23b41", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805629/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805629/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805629/files", 
+    "html": "https://zenodo.org/deposit/805629", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805629", 
+    "latest_draft_html": "https://zenodo.org/deposit/805629", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805629/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805629"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ali, S.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "131-132", 
+    "journal_title": "Indian J. SugCane Res. Dev.", 
+    "journal_volume": "7", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805629", 
+      "recid": 805629
+    }, 
+    "publication_date": "1963-12-31", 
+    "publication_type": "article", 
+    "title": "A Preliminary Note on the Natural Enemies of sugarcane Mealybug, Pseudococcus saccharifolii (Green) in Bihar (India).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:09:25.946296+00:00", 
+  "owner": 1161, 
+  "record_id": 805629, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "A Preliminary Note on the Natural Enemies of sugarcane Mealybug, Pseudococcus saccharifolii (Green) in Bihar (India)."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:09:30 GMT
+Content-Type: application/json
+Content-Length: 351
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497114389
+Retry-After: 3418
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "0a6cf3c8436f313805fec87da793dd85", "filename": "ali_1963.pdf", "filesize": 213972, "id": "87a57563-a093-404b-b2ee-9a87afc4a164", "links": {"download": "https://zenodo.org/api/files/92de49e0-1440-4e7e-865a-690563d23b41/ali_1963.pdf", "self": "https://zenodo.org/api/deposit/depositions/805629/files/87a57563-a093-404b-b2ee-9a87afc4a164"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:09:32 GMT
+Content-Type: application/json
+Content-Length: 2572
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:09:32 GMT
+Location: https://zenodo.org/api/deposit/depositions/805629
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497114393
+Retry-After: 3420
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805628", 
+  "conceptrecid": "805628", 
+  "created": "2017-06-10T16:09:25.946289+00:00", 
+  "doi": "10.5281/zenodo.805629", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805629", 
+  "files": [
+    {
+      "checksum": "0a6cf3c8436f313805fec87da793dd85", 
+      "filename": "ali_1963.pdf", 
+      "filesize": 213972, 
+      "id": "87a57563-a093-404b-b2ee-9a87afc4a164", 
+      "links": {
+        "download": "https://zenodo.org/api/files/92de49e0-1440-4e7e-865a-690563d23b41/ali_1963.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804771/files/87a57563-a093-404b-b2ee-9a87afc4a164"
+      }
+    }
+  ], 
+  "id": 805629, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805629.svg", 
+    "bucket": "https://zenodo.org/api/files/92de49e0-1440-4e7e-865a-690563d23b41", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805628.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805628", 
+    "doi": "https://doi.org/10.5281/zenodo.805629", 
+    "latest": "https://zenodo.org/api/records/805629", 
+    "latest_html": "https://zenodo.org/record/805629", 
+    "record": "https://zenodo.org/api/records/805629", 
+    "record_html": "https://zenodo.org/record/805629"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ali, S.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805629", 
+    "journal_pages": "131-132", 
+    "journal_title": "Indian J. SugCane Res. Dev.", 
+    "journal_volume": "7", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805629", 
+      "recid": 805629
+    }, 
+    "publication_date": "1963-12-31", 
+    "publication_type": "article", 
+    "title": "A Preliminary Note on the Natural Enemies of sugarcane Mealybug, Pseudococcus saccharifolii (Green) in Bihar (India).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:09:32.196328+00:00", 
+  "owner": 1161, 
+  "record_id": 805629, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "A Preliminary Note on the Natural Enemies of sugarcane Mealybug, Pseudococcus saccharifolii (Green) in Bihar (India)."
+}

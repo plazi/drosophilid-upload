@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805594", 
+  "created": "2017-06-10T16:06:06.221992+00:00", 
+  "files": [], 
+  "id": 805595, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/5f2ae865-a129-44cb-934b-f669496752e0", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805595/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805595/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805595/files", 
+    "html": "https://zenodo.org/deposit/805595", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805595", 
+    "latest_draft_html": "https://zenodo.org/deposit/805595", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805595/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805595"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aldrich, J.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "317-318", 
+    "journal_title": "Ent. News", 
+    "journal_volume": "33", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805595", 
+      "recid": 805595
+    }, 
+    "publication_date": "1922-12-31", 
+    "publication_type": "article", 
+    "title": "(no title).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:06:06.221999+00:00", 
+  "owner": 1161, 
+  "record_id": 805595, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "(no title)."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:06:08 GMT
+Content-Type: application/json
+Content-Length: 358
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497114367
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "5e2f586ba26e5a21e98ff20891f7eab0", "filename": "aldrich_1922.pdf", "filesize": 61675, "id": "ec02ea6a-24e4-4de5-a1e1-b50474f4d455", "links": {"download": "https://zenodo.org/api/files/5f2ae865-a129-44cb-934b-f669496752e0/aldrich_1922.pdf", "self": "https://zenodo.org/api/deposit/depositions/805595/files/ec02ea6a-24e4-4de5-a1e1-b50474f4d455"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:06:10 GMT
+Content-Type: application/json
+Content-Length: 2354
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:06:10 GMT
+Location: https://zenodo.org/api/deposit/depositions/805595
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497114369
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805594", 
+  "conceptrecid": "805594", 
+  "created": "2017-06-10T16:06:06.221992+00:00", 
+  "doi": "10.5281/zenodo.805595", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805595", 
+  "files": [
+    {
+      "checksum": "5e2f586ba26e5a21e98ff20891f7eab0", 
+      "filename": "aldrich_1922.pdf", 
+      "filesize": 61675, 
+      "id": "ec02ea6a-24e4-4de5-a1e1-b50474f4d455", 
+      "links": {
+        "download": "https://zenodo.org/api/files/5f2ae865-a129-44cb-934b-f669496752e0/aldrich_1922.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/128482/files/ec02ea6a-24e4-4de5-a1e1-b50474f4d455"
+      }
+    }
+  ], 
+  "id": 805595, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805595.svg", 
+    "bucket": "https://zenodo.org/api/files/5f2ae865-a129-44cb-934b-f669496752e0", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805594.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805594", 
+    "doi": "https://doi.org/10.5281/zenodo.805595", 
+    "latest": "https://zenodo.org/api/records/805595", 
+    "latest_html": "https://zenodo.org/record/805595", 
+    "record": "https://zenodo.org/api/records/805595", 
+    "record_html": "https://zenodo.org/record/805595"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aldrich, J.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805595", 
+    "journal_pages": "317-318", 
+    "journal_title": "Ent. News", 
+    "journal_volume": "33", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805595", 
+      "recid": 805595
+    }, 
+    "publication_date": "1922-12-31", 
+    "publication_type": "article", 
+    "title": "(no title).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:06:10.075096+00:00", 
+  "owner": 1161, 
+  "record_id": 805595, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "(no title)."
+}

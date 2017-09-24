@@ -1,0 +1,189 @@
+{
+  "conceptrecid": "805600", 
+  "created": "2017-06-10T16:06:21.558511+00:00", 
+  "files": [], 
+  "id": 805601, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/0abcac68-cf5b-45ce-aa9f-f914a9787e8a", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805601/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805601/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805601/files", 
+    "html": "https://zenodo.org/deposit/805601", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805601", 
+    "latest_draft_html": "https://zenodo.org/deposit/805601", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805601/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805601"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alemdar, N."
+      }, 
+      {
+        "name": "McIntyre, R."
+      }, 
+      {
+        "name": "Chang, H.-C."
+      }, 
+      {
+        "name": "Miller, D.D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "1-8", 
+    "journal_title": "Trans. Neb. Acad. Sci.", 
+    "journal_volume": "8", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805601", 
+      "recid": 805601
+    }, 
+    "publication_date": "1980-12-31", 
+    "publication_type": "article", 
+    "title": "The influence of winglessness on mating frequency in species of the Drosophila affinis subgroup.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:06:21.558520+00:00", 
+  "owner": 1161, 
+  "record_id": 805601, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "The influence of winglessness on mating frequency in species of the Drosophila affinis subgroup."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:06:25 GMT
+Content-Type: application/json
+Content-Length: 373
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497114383
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "2bd699b0509cc7e7229277b4b2163822", "filename": "alemdar_et_al__1980.pdf", "filesize": 754455, "id": "b9f8edfe-af38-42f6-b0df-78c40700082a", "links": {"download": "https://zenodo.org/api/files/0abcac68-cf5b-45ce-aa9f-f914a9787e8a/alemdar_et_al__1980.pdf", "self": "https://zenodo.org/api/deposit/depositions/805601/files/b9f8edfe-af38-42f6-b0df-78c40700082a"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:06:27 GMT
+Content-Type: application/json
+Content-Length: 2692
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:06:26 GMT
+Location: https://zenodo.org/api/deposit/depositions/805601
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497114386
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805600", 
+  "conceptrecid": "805600", 
+  "created": "2017-06-10T16:06:21.558511+00:00", 
+  "doi": "10.5281/zenodo.805601", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805601", 
+  "files": [
+    {
+      "checksum": "2bd699b0509cc7e7229277b4b2163822", 
+      "filename": "alemdar_et_al__1980.pdf", 
+      "filesize": 754455, 
+      "id": "b9f8edfe-af38-42f6-b0df-78c40700082a", 
+      "links": {
+        "download": "https://zenodo.org/api/files/0abcac68-cf5b-45ce-aa9f-f914a9787e8a/alemdar_et_al__1980.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804705/files/b9f8edfe-af38-42f6-b0df-78c40700082a"
+      }
+    }
+  ], 
+  "id": 805601, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805601.svg", 
+    "bucket": "https://zenodo.org/api/files/0abcac68-cf5b-45ce-aa9f-f914a9787e8a", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805600.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805600", 
+    "doi": "https://doi.org/10.5281/zenodo.805601", 
+    "latest": "https://zenodo.org/api/records/805601", 
+    "latest_html": "https://zenodo.org/record/805601", 
+    "record": "https://zenodo.org/api/records/805601", 
+    "record_html": "https://zenodo.org/record/805601"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alemdar, N."
+      }, 
+      {
+        "name": "McIntyre, R."
+      }, 
+      {
+        "name": "Chang, H.-C."
+      }, 
+      {
+        "name": "Miller, D.D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805601", 
+    "journal_pages": "1-8", 
+    "journal_title": "Trans. Neb. Acad. Sci.", 
+    "journal_volume": "8", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805601", 
+      "recid": 805601
+    }, 
+    "publication_date": "1980-12-31", 
+    "publication_type": "article", 
+    "title": "The influence of winglessness on mating frequency in species of the Drosophila affinis subgroup.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:06:26.818314+00:00", 
+  "owner": 1161, 
+  "record_id": 805601, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "The influence of winglessness on mating frequency in species of the Drosophila affinis subgroup."
+}

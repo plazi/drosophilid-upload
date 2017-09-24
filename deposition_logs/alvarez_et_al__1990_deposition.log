@@ -1,0 +1,183 @@
+{
+  "conceptrecid": "805759", 
+  "created": "2017-06-10T20:08:13.997253+00:00", 
+  "files": [], 
+  "id": 805760, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/9c533c3b-3201-4994-8e1a-9c1f8bf85282", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805760/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805760/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805760/files", 
+    "html": "https://zenodo.org/deposit/805760", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805760", 
+    "latest_draft_html": "https://zenodo.org/deposit/805760", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805760/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805760"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alvarez, G."
+      }, 
+      {
+        "name": "Martinez, P."
+      }, 
+      {
+        "name": "Zapata, C."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "55-66", 
+    "journal_title": "Heredity", 
+    "journal_volume": "64", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805760", 
+      "recid": 805760
+    }, 
+    "publication_date": "1990-12-31", 
+    "publication_type": "article", 
+    "title": "Genetic variation in a modifier system affecting the expression of Bare mutant of Drosophila subobscura.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:08:13.997259+00:00", 
+  "owner": 1161, 
+  "record_id": 805760, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Genetic variation in a modifier system affecting the expression of Bare mutant of Drosophila subobscura."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:08:16 GMT
+Content-Type: application/json
+Content-Length: 373
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497128895
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "ac3d95493c5f6137cbc1038127593eb7", "filename": "alvarez_et_al__1990.pdf", "filesize": 184495, "id": "e8bd59ce-2b87-4f25-8049-7c7cbee74e72", "links": {"download": "https://zenodo.org/api/files/9c533c3b-3201-4994-8e1a-9c1f8bf85282/alvarez_et_al__1990.pdf", "self": "https://zenodo.org/api/deposit/depositions/805760/files/e8bd59ce-2b87-4f25-8049-7c7cbee74e72"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:08:18 GMT
+Content-Type: application/json
+Content-Length: 2646
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 20:08:18 GMT
+Location: https://zenodo.org/api/deposit/depositions/805760
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497128897
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805759", 
+  "conceptrecid": "805759", 
+  "created": "2017-06-10T20:08:13.997253+00:00", 
+  "doi": "10.5281/zenodo.805760", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805760", 
+  "files": [
+    {
+      "checksum": "ac3d95493c5f6137cbc1038127593eb7", 
+      "filename": "alvarez_et_al__1990.pdf", 
+      "filesize": 184495, 
+      "id": "e8bd59ce-2b87-4f25-8049-7c7cbee74e72", 
+      "links": {
+        "download": "https://zenodo.org/api/files/9c533c3b-3201-4994-8e1a-9c1f8bf85282/alvarez_et_al__1990.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804687/files/e8bd59ce-2b87-4f25-8049-7c7cbee74e72"
+      }
+    }
+  ], 
+  "id": 805760, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805760.svg", 
+    "bucket": "https://zenodo.org/api/files/9c533c3b-3201-4994-8e1a-9c1f8bf85282", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805759.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805759", 
+    "doi": "https://doi.org/10.5281/zenodo.805760", 
+    "latest": "https://zenodo.org/api/records/805760", 
+    "latest_html": "https://zenodo.org/record/805760", 
+    "record": "https://zenodo.org/api/records/805760", 
+    "record_html": "https://zenodo.org/record/805760"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alvarez, G."
+      }, 
+      {
+        "name": "Martinez, P."
+      }, 
+      {
+        "name": "Zapata, C."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805760", 
+    "journal_pages": "55-66", 
+    "journal_title": "Heredity", 
+    "journal_volume": "64", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805760", 
+      "recid": 805760
+    }, 
+    "publication_date": "1990-12-31", 
+    "publication_type": "article", 
+    "title": "Genetic variation in a modifier system affecting the expression of Bare mutant of Drosophila subobscura.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:08:18.204471+00:00", 
+  "owner": 1161, 
+  "record_id": 805760, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Genetic variation in a modifier system affecting the expression of Bare mutant of Drosophila subobscura."
+}

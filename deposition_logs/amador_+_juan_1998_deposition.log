@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805773", 
+  "created": "2017-06-10T20:09:02.427409+00:00", 
+  "files": [], 
+  "id": 805774, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/7ec1805c-289c-49c9-be0f-9387e367abf3", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805774/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805774/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805774/files", 
+    "html": "https://zenodo.org/deposit/805774", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805774", 
+    "latest_draft_html": "https://zenodo.org/deposit/805774", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805774/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805774"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amador, A."
+      }, 
+      {
+        "name": "Juan, E."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "153-154", 
+    "journal_title": "D. I. S.", 
+    "journal_volume": "81", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805774", 
+      "recid": 805774
+    }, 
+    "publication_date": "1998-12-31", 
+    "publication_type": "article", 
+    "title": "Morphology of mouth hooks and anterior spiracles during larval development of D. funebris.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:09:02.427416+00:00", 
+  "owner": 1161, 
+  "record_id": 805774, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Morphology of mouth hooks and anterior spiracles during larval development of D. funebris."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:09:05 GMT
+Content-Type: application/json
+Content-Length: 368
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497128863
+Retry-After: 3517
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "fbe01d4113e31ac950582f4367e1e844", "filename": "amador__juan_1998.pdf", "filesize": 21145, "id": "c7ec8bf5-613c-4b46-be2d-7087b18db65b", "links": {"download": "https://zenodo.org/api/files/7ec1805c-289c-49c9-be0f-9387e367abf3/amador__juan_1998.pdf", "self": "https://zenodo.org/api/deposit/depositions/805774/files/c7ec8bf5-613c-4b46-be2d-7087b18db65b"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:09:06 GMT
+Content-Type: application/json
+Content-Length: 2563
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 20:09:06 GMT
+Location: https://zenodo.org/api/deposit/depositions/805774
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497128897
+Retry-After: 3550
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805773", 
+  "conceptrecid": "805773", 
+  "created": "2017-06-10T20:09:02.427409+00:00", 
+  "doi": "10.5281/zenodo.805774", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805774", 
+  "files": [
+    {
+      "checksum": "fbe01d4113e31ac950582f4367e1e844", 
+      "filename": "amador__juan_1998.pdf", 
+      "filesize": 21145, 
+      "id": "c7ec8bf5-613c-4b46-be2d-7087b18db65b", 
+      "links": {
+        "download": "https://zenodo.org/api/files/7ec1805c-289c-49c9-be0f-9387e367abf3/amador__juan_1998.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804687/files/c7ec8bf5-613c-4b46-be2d-7087b18db65b"
+      }
+    }
+  ], 
+  "id": 805774, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805774.svg", 
+    "bucket": "https://zenodo.org/api/files/7ec1805c-289c-49c9-be0f-9387e367abf3", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805773.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805773", 
+    "doi": "https://doi.org/10.5281/zenodo.805774", 
+    "latest": "https://zenodo.org/api/records/805774", 
+    "latest_html": "https://zenodo.org/record/805774", 
+    "record": "https://zenodo.org/api/records/805774", 
+    "record_html": "https://zenodo.org/record/805774"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amador, A."
+      }, 
+      {
+        "name": "Juan, E."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805774", 
+    "journal_pages": "153-154", 
+    "journal_title": "D. I. S.", 
+    "journal_volume": "81", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805774", 
+      "recid": 805774
+    }, 
+    "publication_date": "1998-12-31", 
+    "publication_type": "article", 
+    "title": "Morphology of mouth hooks and anterior spiracles during larval development of D. funebris.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:09:06.554403+00:00", 
+  "owner": 1161, 
+  "record_id": 805774, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Morphology of mouth hooks and anterior spiracles during larval development of D. funebris."
+}

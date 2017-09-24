@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805817", 
+  "created": "2017-06-10T20:11:26.472025+00:00", 
+  "files": [], 
+  "id": 805818, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/2233deed-294a-43a0-89f5-57622a2f65d3", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805818/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805818/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805818/files", 
+    "html": "https://zenodo.org/deposit/805818", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805818", 
+    "latest_draft_html": "https://zenodo.org/deposit/805818", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805818/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805818"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Anderson, W.W."
+      }, 
+      {
+        "name": "Ehrman, L."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "47-53", 
+    "journal_title": "Am. Midl. Nat.", 
+    "journal_volume": "81", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805818", 
+      "recid": 805818
+    }, 
+    "publication_date": "1969-01-29", 
+    "publication_type": "article", 
+    "title": "Mating Choice in Crosses between Geographic Populations of Drosophila pseudoobscura.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:11:26.472031+00:00", 
+  "owner": 1161, 
+  "record_id": 805818, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Mating Choice in Crosses between Geographic Populations of Drosophila pseudoobscura."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:11:28 GMT
+Content-Type: application/json
+Content-Length: 377
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497129087
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "fdd5d889677e948bbd68b3c65df14b4a", "filename": "anderson__ehrman_1969.pdf", "filesize": 133906, "id": "352a93a1-cb7a-4034-94f3-780f0242311a", "links": {"download": "https://zenodo.org/api/files/2233deed-294a-43a0-89f5-57622a2f65d3/anderson__ehrman_1969.pdf", "self": "https://zenodo.org/api/deposit/depositions/805818/files/352a93a1-cb7a-4034-94f3-780f0242311a"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:11:30 GMT
+Content-Type: application/json
+Content-Length: 2570
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 20:11:30 GMT
+Location: https://zenodo.org/api/deposit/depositions/805818
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4996
+X-RateLimit-Reset: 1497128874
+Retry-After: 3383
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805817", 
+  "conceptrecid": "805817", 
+  "created": "2017-06-10T20:11:26.472025+00:00", 
+  "doi": "10.5281/zenodo.805818", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805818", 
+  "files": [
+    {
+      "checksum": "fdd5d889677e948bbd68b3c65df14b4a", 
+      "filename": "anderson__ehrman_1969.pdf", 
+      "filesize": 133906, 
+      "id": "352a93a1-cb7a-4034-94f3-780f0242311a", 
+      "links": {
+        "download": "https://zenodo.org/api/files/2233deed-294a-43a0-89f5-57622a2f65d3/anderson__ehrman_1969.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804703/files/352a93a1-cb7a-4034-94f3-780f0242311a"
+      }
+    }
+  ], 
+  "id": 805818, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805818.svg", 
+    "bucket": "https://zenodo.org/api/files/2233deed-294a-43a0-89f5-57622a2f65d3", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805817.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805817", 
+    "doi": "https://doi.org/10.5281/zenodo.805818", 
+    "latest": "https://zenodo.org/api/records/805818", 
+    "latest_html": "https://zenodo.org/record/805818", 
+    "record": "https://zenodo.org/api/records/805818", 
+    "record_html": "https://zenodo.org/record/805818"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Anderson, W.W."
+      }, 
+      {
+        "name": "Ehrman, L."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805818", 
+    "journal_pages": "47-53", 
+    "journal_title": "Am. Midl. Nat.", 
+    "journal_volume": "81", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805818", 
+      "recid": 805818
+    }, 
+    "publication_date": "1969-01-29", 
+    "publication_type": "article", 
+    "title": "Mating Choice in Crosses between Geographic Populations of Drosophila pseudoobscura.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:11:30.206632+00:00", 
+  "owner": 1161, 
+  "record_id": 805818, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Mating Choice in Crosses between Geographic Populations of Drosophila pseudoobscura."
+}

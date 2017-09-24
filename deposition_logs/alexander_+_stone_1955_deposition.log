@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805602", 
+  "created": "2017-06-10T16:06:28.188354+00:00", 
+  "files": [], 
+  "id": 805603, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/e84c091a-d6eb-4fbf-ab63-a59e2d2e67e4", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805603/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805603/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805603/files", 
+    "html": "https://zenodo.org/deposit/805603", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805603", 
+    "latest_draft_html": "https://zenodo.org/deposit/805603", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805603/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805603"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alexander, M.L."
+      }, 
+      {
+        "name": "Stone, W.S."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "1046-1057", 
+    "journal_title": "Proc. Natl. Acad. Sci. USA", 
+    "journal_volume": "41", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805603", 
+      "recid": 805603
+    }, 
+    "publication_date": "1955-12-31", 
+    "publication_type": "article", 
+    "title": "Radiation damage in the developing germ cells of Drosophila virilis.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:06:28.188360+00:00", 
+  "owner": 1161, 
+  "record_id": 805603, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Radiation damage in the developing germ cells of Drosophila virilis."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:06:31 GMT
+Content-Type: application/json
+Content-Length: 377
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497114389
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "3650c7d3529fd034a3eadb5da145b1d4", "filename": "alexander__stone_1955.pdf", "filesize": 246815, "id": "11bd1881-9bb2-4407-bc90-4591d6b57d72", "links": {"download": "https://zenodo.org/api/files/e84c091a-d6eb-4fbf-ab63-a59e2d2e67e4/alexander__stone_1955.pdf", "self": "https://zenodo.org/api/deposit/depositions/805603/files/11bd1881-9bb2-4407-bc90-4591d6b57d72"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:06:34 GMT
+Content-Type: application/json
+Content-Length: 2556
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:06:34 GMT
+Location: https://zenodo.org/api/deposit/depositions/805603
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497114393
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805602", 
+  "conceptrecid": "805602", 
+  "created": "2017-06-10T16:06:28.188354+00:00", 
+  "doi": "10.5281/zenodo.805603", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805603", 
+  "files": [
+    {
+      "checksum": "3650c7d3529fd034a3eadb5da145b1d4", 
+      "filename": "alexander__stone_1955.pdf", 
+      "filesize": 246815, 
+      "id": "11bd1881-9bb2-4407-bc90-4591d6b57d72", 
+      "links": {
+        "download": "https://zenodo.org/api/files/e84c091a-d6eb-4fbf-ab63-a59e2d2e67e4/alexander__stone_1955.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804771/files/11bd1881-9bb2-4407-bc90-4591d6b57d72"
+      }
+    }
+  ], 
+  "id": 805603, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805603.svg", 
+    "bucket": "https://zenodo.org/api/files/e84c091a-d6eb-4fbf-ab63-a59e2d2e67e4", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805602.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805602", 
+    "doi": "https://doi.org/10.5281/zenodo.805603", 
+    "latest": "https://zenodo.org/api/records/805603", 
+    "latest_html": "https://zenodo.org/record/805603", 
+    "record": "https://zenodo.org/api/records/805603", 
+    "record_html": "https://zenodo.org/record/805603"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alexander, M.L."
+      }, 
+      {
+        "name": "Stone, W.S."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805603", 
+    "journal_pages": "1046-1057", 
+    "journal_title": "Proc. Natl. Acad. Sci. USA", 
+    "journal_volume": "41", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805603", 
+      "recid": 805603
+    }, 
+    "publication_date": "1955-12-31", 
+    "publication_type": "article", 
+    "title": "Radiation damage in the developing germ cells of Drosophila virilis.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:06:34.170314+00:00", 
+  "owner": 1161, 
+  "record_id": 805603, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Radiation damage in the developing germ cells of Drosophila virilis."
+}

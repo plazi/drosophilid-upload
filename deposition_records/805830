@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805829", 
+  "conceptrecid": "805829", 
+  "created": "2017-06-10T20:12:10.573120+00:00", 
+  "doi": "10.5281/zenodo.805830", 
+  "id": 805830, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805830.svg", 
+    "bucket": "https://zenodo.org/api/files/76890777-0c6b-4059-8552-1f5a61475850", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805829.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805829", 
+    "doi": "https://doi.org/10.5281/zenodo.805830", 
+    "html": "https://zenodo.org/record/805830", 
+    "latest": "https://zenodo.org/api/records/805830", 
+    "latest_html": "https://zenodo.org/record/805830", 
+    "self": "https://zenodo.org/api/records/805830"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Anderson, P.R."
+      }, 
+      {
+        "name": "Oakeshott, J.G."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805830", 
+    "journal": {
+      "pages": "185-190", 
+      "title": "Hereditas", 
+      "volume": "56"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1986-04-30", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805829", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805830"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805829"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Ethanol tolerance and alcohol dehydrogenase activity in Australian populations of Drosophila simulans."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:38:11.470288+00:00"
+}

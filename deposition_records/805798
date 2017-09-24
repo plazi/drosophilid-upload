@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805797", 
+  "conceptrecid": "805797", 
+  "created": "2017-06-10T20:10:26.577158+00:00", 
+  "doi": "10.5281/zenodo.805798", 
+  "id": 805798, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805798.svg", 
+    "bucket": "https://zenodo.org/api/files/c51d6c11-c4d2-4f69-b2f1-98d6965018cd", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805797.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805797", 
+    "doi": "https://doi.org/10.5281/zenodo.805798", 
+    "html": "https://zenodo.org/record/805798", 
+    "latest": "https://zenodo.org/api/records/805798", 
+    "latest_html": "https://zenodo.org/record/805798", 
+    "self": "https://zenodo.org/api/records/805798"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amoudi, M.A."
+      }, 
+      {
+        "name": "Diab, F.M."
+      }, 
+      {
+        "name": "and Abou-Fannah, S.S.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805798", 
+    "journal": {
+      "pages": "263-274", 
+      "title": "J. King Saud Univ.", 
+      "volume": "5"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1993-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805797", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805798"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805797"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "The Influence of Low Temperature on Development, Adult Longevity and Productivity of Zaprionus indiana Gupta (Diptera: Drosophilidae)."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:53:03.199299+00:00"
+}

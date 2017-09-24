@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805747", 
+  "conceptrecid": "805747", 
+  "created": "2017-06-10T20:07:40.222917+00:00", 
+  "doi": "10.5281/zenodo.805748", 
+  "id": 805748, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805748.svg", 
+    "bucket": "https://zenodo.org/api/files/36480338-340e-4c96-89c8-5dbd8c69f70c", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805747.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805747", 
+    "doi": "https://doi.org/10.5281/zenodo.805748", 
+    "html": "https://zenodo.org/record/805748", 
+    "latest": "https://zenodo.org/api/records/805748", 
+    "latest_html": "https://zenodo.org/record/805748", 
+    "self": "https://zenodo.org/api/records/805748"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "van Alphen, J.J.M."
+      }, 
+      {
+        "name": "Nordlander, G."
+      }, 
+      {
+        "name": "Eijs, I."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805748", 
+    "journal": {
+      "pages": "324-329", 
+      "title": "Oecologia", 
+      "volume": "87"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1991-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805747", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805748"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805747"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Host habitat finding and host selection of the Drosophila parasitoid Leptopilina australis (Hymenoptera, Eucoilidae), with a comparison of the niches of European Leptopilina species."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:06:57.738795+00:00"
+}

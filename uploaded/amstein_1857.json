@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "title": "Bundner Dipteren.",
+    "upload_type": "publication",
+    "description": "uploaded by Plazi from Taxodros",
+    "access_right": "open",
+    "journal_pages": "89-111",
+    "journal_title": "Jber. naturf. Ges. Graub.",
+    "journal_volume": "2",
+    "publication_type": "article",
+    "publication_date": "1857-12-31",
+    "keywords": [
+      "Biodiversity",
+      "Taxonomy",
+      "Animalia",
+      "Arthropoda",
+      "Insecta",
+      "Diptera",
+      "Drosophilidae",
+      "flies",
+      "fruit flies",
+      "terrestrial"
+    ],
+    "license": "cc-by",
+    "creators": [
+      {
+        "name": "Am Stein, (J.R.)"
+      }
+    ],
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ]
+  }
+}

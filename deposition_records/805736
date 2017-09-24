@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805735", 
+  "conceptrecid": "805735", 
+  "created": "2017-06-10T20:07:02.785599+00:00", 
+  "doi": "10.5281/zenodo.805736", 
+  "id": 805736, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805736.svg", 
+    "bucket": "https://zenodo.org/api/files/fb270799-caff-46a0-bc9b-970acdf6b727", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805735.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805735", 
+    "doi": "https://doi.org/10.5281/zenodo.805736", 
+    "html": "https://zenodo.org/record/805736", 
+    "latest": "https://zenodo.org/api/records/805736", 
+    "latest_html": "https://zenodo.org/record/805736", 
+    "self": "https://zenodo.org/api/records/805736"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alonso-Pimentel, H."
+      }, 
+      {
+        "name": "Spangler, H.G."
+      }, 
+      {
+        "name": "Heed, W.B."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805736", 
+    "journal": {
+      "pages": "1031-1039", 
+      "title": "Anim. Behav.", 
+      "volume": "50"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1995-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805735", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805736"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805735"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Courtship sounds and behaviour of the two saguaro-breeding Drosophila and their relatives."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:46:21.902760+00:00"
+}

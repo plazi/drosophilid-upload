@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805562", 
+  "conceptrecid": "805562", 
+  "created": "2017-06-10T13:12:38.408684+00:00", 
+  "doi": "10.5281/zenodo.805563", 
+  "id": 805563, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805563.svg", 
+    "bucket": "https://zenodo.org/api/files/1a38073b-5957-46df-b67b-39ec39eea0eb", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805562.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805562", 
+    "doi": "https://doi.org/10.5281/zenodo.805563", 
+    "html": "https://zenodo.org/record/805563", 
+    "latest": "https://zenodo.org/api/records/805563", 
+    "latest_html": "https://zenodo.org/record/805563", 
+    "self": "https://zenodo.org/api/records/805563"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Albalat, R."
+      }, 
+      {
+        "name": "Gonzalez-Duarte, R."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805563", 
+    "journal": {
+      "pages": "171-178", 
+      "title": "Gene", 
+      "volume": "126"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "notspecified"
+    }, 
+    "publication_date": "1993-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805562", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805563"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805562"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Adh and Adh-dup sequences of Drosophila lebanonensis and D. immigrans: interspecies comparisons."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-08-05T11:31:39.683133+00:00"
+}

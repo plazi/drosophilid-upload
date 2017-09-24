@@ -1,0 +1,108 @@
+{
+  "conceptdoi": "10.5281/zenodo.805654", 
+  "conceptrecid": "805654", 
+  "created": "2017-06-10T16:19:47.665220+00:00", 
+  "doi": "10.5281/zenodo.805655", 
+  "id": 805655, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805655.svg", 
+    "bucket": "https://zenodo.org/api/files/fed799d8-cb52-4564-9c07-b286e7f1a63f", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805654.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805654", 
+    "doi": "https://doi.org/10.5281/zenodo.805655", 
+    "html": "https://zenodo.org/record/805655", 
+    "latest": "https://zenodo.org/api/records/805655", 
+    "latest_html": "https://zenodo.org/record/805655", 
+    "self": "https://zenodo.org/api/records/805655"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allemand, R."
+      }, 
+      {
+        "name": "Lemaitre, D."
+      }, 
+      {
+        "name": "Frey, F."
+      }, 
+      {
+        "name": "Bouletreau, M."
+      }, 
+      {
+        "name": "Vavre, F."
+      }, 
+      {
+        "name": "Nordlander, G."
+      }, 
+      {
+        "name": "van Alphen, J."
+      }, 
+      {
+        "name": "Carton, Y."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805655", 
+    "journal": {
+      "pages": "319-332", 
+      "title": "Annls Soc. ent. Fr.", 
+      "volume": "38"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2002-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805654", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805655"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805654"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Phylogeny of six African Leptopilina species (Hymenoptera: Cynipoidea, Figitidae), parasitoids of Drosophila, with description of three new species."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T08:53:03.182379+00:00"
+}

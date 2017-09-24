@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "title": "A Photographic Map of Drosophila hydei Polytene Chromosomes.",
+    "upload_type": "publication",
+    "description": "uploaded by Plazi from Taxodros",
+    "access_right": "open",
+    "journal_pages": "239-245",
+    "journal_title": "Chromosoma",
+    "journal_volume": "87",
+    "publication_type": "article",
+    "publication_date": "1982-12-22",
+    "keywords": [
+      "Biodiversity",
+      "Taxonomy",
+      "Animalia",
+      "Arthropoda",
+      "Insecta",
+      "Diptera",
+      "Drosophilidae",
+      "flies",
+      "fruit flies",
+      "terrestrial"
+    ],
+    "license": "cc-by",
+    "creators": [
+      {
+        "name": "Ananiev, E.V."
+      },
+      {
+        "name": "Barsky, V.E."
+      }
+    ],
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ]
+  }
+}

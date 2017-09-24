@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805088", 
+  "conceptrecid": "805088", 
+  "created": "2017-06-09T21:55:31.834414+00:00", 
+  "doi": "10.5281/zenodo.805089", 
+  "id": 805089, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805089.svg", 
+    "bucket": "https://zenodo.org/api/files/00b53c47-d8d9-4482-8199-ab69c2dee90b", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805088.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805088", 
+    "doi": "https://doi.org/10.5281/zenodo.805089", 
+    "html": "https://zenodo.org/record/805089", 
+    "latest": "https://zenodo.org/api/records/805089", 
+    "latest_html": "https://zenodo.org/record/805089", 
+    "self": "https://zenodo.org/api/records/805089"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aders, W.M."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805089", 
+    "journal": {
+      "issue": "4", 
+      "pages": "391-403", 
+      "title": "Bulletin of Entomological Research", 
+      "volume": "7"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "notspecified"
+    }, 
+    "publication_date": "1916-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.1017/s0007485300018095", 
+        "relation": "isIdenticalTo", 
+        "scheme": "doi"
+      }, 
+      {
+        "identifier": "10.5281/zenodo.805088", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805089"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805088"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Insects injurious to man and stock in Zanzibar."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 6, 
+  "updated": "2017-09-23T04:20:45.222168+00:00"
+}

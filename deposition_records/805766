@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805765", 
+  "conceptrecid": "805765", 
+  "created": "2017-06-10T20:08:38.567122+00:00", 
+  "doi": "10.5281/zenodo.805766", 
+  "id": 805766, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805766.svg", 
+    "bucket": "https://zenodo.org/api/files/24f7ea36-13ac-407f-ad21-60f416e1b54b", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805765.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805765", 
+    "doi": "https://doi.org/10.5281/zenodo.805766", 
+    "html": "https://zenodo.org/record/805766", 
+    "latest": "https://zenodo.org/api/records/805766", 
+    "latest_html": "https://zenodo.org/record/805766", 
+    "self": "https://zenodo.org/api/records/805766"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alvarez, D."
+      }, 
+      {
+        "name": "Noor, M.A.F."
+      }, 
+      {
+        "name": "Ruiz-Garcia, M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805766", 
+    "journal": {
+      "pages": "81-92", 
+      "title": "Biotropica", 
+      "volume": "34"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2002-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805765", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805766"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805765"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Comparative Genetic Structure between Tropical Colombian and North American Drosophila pseudoobscura Populations."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T07:23:14.988128+00:00"
+}

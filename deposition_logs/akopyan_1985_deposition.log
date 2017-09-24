@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805502", 
+  "created": "2017-06-10T11:53:23.874266+00:00", 
+  "files": [], 
+  "id": 805503, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/8e6244d8-7b18-433f-99cd-f34293d0a5a9", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805503/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805503/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805503/files", 
+    "html": "https://zenodo.org/deposit/805503", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805503", 
+    "latest_draft_html": "https://zenodo.org/deposit/805503", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805503/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805503"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Akopyan, K.Z."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "810-815", 
+    "journal_title": "Biol. Zh. Armenii", 
+    "journal_volume": "38", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805503", 
+      "recid": 805503
+    }, 
+    "publication_date": "1985-12-31", 
+    "publication_type": "article", 
+    "title": "Comparison of the DNA-topoisomerase 1 of embryos of the wild type Dr. simulans and mutant line. (in Russian, with English summary).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T11:53:23.874281+00:00", 
+  "owner": 1161, 
+  "record_id": 805503, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Comparison of the DNA-topoisomerase 1 of embryos of the wild type Dr. simulans and mutant line. (in Russian, with English summary)."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 11:53:27 GMT
+Content-Type: application/json
+Content-Length: 359
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497099205
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "ceac9cb905c5af7293951c8b6479dc67", "filename": "akopyan_1985.pdf", "filesize": 504136, "id": "37bdd038-e71f-492b-a688-52dd8e81d0a6", "links": {"download": "https://zenodo.org/api/files/8e6244d8-7b18-433f-99cd-f34293d0a5a9/akopyan_1985.pdf", "self": "https://zenodo.org/api/deposit/depositions/805503/files/37bdd038-e71f-492b-a688-52dd8e81d0a6"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 11:53:29 GMT
+Content-Type: application/json
+Content-Length: 2603
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 11:53:29 GMT
+Location: https://zenodo.org/api/deposit/depositions/805503
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497099208
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805502", 
+  "conceptrecid": "805502", 
+  "created": "2017-06-10T11:53:23.874266+00:00", 
+  "doi": "10.5281/zenodo.805503", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805503", 
+  "files": [
+    {
+      "checksum": "ceac9cb905c5af7293951c8b6479dc67", 
+      "filename": "akopyan_1985.pdf", 
+      "filesize": 504136, 
+      "id": "37bdd038-e71f-492b-a688-52dd8e81d0a6", 
+      "links": {
+        "download": "https://zenodo.org/api/files/8e6244d8-7b18-433f-99cd-f34293d0a5a9/akopyan_1985.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804529/files/37bdd038-e71f-492b-a688-52dd8e81d0a6"
+      }
+    }
+  ], 
+  "id": 805503, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805503.svg", 
+    "bucket": "https://zenodo.org/api/files/8e6244d8-7b18-433f-99cd-f34293d0a5a9", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805502.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805502", 
+    "doi": "https://doi.org/10.5281/zenodo.805503", 
+    "latest": "https://zenodo.org/api/records/805503", 
+    "latest_html": "https://zenodo.org/record/805503", 
+    "record": "https://zenodo.org/api/records/805503", 
+    "record_html": "https://zenodo.org/record/805503"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Akopyan, K.Z."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805503", 
+    "journal_pages": "810-815", 
+    "journal_title": "Biol. Zh. Armenii", 
+    "journal_volume": "38", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805503", 
+      "recid": 805503
+    }, 
+    "publication_date": "1985-12-31", 
+    "publication_type": "article", 
+    "title": "Comparison of the DNA-topoisomerase 1 of embryos of the wild type Dr. simulans and mutant line. (in Russian, with English summary).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T11:53:29.116562+00:00", 
+  "owner": 1161, 
+  "record_id": 805503, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Comparison of the DNA-topoisomerase 1 of embryos of the wild type Dr. simulans and mutant line. (in Russian, with English summary)."
+}

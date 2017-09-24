@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805787", 
+  "conceptrecid": "805787", 
+  "created": "2017-06-10T20:09:55.977401+00:00", 
+  "doi": "10.5281/zenodo.805788", 
+  "id": 805788, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805788.svg", 
+    "bucket": "https://zenodo.org/api/files/55255122-f900-48ac-8eae-0fbd338c614b", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805787.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805787", 
+    "doi": "https://doi.org/10.5281/zenodo.805788", 
+    "html": "https://zenodo.org/record/805788", 
+    "latest": "https://zenodo.org/api/records/805788", 
+    "latest_html": "https://zenodo.org/record/805788", 
+    "self": "https://zenodo.org/api/records/805788"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amlou, M."
+      }, 
+      {
+        "name": "Moreteau, B."
+      }, 
+      {
+        "name": "David, J.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805788", 
+    "journal": {
+      "pages": "455-464", 
+      "title": "Behav. Genet.", 
+      "volume": "28"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1998-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805787", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805788"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805787"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Genetic Analysis of Drosophila sechellia Specialization: Oviposition Behavior Toward the Major Aliphatic Acids of Its Host Plant."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:55:52.052681+00:00"
+}

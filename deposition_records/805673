@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805672", 
+  "conceptrecid": "805672", 
+  "created": "2017-06-10T16:20:38.354942+00:00", 
+  "doi": "10.5281/zenodo.805673", 
+  "id": 805673, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805673.svg", 
+    "bucket": "https://zenodo.org/api/files/532bc79a-e687-4b82-8a3b-c9bba8a8e541", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805672.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805672", 
+    "doi": "https://doi.org/10.5281/zenodo.805673", 
+    "html": "https://zenodo.org/record/805673", 
+    "latest": "https://zenodo.org/api/records/805673", 
+    "latest_html": "https://zenodo.org/record/805673", 
+    "self": "https://zenodo.org/api/records/805673"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Almeida, F.C."
+      }, 
+      {
+        "name": "DeSalle, R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805673", 
+    "journal": {
+      "pages": "2043-2053", 
+      "title": "Molec. Biol. Evol.", 
+      "volume": "25"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2008-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805672", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805673"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805672"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Evidence in Adaptive Evolution of Accessory Gland Proteins in Closely Related Species of the Drosophila repleta Group."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T07:25:34.414402+00:00"
+}

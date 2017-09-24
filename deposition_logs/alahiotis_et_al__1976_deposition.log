@@ -1,0 +1,183 @@
+{
+  "conceptrecid": "805542", 
+  "created": "2017-06-10T11:55:02.302369+00:00", 
+  "files": [], 
+  "id": 805543, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/d779bf3a-3b9f-492d-a9a0-f54dfdffed78", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805543/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805543/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805543/files", 
+    "html": "https://zenodo.org/deposit/805543", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805543", 
+    "latest_draft_html": "https://zenodo.org/deposit/805543", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805543/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805543"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alahiotis, S."
+      }, 
+      {
+        "name": "Pelecanos, M."
+      }, 
+      {
+        "name": "Zacharopoulou, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "739-745", 
+    "journal_title": "Canad. J. Genet. Cytol.", 
+    "journal_volume": "18", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805543", 
+      "recid": 805543
+    }, 
+    "publication_date": "1976-12-31", 
+    "publication_type": "article", 
+    "title": "A contribution to the study of linkage disequilibrium in Drosophila melanogaster.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T11:55:02.302376+00:00", 
+  "owner": 1161, 
+  "record_id": 805543, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "A contribution to the study of linkage disequilibrium in Drosophila melanogaster."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 11:55:08 GMT
+Content-Type: application/json
+Content-Length: 377
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497099303
+Retry-After: 3594
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "407d4a1677af6a5b87008fd804300eb0", "filename": "alahiotis_et_al__1976.pdf", "filesize": 221040, "id": "d1f7f048-7bd6-4fc2-8436-54e8db786433", "links": {"download": "https://zenodo.org/api/files/d779bf3a-3b9f-492d-a9a0-f54dfdffed78/alahiotis_et_al__1976.pdf", "self": "https://zenodo.org/api/deposit/depositions/805543/files/d1f7f048-7bd6-4fc2-8436-54e8db786433"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 11:55:11 GMT
+Content-Type: application/json
+Content-Length: 2631
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 11:55:11 GMT
+Location: https://zenodo.org/api/deposit/depositions/805543
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497099310
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805542", 
+  "conceptrecid": "805542", 
+  "created": "2017-06-10T11:55:02.302369+00:00", 
+  "doi": "10.5281/zenodo.805543", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805543", 
+  "files": [
+    {
+      "checksum": "407d4a1677af6a5b87008fd804300eb0", 
+      "filename": "alahiotis_et_al__1976.pdf", 
+      "filesize": 221040, 
+      "id": "d1f7f048-7bd6-4fc2-8436-54e8db786433", 
+      "links": {
+        "download": "https://zenodo.org/api/files/d779bf3a-3b9f-492d-a9a0-f54dfdffed78/alahiotis_et_al__1976.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/128482/files/d1f7f048-7bd6-4fc2-8436-54e8db786433"
+      }
+    }
+  ], 
+  "id": 805543, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805543.svg", 
+    "bucket": "https://zenodo.org/api/files/d779bf3a-3b9f-492d-a9a0-f54dfdffed78", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805542.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805542", 
+    "doi": "https://doi.org/10.5281/zenodo.805543", 
+    "latest": "https://zenodo.org/api/records/805543", 
+    "latest_html": "https://zenodo.org/record/805543", 
+    "record": "https://zenodo.org/api/records/805543", 
+    "record_html": "https://zenodo.org/record/805543"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alahiotis, S."
+      }, 
+      {
+        "name": "Pelecanos, M."
+      }, 
+      {
+        "name": "Zacharopoulou, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805543", 
+    "journal_pages": "739-745", 
+    "journal_title": "Canad. J. Genet. Cytol.", 
+    "journal_volume": "18", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805543", 
+      "recid": 805543
+    }, 
+    "publication_date": "1976-12-31", 
+    "publication_type": "article", 
+    "title": "A contribution to the study of linkage disequilibrium in Drosophila melanogaster.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T11:55:11.074723+00:00", 
+  "owner": 1161, 
+  "record_id": 805543, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "A contribution to the study of linkage disequilibrium in Drosophila melanogaster."
+}

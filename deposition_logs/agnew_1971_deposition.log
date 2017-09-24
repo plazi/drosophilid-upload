@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805102", 
+  "created": "2017-06-09T21:56:09.040638+00:00", 
+  "files": [], 
+  "id": 805103, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/bed5294d-dd23-47d3-a74d-03df4b3df76a", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805103/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805103/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805103/files", 
+    "html": "https://zenodo.org/deposit/805103", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805103", 
+    "latest_draft_html": "https://zenodo.org/deposit/805103", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805103/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805103"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Agnew, J.D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "39-42", 
+    "journal_title": "S. Afr. Genet. Soc.", 
+    "journal_volume": "4", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805103", 
+      "recid": 805103
+    }, 
+    "publication_date": "1971-12-31", 
+    "publication_type": "article", 
+    "title": "Hybridization between two sibling species of Drosophila.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:56:09.040644+00:00", 
+  "owner": 1161, 
+  "record_id": 805103, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Hybridization between two sibling species of Drosophila."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:56:12 GMT
+Content-Type: application/json
+Content-Length: 355
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497048970
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "b9e81a96772f0db166e09294890796bb", "filename": "agnew_1971.pdf", "filesize": 346631, "id": "eebdd2c0-a071-4145-aba2-03d1eb50be59", "links": {"download": "https://zenodo.org/api/files/bed5294d-dd23-47d3-a74d-03df4b3df76a/agnew_1971.pdf", "self": "https://zenodo.org/api/deposit/depositions/805103/files/eebdd2c0-a071-4145-aba2-03d1eb50be59"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:56:14 GMT
+Content-Type: application/json
+Content-Length: 2446
+ETag: "2"
+Last-Modified: Fri, 09 Jun 2017 21:56:13 GMT
+Location: https://zenodo.org/api/deposit/depositions/805103
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497048973
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805102", 
+  "conceptrecid": "805102", 
+  "created": "2017-06-09T21:56:09.040638+00:00", 
+  "doi": "10.5281/zenodo.805103", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805103", 
+  "files": [
+    {
+      "checksum": "b9e81a96772f0db166e09294890796bb", 
+      "filename": "agnew_1971.pdf", 
+      "filesize": 346631, 
+      "id": "eebdd2c0-a071-4145-aba2-03d1eb50be59", 
+      "links": {
+        "download": "https://zenodo.org/api/files/bed5294d-dd23-47d3-a74d-03df4b3df76a/agnew_1971.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804689/files/eebdd2c0-a071-4145-aba2-03d1eb50be59"
+      }
+    }
+  ], 
+  "id": 805103, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805103.svg", 
+    "bucket": "https://zenodo.org/api/files/bed5294d-dd23-47d3-a74d-03df4b3df76a", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805102.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805102", 
+    "doi": "https://doi.org/10.5281/zenodo.805103", 
+    "latest": "https://zenodo.org/api/records/805103", 
+    "latest_html": "https://zenodo.org/record/805103", 
+    "record": "https://zenodo.org/api/records/805103", 
+    "record_html": "https://zenodo.org/record/805103"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Agnew, J.D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805103", 
+    "journal_pages": "39-42", 
+    "journal_title": "S. Afr. Genet. Soc.", 
+    "journal_volume": "4", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805103", 
+      "recid": 805103
+    }, 
+    "publication_date": "1971-12-31", 
+    "publication_type": "article", 
+    "title": "Hybridization between two sibling species of Drosophila.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:56:13.807741+00:00", 
+  "owner": 1161, 
+  "record_id": 805103, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Hybridization between two sibling species of Drosophila."
+}

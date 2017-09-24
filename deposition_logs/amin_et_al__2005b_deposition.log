@@ -1,0 +1,199 @@
+{
+  "conceptrecid": "805781", 
+  "created": "2017-06-10T20:09:26.593891+00:00", 
+  "files": [], 
+  "id": 805782, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/2d082357-ed99-4fe2-a82d-2c76b457b28f", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805782/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805782/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805782/files", 
+    "html": "https://zenodo.org/deposit/805782", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805782", 
+    "latest_draft_html": "https://zenodo.org/deposit/805782", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805782/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805782"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amin ud Din, M."
+      }, 
+      {
+        "name": "Khan, S.M.N."
+      }, 
+      {
+        "name": "Bakhsh, A."
+      }, 
+      {
+        "name": "Aleem, R."
+      }, 
+      {
+        "name": "Haque, S."
+      }, 
+      {
+        "name": "Salam, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "15-16", 
+    "journal_title": "D. I. S.", 
+    "journal_volume": "88", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805782", 
+      "recid": 805782
+    }, 
+    "publication_date": "2005-12-31", 
+    "publication_type": "article", 
+    "title": "Study of Drosophila association with certain plant species in Islamabad, Pakistan.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:09:26.593898+00:00", 
+  "owner": 1161, 
+  "record_id": 805782, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Study of Drosophila association with certain plant species in Islamabad, Pakistan."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:09:29 GMT
+Content-Type: application/json
+Content-Length: 369
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497128967
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "5acc7d2d675be1f22b788a0cc1813527", "filename": "amin_et_al__2005b.pdf", "filesize": 194473, "id": "54527797-84d1-4fdc-98aa-1a55a45e2581", "links": {"download": "https://zenodo.org/api/files/2d082357-ed99-4fe2-a82d-2c76b457b28f/amin_et_al__2005b.pdf", "self": "https://zenodo.org/api/deposit/depositions/805782/files/54527797-84d1-4fdc-98aa-1a55a45e2581"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:09:31 GMT
+Content-Type: application/json
+Content-Length: 2713
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 20:09:30 GMT
+Location: https://zenodo.org/api/deposit/depositions/805782
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497128970
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805781", 
+  "conceptrecid": "805781", 
+  "created": "2017-06-10T20:09:26.593891+00:00", 
+  "doi": "10.5281/zenodo.805782", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805782", 
+  "files": [
+    {
+      "checksum": "5acc7d2d675be1f22b788a0cc1813527", 
+      "filename": "amin_et_al__2005b.pdf", 
+      "filesize": 194473, 
+      "id": "54527797-84d1-4fdc-98aa-1a55a45e2581", 
+      "links": {
+        "download": "https://zenodo.org/api/files/2d082357-ed99-4fe2-a82d-2c76b457b28f/amin_et_al__2005b.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804687/files/54527797-84d1-4fdc-98aa-1a55a45e2581"
+      }
+    }
+  ], 
+  "id": 805782, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805782.svg", 
+    "bucket": "https://zenodo.org/api/files/2d082357-ed99-4fe2-a82d-2c76b457b28f", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805781.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805781", 
+    "doi": "https://doi.org/10.5281/zenodo.805782", 
+    "latest": "https://zenodo.org/api/records/805782", 
+    "latest_html": "https://zenodo.org/record/805782", 
+    "record": "https://zenodo.org/api/records/805782", 
+    "record_html": "https://zenodo.org/record/805782"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amin ud Din, M."
+      }, 
+      {
+        "name": "Khan, S.M.N."
+      }, 
+      {
+        "name": "Bakhsh, A."
+      }, 
+      {
+        "name": "Aleem, R."
+      }, 
+      {
+        "name": "Haque, S."
+      }, 
+      {
+        "name": "Salam, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805782", 
+    "journal_pages": "15-16", 
+    "journal_title": "D. I. S.", 
+    "journal_volume": "88", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805782", 
+      "recid": 805782
+    }, 
+    "publication_date": "2005-12-31", 
+    "publication_type": "article", 
+    "title": "Study of Drosophila association with certain plant species in Islamabad, Pakistan.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:09:30.688596+00:00", 
+  "owner": 1161, 
+  "record_id": 805782, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Study of Drosophila association with certain plant species in Islamabad, Pakistan."
+}

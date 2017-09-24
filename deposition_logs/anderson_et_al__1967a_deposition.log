@@ -1,0 +1,183 @@
+{
+  "conceptrecid": "805831", 
+  "created": "2017-06-10T20:12:12.273075+00:00", 
+  "files": [], 
+  "id": 805832, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/27ae46bf-4d48-48e0-97e1-bdc15d07287a", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805832/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805832/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805832/files", 
+    "html": "https://zenodo.org/deposit/805832", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805832", 
+    "latest_draft_html": "https://zenodo.org/deposit/805832", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805832/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805832"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Anderson, W.W."
+      }, 
+      {
+        "name": "Dobzhansky, T."
+      }, 
+      {
+        "name": "Kastritsis, C.D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "664-671", 
+    "journal_title": "Evolution", 
+    "journal_volume": "21", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805832", 
+      "recid": 805832
+    }, 
+    "publication_date": "1967-12-28", 
+    "publication_type": "article", 
+    "title": "Selection and inversion polymorphism in experimental populations of Drosophila pseudoobscura initiated with the chromosomal constitutions of natural populations.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:12:12.273082+00:00", 
+  "owner": 1161, 
+  "record_id": 805832, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Selection and inversion polymorphism in experimental populations of Drosophila pseudoobscura initiated with the chromosomal constitutions of natural populations."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:12:15 GMT
+Content-Type: application/json
+Content-Length: 377
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497129035
+Retry-After: 3499
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "be1ec0ebcd69cb74cba4667ffc803d2a", "filename": "anderson_et_al__1967a.pdf", "filesize": 149232, "id": "09d74019-5a4f-4d2e-961e-b10fce312ab7", "links": {"download": "https://zenodo.org/api/files/27ae46bf-4d48-48e0-97e1-bdc15d07287a/anderson_et_al__1967a.pdf", "self": "https://zenodo.org/api/deposit/depositions/805832/files/09d74019-5a4f-4d2e-961e-b10fce312ab7"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:12:16 GMT
+Content-Type: application/json
+Content-Length: 2778
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 20:12:16 GMT
+Location: https://zenodo.org/api/deposit/depositions/805832
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497128835
+Retry-After: 3298
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805831", 
+  "conceptrecid": "805831", 
+  "created": "2017-06-10T20:12:12.273075+00:00", 
+  "doi": "10.5281/zenodo.805832", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805832", 
+  "files": [
+    {
+      "checksum": "be1ec0ebcd69cb74cba4667ffc803d2a", 
+      "filename": "anderson_et_al__1967a.pdf", 
+      "filesize": 149232, 
+      "id": "09d74019-5a4f-4d2e-961e-b10fce312ab7", 
+      "links": {
+        "download": "https://zenodo.org/api/files/27ae46bf-4d48-48e0-97e1-bdc15d07287a/anderson_et_al__1967a.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/128482/files/09d74019-5a4f-4d2e-961e-b10fce312ab7"
+      }
+    }
+  ], 
+  "id": 805832, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805832.svg", 
+    "bucket": "https://zenodo.org/api/files/27ae46bf-4d48-48e0-97e1-bdc15d07287a", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805831.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805831", 
+    "doi": "https://doi.org/10.5281/zenodo.805832", 
+    "latest": "https://zenodo.org/api/records/805832", 
+    "latest_html": "https://zenodo.org/record/805832", 
+    "record": "https://zenodo.org/api/records/805832", 
+    "record_html": "https://zenodo.org/record/805832"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Anderson, W.W."
+      }, 
+      {
+        "name": "Dobzhansky, T."
+      }, 
+      {
+        "name": "Kastritsis, C.D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805832", 
+    "journal_pages": "664-671", 
+    "journal_title": "Evolution", 
+    "journal_volume": "21", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805832", 
+      "recid": 805832
+    }, 
+    "publication_date": "1967-12-28", 
+    "publication_type": "article", 
+    "title": "Selection and inversion polymorphism in experimental populations of Drosophila pseudoobscura initiated with the chromosomal constitutions of natural populations.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:12:16.620515+00:00", 
+  "owner": 1161, 
+  "record_id": 805832, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Selection and inversion polymorphism in experimental populations of Drosophila pseudoobscura initiated with the chromosomal constitutions of natural populations."
+}

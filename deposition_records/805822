@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805821", 
+  "conceptrecid": "805821", 
+  "created": "2017-06-10T20:11:41.505095+00:00", 
+  "doi": "10.5281/zenodo.805822", 
+  "id": 805822, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805822.svg", 
+    "bucket": "https://zenodo.org/api/files/e561d064-ac1b-4259-ab94-3c7dd09b3bdd", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805821.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805821", 
+    "doi": "https://doi.org/10.5281/zenodo.805822", 
+    "html": "https://zenodo.org/record/805822", 
+    "latest": "https://zenodo.org/api/records/805822", 
+    "latest_html": "https://zenodo.org/record/805822", 
+    "self": "https://zenodo.org/api/records/805822"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Anderson, W.W."
+      }, 
+      {
+        "name": "Kim, Y.-K."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805822", 
+    "journal": {
+      "pages": "305-312", 
+      "title": "Behav. Genet.", 
+      "volume": "35"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2005-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805821", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805822"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805821"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Sexual Isolation Between Sympatric and Allopatric Populations of Drosophila pseudoobscura and D. persimilis."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T08:35:33.285236+00:00"
+}

@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805554", 
+  "conceptrecid": "805554", 
+  "created": "2017-06-10T13:12:03.833660+00:00", 
+  "doi": "10.5281/zenodo.805555", 
+  "id": 805555, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805555.svg", 
+    "bucket": "https://zenodo.org/api/files/0f98e4da-dc9d-493e-ac13-4635af4953db", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805554.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805554", 
+    "doi": "https://doi.org/10.5281/zenodo.805555", 
+    "html": "https://zenodo.org/record/805555", 
+    "latest": "https://zenodo.org/api/records/805555", 
+    "latest_html": "https://zenodo.org/record/805555", 
+    "self": "https://zenodo.org/api/records/805555"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alatalo, R.H."
+      }, 
+      {
+        "name": "Alatalo, R.V."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805555", 
+    "journal": {
+      "pages": "111-117", 
+      "title": "Aquilo, Ser. Zool.", 
+      "volume": "20"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1979-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805554", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805555"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805554"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Estimation of genetic variation by the components of gene diversity."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:41:22.428744+00:00"
+}

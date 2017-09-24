@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805688", 
+  "conceptrecid": "805688", 
+  "created": "2017-06-10T16:21:29.769281+00:00", 
+  "doi": "10.5281/zenodo.805689", 
+  "id": 805689, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805689.svg", 
+    "bucket": "https://zenodo.org/api/files/5563b7eb-7157-4e01-90fd-5f16dd2d8dd7", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805688.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805688", 
+    "doi": "https://doi.org/10.5281/zenodo.805689", 
+    "html": "https://zenodo.org/record/805689", 
+    "latest": "https://zenodo.org/api/records/805689", 
+    "latest_html": "https://zenodo.org/record/805689", 
+    "self": "https://zenodo.org/api/records/805689"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alonso-Pimentel, H."
+      }, 
+      {
+        "name": "Tobin, T.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805689", 
+    "journal": {
+      "pages": "131-139", 
+      "title": "J. Insect Behav.", 
+      "volume": "5"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1992-01-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805688", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805689"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805688"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Discriminant Function Analysis of the Courtship Behavior of Drosophila mojavensis (Diptera: Drosophilidae)."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:35:17.693961+00:00"
+}

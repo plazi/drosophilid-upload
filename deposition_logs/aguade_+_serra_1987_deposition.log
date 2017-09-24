@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805112", 
+  "created": "2017-06-09T21:56:41.366619+00:00", 
+  "files": [], 
+  "id": 805113, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/9d0ef6de-7afc-4a6d-8738-1ddcbf817fcf", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805113/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805113/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805113/files", 
+    "html": "https://zenodo.org/deposit/805113", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805113", 
+    "latest_draft_html": "https://zenodo.org/deposit/805113", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805113/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805113"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aguade, M."
+      }, 
+      {
+        "name": "Serra, L."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "3-9", 
+    "journal_title": "Genetica", 
+    "journal_volume": "75", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805113", 
+      "recid": 805113
+    }, 
+    "publication_date": "1987-11-16", 
+    "publication_type": "article", 
+    "title": "Analysis of microdifferentiation in a Spanish cellar population of Drosophila melanogaster.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:56:41.366626+00:00", 
+  "owner": 1161, 
+  "record_id": 805113, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Analysis of microdifferentiation in a Spanish cellar population of Drosophila melanogaster."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:56:48 GMT
+Content-Type: application/json
+Content-Length: 371
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497048970
+Retry-After: 3561
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "632e104e083820833acf7fd1f11436a6", "filename": "aguade__serra_1987.pdf", "filesize": 395633, "id": "cc802f0c-4a9e-4faf-b8bb-960d776289f1", "links": {"download": "https://zenodo.org/api/files/9d0ef6de-7afc-4a6d-8738-1ddcbf817fcf/aguade__serra_1987.pdf", "self": "https://zenodo.org/api/deposit/depositions/805113/files/cc802f0c-4a9e-4faf-b8bb-960d776289f1"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:56:50 GMT
+Content-Type: application/json
+Content-Length: 2565
+ETag: "2"
+Last-Modified: Fri, 09 Jun 2017 21:56:50 GMT
+Location: https://zenodo.org/api/deposit/depositions/805113
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497049009
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805112", 
+  "conceptrecid": "805112", 
+  "created": "2017-06-09T21:56:41.366619+00:00", 
+  "doi": "10.5281/zenodo.805113", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805113", 
+  "files": [
+    {
+      "checksum": "632e104e083820833acf7fd1f11436a6", 
+      "filename": "aguade__serra_1987.pdf", 
+      "filesize": 395633, 
+      "id": "cc802f0c-4a9e-4faf-b8bb-960d776289f1", 
+      "links": {
+        "download": "https://zenodo.org/api/files/9d0ef6de-7afc-4a6d-8738-1ddcbf817fcf/aguade__serra_1987.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804606/files/cc802f0c-4a9e-4faf-b8bb-960d776289f1"
+      }
+    }
+  ], 
+  "id": 805113, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805113.svg", 
+    "bucket": "https://zenodo.org/api/files/9d0ef6de-7afc-4a6d-8738-1ddcbf817fcf", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805112.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805112", 
+    "doi": "https://doi.org/10.5281/zenodo.805113", 
+    "latest": "https://zenodo.org/api/records/805113", 
+    "latest_html": "https://zenodo.org/record/805113", 
+    "record": "https://zenodo.org/api/records/805113", 
+    "record_html": "https://zenodo.org/record/805113"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aguade, M."
+      }, 
+      {
+        "name": "Serra, L."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805113", 
+    "journal_pages": "3-9", 
+    "journal_title": "Genetica", 
+    "journal_volume": "75", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805113", 
+      "recid": 805113
+    }, 
+    "publication_date": "1987-11-16", 
+    "publication_type": "article", 
+    "title": "Analysis of microdifferentiation in a Spanish cellar population of Drosophila melanogaster.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:56:50.127081+00:00", 
+  "owner": 1161, 
+  "record_id": 805113, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Analysis of microdifferentiation in a Spanish cellar population of Drosophila melanogaster."
+}

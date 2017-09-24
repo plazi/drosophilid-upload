@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805640", 
+  "conceptrecid": "805640", 
+  "created": "2017-06-10T16:10:05.890815+00:00", 
+  "doi": "10.5281/zenodo.805641", 
+  "id": 805641, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805641.svg", 
+    "bucket": "https://zenodo.org/api/files/bf190111-1039-4e1d-aa5c-9e395935736f", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805640.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805640", 
+    "doi": "https://doi.org/10.5281/zenodo.805641", 
+    "html": "https://zenodo.org/record/805641", 
+    "latest": "https://zenodo.org/api/records/805641", 
+    "latest_html": "https://zenodo.org/record/805641", 
+    "self": "https://zenodo.org/api/records/805641"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allemand, R."
+      }, 
+      {
+        "name": "Cohet, Y."
+      }, 
+      {
+        "name": "Savolainen, O."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805641", 
+    "journal": {
+      "pages": "76-85", 
+      "title": "Acta ent. bohemoslovaca", 
+      "volume": "73"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1976-05-20", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805640", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805641"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805640"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Effects of different light regimens on the egg production and egg hatchability of Drosophila melanogaster adults."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:41:10.242213+00:00"
+}

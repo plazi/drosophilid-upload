@@ -1,0 +1,76 @@
+{
+  "conceptrecid": "805668", 
+  "created": "2017-06-10T16:20:23.799763+00:00", 
+  "files": [], 
+  "id": 805669, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/4c708ec3-24a5-419e-984f-bd9dcc5083d4", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805669/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805669/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805669/files", 
+    "html": "https://zenodo.org/deposit/805669", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805669", 
+    "latest_draft_html": "https://zenodo.org/deposit/805669", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805669/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805669"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Almeida, L.M."
+      }, 
+      {
+        "name": "Carareto, C.M.A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "154", 
+    "journal_title": "Resum. Congr. bras. Genet.", 
+    "journal_volume": "49", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805669", 
+      "recid": 805669
+    }, 
+    "publication_date": "2003-12-31", 
+    "publication_type": "article", 
+    "title": "Identification of two subfamilies of Micropia transposable element in species of the repleta group of Drosophila. (Abstract).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:20:23.799791+00:00", 
+  "owner": 1161, 
+  "record_id": 805669, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Identification of two subfamilies of Micropia transposable element in species of the repleta group of Drosophila. (Abstract)."
+}HTTP/1.1 400 BAD REQUEST
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:20:26 GMT
+Content-Type: application/json
+Content-Length: 137
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4994
+X-RateLimit-Reset: 1497114540
+Retry-After: 2913
+X-Sentry-ID: None
+
+{"status": 400, "message": "Validation error.", "errors": [{"field": null, "message": "Minimum one file must be provided.", "code": 10}]}

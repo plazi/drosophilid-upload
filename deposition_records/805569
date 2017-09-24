@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805568", 
+  "conceptrecid": "805568", 
+  "created": "2017-06-10T13:13:03.508460+00:00", 
+  "doi": "10.5281/zenodo.805569", 
+  "id": 805569, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805569.svg", 
+    "bucket": "https://zenodo.org/api/files/db47d103-dd77-4bb9-bf06-0a482211bf7f", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805568.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805568", 
+    "doi": "https://doi.org/10.5281/zenodo.805569", 
+    "html": "https://zenodo.org/record/805569", 
+    "latest": "https://zenodo.org/api/records/805569", 
+    "latest_html": "https://zenodo.org/record/805569", 
+    "self": "https://zenodo.org/api/records/805569"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alberola, J."
+      }, 
+      {
+        "name": "Sanchez, A."
+      }, 
+      {
+        "name": "Fontdevila, A."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805569", 
+    "journal": {
+      "pages": "727-738", 
+      "title": "Biochem. Genet.", 
+      "volume": "25"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "notspecified"
+    }, 
+    "publication_date": "1987-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805568", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805569"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805568"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Adh Expression in Species of the mulleri Subgroup of Drosophila."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-08-05T11:31:09.273815+00:00"
+}

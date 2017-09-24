@@ -1,0 +1,99 @@
+{
+  "conceptdoi": "10.5281/zenodo.805094", 
+  "conceptrecid": "805094", 
+  "created": "2017-06-09T21:55:45.095012+00:00", 
+  "doi": "10.5281/zenodo.805095", 
+  "id": 805095, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805095.svg", 
+    "bucket": "https://zenodo.org/api/files/b5863b78-2758-4a3b-8ebc-b92a0aa0137f", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805094.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805094", 
+    "doi": "https://doi.org/10.5281/zenodo.805095", 
+    "html": "https://zenodo.org/record/805095", 
+    "latest": "https://zenodo.org/api/records/805095", 
+    "latest_html": "https://zenodo.org/record/805095", 
+    "self": "https://zenodo.org/api/records/805095"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Afonso, J.M."
+      }, 
+      {
+        "name": "Hernandez, M."
+      }, 
+      {
+        "name": "Padron, G."
+      }, 
+      {
+        "name": "Gonzalez, A.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805095", 
+    "journal": {
+      "pages": "3-11", 
+      "title": "Genetica", 
+      "volume": "67"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1985-07-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805094", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805095"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805094"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Gametic non-random associations in North-West African populations of Drosophila melanogaster."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:35:33.272551+00:00"
+}

@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805636", 
+  "created": "2017-06-10T16:09:49.597074+00:00", 
+  "files": [], 
+  "id": 805637, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/c917b23f-c9d6-46df-a508-7b86727b56d5", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805637/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805637/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805637/files", 
+    "html": "https://zenodo.org/deposit/805637", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805637", 
+    "latest_draft_html": "https://zenodo.org/deposit/805637", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805637/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805637"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allemand, R."
+      }, 
+      {
+        "name": "David, J.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "31-43", 
+    "journal_title": "Behav. Genet.", 
+    "journal_volume": "14", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805637", 
+      "recid": 805637
+    }, 
+    "publication_date": "1984-01-31", 
+    "publication_type": "article", 
+    "title": "Genetic Analysis of the Circadian Oviposition Rhythm in Drosophila melanogaster: Effects of Drift in Laboratory Strains.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:09:49.597080+00:00", 
+  "owner": 1161, 
+  "record_id": 805637, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Genetic Analysis of the Circadian Oviposition Rhythm in Drosophila melanogaster: Effects of Drift in Laboratory Strains."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:09:52 GMT
+Content-Type: application/json
+Content-Length: 375
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497114590
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "d61fb8d9a1bf88074c0713b021c3acbf", "filename": "allemand__david_1984.pdf", "filesize": 414607, "id": "9f7fbf51-a9de-458c-ad81-546cd91be2cc", "links": {"download": "https://zenodo.org/api/files/c917b23f-c9d6-46df-a508-7b86727b56d5/allemand__david_1984.pdf", "self": "https://zenodo.org/api/deposit/depositions/805637/files/9f7fbf51-a9de-458c-ad81-546cd91be2cc"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:09:54 GMT
+Content-Type: application/json
+Content-Length: 2638
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:09:54 GMT
+Location: https://zenodo.org/api/deposit/depositions/805637
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497114558
+Retry-After: 3563
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805636", 
+  "conceptrecid": "805636", 
+  "created": "2017-06-10T16:09:49.597074+00:00", 
+  "doi": "10.5281/zenodo.805637", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805637", 
+  "files": [
+    {
+      "checksum": "d61fb8d9a1bf88074c0713b021c3acbf", 
+      "filename": "allemand__david_1984.pdf", 
+      "filesize": 414607, 
+      "id": "9f7fbf51-a9de-458c-ad81-546cd91be2cc", 
+      "links": {
+        "download": "https://zenodo.org/api/files/c917b23f-c9d6-46df-a508-7b86727b56d5/allemand__david_1984.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/128482/files/9f7fbf51-a9de-458c-ad81-546cd91be2cc"
+      }
+    }
+  ], 
+  "id": 805637, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805637.svg", 
+    "bucket": "https://zenodo.org/api/files/c917b23f-c9d6-46df-a508-7b86727b56d5", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805636.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805636", 
+    "doi": "https://doi.org/10.5281/zenodo.805637", 
+    "latest": "https://zenodo.org/api/records/805637", 
+    "latest_html": "https://zenodo.org/record/805637", 
+    "record": "https://zenodo.org/api/records/805637", 
+    "record_html": "https://zenodo.org/record/805637"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allemand, R."
+      }, 
+      {
+        "name": "David, J.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805637", 
+    "journal_pages": "31-43", 
+    "journal_title": "Behav. Genet.", 
+    "journal_volume": "14", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805637", 
+      "recid": 805637
+    }, 
+    "publication_date": "1984-01-31", 
+    "publication_type": "article", 
+    "title": "Genetic Analysis of the Circadian Oviposition Rhythm in Drosophila melanogaster: Effects of Drift in Laboratory Strains.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:09:54.330034+00:00", 
+  "owner": 1161, 
+  "record_id": 805637, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Genetic Analysis of the Circadian Oviposition Rhythm in Drosophila melanogaster: Effects of Drift in Laboratory Strains."
+}

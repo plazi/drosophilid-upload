@@ -1,0 +1,187 @@
+{
+  "conceptrecid": "805809", 
+  "created": "2017-06-10T20:10:56.883181+00:00", 
+  "files": [], 
+  "id": 805810, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/3a86765b-2053-466d-9514-f1e424a3d12e", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805810/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805810/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805810/files", 
+    "html": "https://zenodo.org/deposit/805810", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805810", 
+    "latest_draft_html": "https://zenodo.org/deposit/805810", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805810/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805810"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ananina, G."
+      }, 
+      {
+        "name": "Peixoto, A.A."
+      }, 
+      {
+        "name": "Souza, W.N."
+      }, 
+      {
+        "name": "Klaczko, L.B."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "1-4", 
+    "journal_title": "Mem. Inst. Oswaldo Cruz", 
+    "journal_volume": "97", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805810", 
+      "recid": 805810
+    }, 
+    "publication_date": "2002-12-31", 
+    "publication_type": "article", 
+    "title": "Polytene Chromosome Map and Inversion Polymorphism in Drosophila mediopunctata.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:10:56.883194+00:00", 
+  "owner": 1161, 
+  "record_id": 805810, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Polytene Chromosome Map and Inversion Polymorphism in Drosophila mediopunctata."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:11:01 GMT
+Content-Type: application/json
+Content-Length: 373
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497128838
+Retry-After: 3376
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "3cee20cf95523de581731435acb73833", "filename": "ananina_et_al__2002.pdf", "filesize": 159439, "id": "3ce216ed-6994-4489-ac6c-19594f5cd36a", "links": {"download": "https://zenodo.org/api/files/3a86765b-2053-466d-9514-f1e424a3d12e/ananina_et_al__2002.pdf", "self": "https://zenodo.org/api/deposit/depositions/805810/files/3ce216ed-6994-4489-ac6c-19594f5cd36a"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:11:03 GMT
+Content-Type: application/json
+Content-Length: 2634
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 20:11:03 GMT
+Location: https://zenodo.org/api/deposit/depositions/805810
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497128886
+Retry-After: 3422
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805809", 
+  "conceptrecid": "805809", 
+  "created": "2017-06-10T20:10:56.883181+00:00", 
+  "doi": "10.5281/zenodo.805810", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805810", 
+  "files": [
+    {
+      "checksum": "3cee20cf95523de581731435acb73833", 
+      "filename": "ananina_et_al__2002.pdf", 
+      "filesize": 159439, 
+      "id": "3ce216ed-6994-4489-ac6c-19594f5cd36a", 
+      "links": {
+        "download": "https://zenodo.org/api/files/3a86765b-2053-466d-9514-f1e424a3d12e/ananina_et_al__2002.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804771/files/3ce216ed-6994-4489-ac6c-19594f5cd36a"
+      }
+    }
+  ], 
+  "id": 805810, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805810.svg", 
+    "bucket": "https://zenodo.org/api/files/3a86765b-2053-466d-9514-f1e424a3d12e", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805809.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805809", 
+    "doi": "https://doi.org/10.5281/zenodo.805810", 
+    "latest": "https://zenodo.org/api/records/805810", 
+    "latest_html": "https://zenodo.org/record/805810", 
+    "record": "https://zenodo.org/api/records/805810", 
+    "record_html": "https://zenodo.org/record/805810"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ananina, G."
+      }, 
+      {
+        "name": "Peixoto, A.A."
+      }, 
+      {
+        "name": "Souza, W.N."
+      }, 
+      {
+        "name": "Klaczko, L.B."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805810", 
+    "journal_pages": "1-4", 
+    "journal_title": "Mem. Inst. Oswaldo Cruz", 
+    "journal_volume": "97", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805810", 
+      "recid": 805810
+    }, 
+    "publication_date": "2002-12-31", 
+    "publication_type": "article", 
+    "title": "Polytene Chromosome Map and Inversion Polymorphism in Drosophila mediopunctata.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:11:03.296460+00:00", 
+  "owner": 1161, 
+  "record_id": 805810, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Polytene Chromosome Map and Inversion Polymorphism in Drosophila mediopunctata."
+}

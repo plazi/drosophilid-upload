@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805058", 
+  "conceptrecid": "805058", 
+  "created": "2017-06-09T21:38:56.554845+00:00", 
+  "doi": "10.5281/zenodo.805059", 
+  "id": 805059, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805059.svg", 
+    "bucket": "https://zenodo.org/api/files/89c8a944-9b76-4575-9a0b-12ec8e3dbed0", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805058.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805058", 
+    "doi": "https://doi.org/10.5281/zenodo.805059", 
+    "html": "https://zenodo.org/record/805059", 
+    "latest": "https://zenodo.org/api/records/805059", 
+    "latest_html": "https://zenodo.org/record/805059", 
+    "self": "https://zenodo.org/api/records/805059"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Achumi, B."
+      }, 
+      {
+        "name": "Hegde, S.N."
+      }, 
+      {
+        "name": "Lal, P."
+      }, 
+      {
+        "name": "Yenisetti, S.C."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805059", 
+    "journal": {
+      "pages": "1-12", 
+      "title": "J. Insect Sci.", 
+      "volume": "13"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2013-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805058", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805059"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805058"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Altitudinal and seasonal variation in Drosophila species on mount Japfu of Nagaland, a sub-Himalayan hilly state of India."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 5, 
+  "updated": "2017-09-08T08:42:43.026490+00:00"
+}

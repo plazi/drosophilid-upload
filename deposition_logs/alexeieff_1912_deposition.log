@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805620", 
+  "created": "2017-06-10T16:08:56.165615+00:00", 
+  "files": [], 
+  "id": 805621, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/3aade2db-dc42-4503-9aa8-547820f789d4", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805621/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805621/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805621/files", 
+    "html": "https://zenodo.org/deposit/805621", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805621", 
+    "latest_draft_html": "https://zenodo.org/deposit/805621", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805621/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805621"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alexeieff, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "17-37", 
+    "journal_title": "Zool. Anz.", 
+    "journal_volume": "41", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805621", 
+      "recid": 805621
+    }, 
+    "publication_date": "1912-12-26", 
+    "publication_type": "article", 
+    "title": "Quelques remarques a propos de la specificite parasitaire. Sur le veritable nom de Cryptobia (=Trypanoplasma) intestinalis et sur celui du Trypanosome pathogene des Mammiferes; quelques autres questions de synonymie chez les Protozoaires.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:08:56.165628+00:00", 
+  "owner": 1161, 
+  "record_id": 805621, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Quelques remarques a propos de la specificite parasitaire. Sur le veritable nom de Cryptobia (=Trypanoplasma) intestinalis et sur celui du Trypanosome pathogene des Mammiferes; quelques autres questions de synonymie chez les Protozoaires."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:08:59 GMT
+Content-Type: application/json
+Content-Length: 363
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497114383
+Retry-After: 3443
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "7ad924dc9a8a7d5d00f7422c04f46a61", "filename": "alexeieff_1912.pdf", "filesize": 274181, "id": "4c67f4ba-f48d-41f7-ae05-5f53a620ddb6", "links": {"download": "https://zenodo.org/api/files/3aade2db-dc42-4503-9aa8-547820f789d4/alexeieff_1912.pdf", "self": "https://zenodo.org/api/deposit/depositions/805621/files/4c67f4ba-f48d-41f7-ae05-5f53a620ddb6"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:09:01 GMT
+Content-Type: application/json
+Content-Length: 2812
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:09:01 GMT
+Location: https://zenodo.org/api/deposit/depositions/805621
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497114540
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805620", 
+  "conceptrecid": "805620", 
+  "created": "2017-06-10T16:08:56.165615+00:00", 
+  "doi": "10.5281/zenodo.805621", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805621", 
+  "files": [
+    {
+      "checksum": "7ad924dc9a8a7d5d00f7422c04f46a61", 
+      "filename": "alexeieff_1912.pdf", 
+      "filesize": 274181, 
+      "id": "4c67f4ba-f48d-41f7-ae05-5f53a620ddb6", 
+      "links": {
+        "download": "https://zenodo.org/api/files/3aade2db-dc42-4503-9aa8-547820f789d4/alexeieff_1912.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804707/files/4c67f4ba-f48d-41f7-ae05-5f53a620ddb6"
+      }
+    }
+  ], 
+  "id": 805621, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805621.svg", 
+    "bucket": "https://zenodo.org/api/files/3aade2db-dc42-4503-9aa8-547820f789d4", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805620.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805620", 
+    "doi": "https://doi.org/10.5281/zenodo.805621", 
+    "latest": "https://zenodo.org/api/records/805621", 
+    "latest_html": "https://zenodo.org/record/805621", 
+    "record": "https://zenodo.org/api/records/805621", 
+    "record_html": "https://zenodo.org/record/805621"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alexeieff, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805621", 
+    "journal_pages": "17-37", 
+    "journal_title": "Zool. Anz.", 
+    "journal_volume": "41", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805621", 
+      "recid": 805621
+    }, 
+    "publication_date": "1912-12-26", 
+    "publication_type": "article", 
+    "title": "Quelques remarques a propos de la specificite parasitaire. Sur le veritable nom de Cryptobia (=Trypanoplasma) intestinalis et sur celui du Trypanosome pathogene des Mammiferes; quelques autres questions de synonymie chez les Protozoaires.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:09:01.368891+00:00", 
+  "owner": 1161, 
+  "record_id": 805621, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Quelques remarques a propos de la specificite parasitaire. Sur le veritable nom de Cryptobia (=Trypanoplasma) intestinalis et sur celui du Trypanosome pathogene des Mammiferes; quelques autres questions de synonymie chez les Protozoaires."
+}

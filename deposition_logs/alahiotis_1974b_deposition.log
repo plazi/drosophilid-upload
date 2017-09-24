@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805522", 
+  "created": "2017-06-10T11:54:35.516230+00:00", 
+  "files": [], 
+  "id": 805523, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/0afb7fb7-d86f-4021-8362-5e9c0348082a", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805523/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805523/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805523/files", 
+    "html": "https://zenodo.org/deposit/805523", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805523", 
+    "latest_draft_html": "https://zenodo.org/deposit/805523", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805523/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805523"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alahiotis, S."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "88", 
+    "journal_title": "D. I. S.", 
+    "journal_volume": "51", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805523", 
+      "recid": 805523
+    }, 
+    "publication_date": "1974-12-31", 
+    "publication_type": "article", 
+    "title": "Enzyme polymorphisms in two D. melanogaster populations of Southern Greece.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T11:54:35.516237+00:00", 
+  "owner": 1161, 
+  "record_id": 805523, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Enzyme polymorphisms in two D. melanogaster populations of Southern Greece."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 11:54:37 GMT
+Content-Type: application/json
+Content-Length: 364
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497099246
+Retry-After: 3568
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "7acabfd3efe601b094ac2449dab6b875", "filename": "alahiotis_1974b.pdf", "filesize": 29913, "id": "f40ebf8c-bcff-490f-8017-88e0a044f8a0", "links": {"download": "https://zenodo.org/api/files/0afb7fb7-d86f-4021-8362-5e9c0348082a/alahiotis_1974b.pdf", "self": "https://zenodo.org/api/deposit/depositions/805523/files/f40ebf8c-bcff-490f-8017-88e0a044f8a0"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 11:54:39 GMT
+Content-Type: application/json
+Content-Length: 2482
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 11:54:39 GMT
+Location: https://zenodo.org/api/deposit/depositions/805523
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497099278
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805522", 
+  "conceptrecid": "805522", 
+  "created": "2017-06-10T11:54:35.516230+00:00", 
+  "doi": "10.5281/zenodo.805523", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805523", 
+  "files": [
+    {
+      "checksum": "7acabfd3efe601b094ac2449dab6b875", 
+      "filename": "alahiotis_1974b.pdf", 
+      "filesize": 29913, 
+      "id": "f40ebf8c-bcff-490f-8017-88e0a044f8a0", 
+      "links": {
+        "download": "https://zenodo.org/api/files/0afb7fb7-d86f-4021-8362-5e9c0348082a/alahiotis_1974b.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804703/files/f40ebf8c-bcff-490f-8017-88e0a044f8a0"
+      }
+    }
+  ], 
+  "id": 805523, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805523.svg", 
+    "bucket": "https://zenodo.org/api/files/0afb7fb7-d86f-4021-8362-5e9c0348082a", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805522.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805522", 
+    "doi": "https://doi.org/10.5281/zenodo.805523", 
+    "latest": "https://zenodo.org/api/records/805523", 
+    "latest_html": "https://zenodo.org/record/805523", 
+    "record": "https://zenodo.org/api/records/805523", 
+    "record_html": "https://zenodo.org/record/805523"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alahiotis, S."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805523", 
+    "journal_pages": "88", 
+    "journal_title": "D. I. S.", 
+    "journal_volume": "51", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805523", 
+      "recid": 805523
+    }, 
+    "publication_date": "1974-12-31", 
+    "publication_type": "article", 
+    "title": "Enzyme polymorphisms in two D. melanogaster populations of Southern Greece.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T11:54:39.158443+00:00", 
+  "owner": 1161, 
+  "record_id": 805523, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Enzyme polymorphisms in two D. melanogaster populations of Southern Greece."
+}

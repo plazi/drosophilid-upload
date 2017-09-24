@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805815", 
+  "conceptrecid": "805815", 
+  "created": "2017-06-10T20:11:24.805939+00:00", 
+  "doi": "10.5281/zenodo.805816", 
+  "id": 805816, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805816.svg", 
+    "bucket": "https://zenodo.org/api/files/441b66f9-9ab0-4535-92a3-b0831a8e9b34", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805815.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805815", 
+    "doi": "https://doi.org/10.5281/zenodo.805816", 
+    "html": "https://zenodo.org/record/805816", 
+    "latest": "https://zenodo.org/api/records/805816", 
+    "latest_html": "https://zenodo.org/record/805816", 
+    "self": "https://zenodo.org/api/records/805816"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Andersen, D.H."
+      }, 
+      {
+        "name": "Pertoldi, C."
+      }, 
+      {
+        "name": "Scali, V."
+      }, 
+      {
+        "name": "Loeschcke, V."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805816", 
+    "journal": {
+      "pages": "603-621", 
+      "title": "Evol. Ecol. Res.", 
+      "volume": "4"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2002-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805815", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805816"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805815"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Intraspecific hybridization, developmental stability and fitness in Drosophila mercatorum."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T08:38:36.806686+00:00"
+}

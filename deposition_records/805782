@@ -1,0 +1,102 @@
+{
+  "conceptdoi": "10.5281/zenodo.805781", 
+  "conceptrecid": "805781", 
+  "created": "2017-06-10T20:09:30.427624+00:00", 
+  "doi": "10.5281/zenodo.805782", 
+  "id": 805782, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805782.svg", 
+    "bucket": "https://zenodo.org/api/files/cbc8744e-f09f-41a0-9940-0331c73fdc30", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805781.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805781", 
+    "doi": "https://doi.org/10.5281/zenodo.805782", 
+    "html": "https://zenodo.org/record/805782", 
+    "latest": "https://zenodo.org/api/records/805782", 
+    "latest_html": "https://zenodo.org/record/805782", 
+    "self": "https://zenodo.org/api/records/805782"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amin ud Din, M."
+      }, 
+      {
+        "name": "Khan, S.M.N."
+      }, 
+      {
+        "name": "Bakhsh, A."
+      }, 
+      {
+        "name": "Aleem, R."
+      }, 
+      {
+        "name": "Haque, S."
+      }, 
+      {
+        "name": "Salam, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805782", 
+    "journal": {
+      "pages": "15-16", 
+      "title": "D. I. S.", 
+      "volume": "88"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2005-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805781", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805782"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805781"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Study of Drosophila association with certain plant species in Islamabad, Pakistan."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T07:46:47.275552+00:00"
+}

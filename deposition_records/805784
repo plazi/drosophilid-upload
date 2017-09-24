@@ -1,0 +1,99 @@
+{
+  "conceptdoi": "10.5281/zenodo.805783", 
+  "conceptrecid": "805783", 
+  "created": "2017-06-10T20:09:38.031026+00:00", 
+  "doi": "10.5281/zenodo.805784", 
+  "id": 805784, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805784.svg", 
+    "bucket": "https://zenodo.org/api/files/c1763025-dc9f-43fe-b68f-702ed133c8dd", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805783.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805783", 
+    "doi": "https://doi.org/10.5281/zenodo.805784", 
+    "html": "https://zenodo.org/record/805784", 
+    "latest": "https://zenodo.org/api/records/805784", 
+    "latest_html": "https://zenodo.org/record/805784", 
+    "self": "https://zenodo.org/api/records/805784"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amlou, M."
+      }, 
+      {
+        "name": "Pla, E."
+      }, 
+      {
+        "name": "Moreteau, B."
+      }, 
+      {
+        "name": "David, J.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805784", 
+    "journal": {
+      "pages": "511-522", 
+      "title": "Genet. Sel. Evol.", 
+      "volume": "29"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1997-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805783", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805784"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805783"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Genetic analysis by interspecific crosses of the tolerance of Drosophila sechellia to major aliphatic acids of its host plant."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:59:56.882825+00:00"
+}

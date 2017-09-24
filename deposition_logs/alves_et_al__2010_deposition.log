@@ -1,0 +1,205 @@
+{
+  "conceptrecid": "805771", 
+  "created": "2017-06-10T20:08:56.470848+00:00", 
+  "files": [], 
+  "id": 805772, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/14533e42-0d7e-4c57-9684-9c8f8a10e6ea", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805772/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805772/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805772/files", 
+    "html": "https://zenodo.org/deposit/805772", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805772", 
+    "latest_draft_html": "https://zenodo.org/deposit/805772", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805772/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805772"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alves, H."
+      }, 
+      {
+        "name": "Rouault, J.-D."
+      }, 
+      {
+        "name": "Kondoh, Y."
+      }, 
+      {
+        "name": "Nakano, Y."
+      }, 
+      {
+        "name": "Yamamoto, D."
+      }, 
+      {
+        "name": "Kim, Y.-K."
+      }, 
+      {
+        "name": "Jallon, J.-M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "694-705", 
+    "journal_title": "Behav. Genet.", 
+    "journal_volume": "40", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805772", 
+      "recid": 805772
+    }, 
+    "publication_date": "2010-12-31", 
+    "publication_type": "article", 
+    "title": "Evolution of Cuticular Hydrocarbons of Hawaiian Drosophilidae.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:08:56.470854+00:00", 
+  "owner": 1161, 
+  "record_id": 805772, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Evolution of Cuticular Hydrocarbons of Hawaiian Drosophilidae."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:08:59 GMT
+Content-Type: application/json
+Content-Length: 369
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497128937
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "d0c0636da7668480f2ac516d9fe849af", "filename": "alves_et_al__2010.pdf", "filesize": 524546, "id": "fb21313c-c53a-4052-950e-c833d7ceeef7", "links": {"download": "https://zenodo.org/api/files/14533e42-0d7e-4c57-9684-9c8f8a10e6ea/alves_et_al__2010.pdf", "self": "https://zenodo.org/api/deposit/depositions/805772/files/fb21313c-c53a-4052-950e-c833d7ceeef7"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:09:01 GMT
+Content-Type: application/json
+Content-Length: 2731
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 20:09:01 GMT
+Location: https://zenodo.org/api/deposit/depositions/805772
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497128940
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805771", 
+  "conceptrecid": "805771", 
+  "created": "2017-06-10T20:08:56.470848+00:00", 
+  "doi": "10.5281/zenodo.805772", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805772", 
+  "files": [
+    {
+      "checksum": "d0c0636da7668480f2ac516d9fe849af", 
+      "filename": "alves_et_al__2010.pdf", 
+      "filesize": 524546, 
+      "id": "fb21313c-c53a-4052-950e-c833d7ceeef7", 
+      "links": {
+        "download": "https://zenodo.org/api/files/14533e42-0d7e-4c57-9684-9c8f8a10e6ea/alves_et_al__2010.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804617/files/fb21313c-c53a-4052-950e-c833d7ceeef7"
+      }
+    }
+  ], 
+  "id": 805772, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805772.svg", 
+    "bucket": "https://zenodo.org/api/files/14533e42-0d7e-4c57-9684-9c8f8a10e6ea", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805771.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805771", 
+    "doi": "https://doi.org/10.5281/zenodo.805772", 
+    "latest": "https://zenodo.org/api/records/805772", 
+    "latest_html": "https://zenodo.org/record/805772", 
+    "record": "https://zenodo.org/api/records/805772", 
+    "record_html": "https://zenodo.org/record/805772"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alves, H."
+      }, 
+      {
+        "name": "Rouault, J.-D."
+      }, 
+      {
+        "name": "Kondoh, Y."
+      }, 
+      {
+        "name": "Nakano, Y."
+      }, 
+      {
+        "name": "Yamamoto, D."
+      }, 
+      {
+        "name": "Kim, Y.-K."
+      }, 
+      {
+        "name": "Jallon, J.-M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805772", 
+    "journal_pages": "694-705", 
+    "journal_title": "Behav. Genet.", 
+    "journal_volume": "40", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805772", 
+      "recid": 805772
+    }, 
+    "publication_date": "2010-12-31", 
+    "publication_type": "article", 
+    "title": "Evolution of Cuticular Hydrocarbons of Hawaiian Drosophilidae.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:09:01.203343+00:00", 
+  "owner": 1161, 
+  "record_id": 805772, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Evolution of Cuticular Hydrocarbons of Hawaiian Drosophilidae."
+}

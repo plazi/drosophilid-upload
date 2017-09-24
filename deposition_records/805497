@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805496", 
+  "conceptrecid": "805496", 
+  "created": "2017-06-10T11:53:09.660309+00:00", 
+  "doi": "10.5281/zenodo.805497", 
+  "id": 805497, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805497.svg", 
+    "bucket": "https://zenodo.org/api/files/c8fdedad-bbaa-4f26-b7c6-fc154a31e806", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805496.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805496", 
+    "doi": "https://doi.org/10.5281/zenodo.805497", 
+    "html": "https://zenodo.org/record/805497", 
+    "latest": "https://zenodo.org/api/records/805497", 
+    "latest_html": "https://zenodo.org/record/805497", 
+    "self": "https://zenodo.org/api/records/805497"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "von Aigner-Abafi, L."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805497", 
+    "journal": {
+      "pages": "303", 
+      "title": "Ill. Z. Ent.", 
+      "volume": "4"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1899-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805496", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805497"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805496"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "(Review)."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:02:28.161683+00:00"
+}

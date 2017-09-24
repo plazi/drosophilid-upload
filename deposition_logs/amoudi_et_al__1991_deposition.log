@@ -1,0 +1,183 @@
+{
+  "conceptrecid": "805795", 
+  "created": "2017-06-10T20:10:15.763820+00:00", 
+  "files": [], 
+  "id": 805796, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/7ed461ab-2954-4d69-8562-d6e4575d2592", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805796/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805796/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805796/files", 
+    "html": "https://zenodo.org/deposit/805796", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805796", 
+    "latest_draft_html": "https://zenodo.org/deposit/805796", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805796/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805796"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amoudi, M.A."
+      }, 
+      {
+        "name": "Diab, F.M."
+      }, 
+      {
+        "name": "and Abou-Fannah, S.S.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "111-121", 
+    "journal_title": "J. King Saud Univ.", 
+    "journal_volume": "3", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805796", 
+      "recid": 805796
+    }, 
+    "publication_date": "1991-12-31", 
+    "publication_type": "article", 
+    "title": "Zaprionus indiana (Diptera: Drosophilidae) in Saudi Arabia and the Effect of Temperature on the Life Cycle.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:10:15.763827+00:00", 
+  "owner": 1161, 
+  "record_id": 805796, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Zaprionus indiana (Diptera: Drosophilidae) in Saudi Arabia and the Effect of Temperature on the Life Cycle."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:10:19 GMT
+Content-Type: application/json
+Content-Length: 371
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497128980
+Retry-After: 3560
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "94cd8ff63e52a95e3ff5a4ecf05825f5", "filename": "amoudi_et_al__1991.pdf", "filesize": 320832, "id": "04950c62-f54d-489a-a585-18653345717a", "links": {"download": "https://zenodo.org/api/files/7ed461ab-2954-4d69-8562-d6e4575d2592/amoudi_et_al__1991.pdf", "self": "https://zenodo.org/api/deposit/depositions/805796/files/04950c62-f54d-489a-a585-18653345717a"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:10:21 GMT
+Content-Type: application/json
+Content-Length: 2673
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 20:10:20 GMT
+Location: https://zenodo.org/api/deposit/depositions/805796
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497129001
+Retry-After: 3579
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805795", 
+  "conceptrecid": "805795", 
+  "created": "2017-06-10T20:10:15.763820+00:00", 
+  "doi": "10.5281/zenodo.805796", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805796", 
+  "files": [
+    {
+      "checksum": "94cd8ff63e52a95e3ff5a4ecf05825f5", 
+      "filename": "amoudi_et_al__1991.pdf", 
+      "filesize": 320832, 
+      "id": "04950c62-f54d-489a-a585-18653345717a", 
+      "links": {
+        "download": "https://zenodo.org/api/files/7ed461ab-2954-4d69-8562-d6e4575d2592/amoudi_et_al__1991.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/155396/files/04950c62-f54d-489a-a585-18653345717a"
+      }
+    }
+  ], 
+  "id": 805796, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805796.svg", 
+    "bucket": "https://zenodo.org/api/files/7ed461ab-2954-4d69-8562-d6e4575d2592", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805795.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805795", 
+    "doi": "https://doi.org/10.5281/zenodo.805796", 
+    "latest": "https://zenodo.org/api/records/805796", 
+    "latest_html": "https://zenodo.org/record/805796", 
+    "record": "https://zenodo.org/api/records/805796", 
+    "record_html": "https://zenodo.org/record/805796"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amoudi, M.A."
+      }, 
+      {
+        "name": "Diab, F.M."
+      }, 
+      {
+        "name": "and Abou-Fannah, S.S.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805796", 
+    "journal_pages": "111-121", 
+    "journal_title": "J. King Saud Univ.", 
+    "journal_volume": "3", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805796", 
+      "recid": 805796
+    }, 
+    "publication_date": "1991-12-31", 
+    "publication_type": "article", 
+    "title": "Zaprionus indiana (Diptera: Drosophilidae) in Saudi Arabia and the Effect of Temperature on the Life Cycle.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:10:20.795091+00:00", 
+  "owner": 1161, 
+  "record_id": 805796, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Zaprionus indiana (Diptera: Drosophilidae) in Saudi Arabia and the Effect of Temperature on the Life Cycle."
+}

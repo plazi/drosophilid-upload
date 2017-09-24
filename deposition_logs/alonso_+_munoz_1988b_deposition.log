@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805686", 
+  "created": "2017-06-10T16:21:15.152047+00:00", 
+  "files": [], 
+  "id": 805687, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/e7938341-b6fb-4381-ac0e-d1dce30043b0", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805687/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805687/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805687/files", 
+    "html": "https://zenodo.org/deposit/805687", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805687", 
+    "latest_draft_html": "https://zenodo.org/deposit/805687", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805687/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805687"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alonso-Moraga, A."
+      }, 
+      {
+        "name": "Munoz-Serrano, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "15-24", 
+    "journal_title": "Genet. Sel. Evol.", 
+    "journal_volume": "20", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805687", 
+      "recid": 805687
+    }, 
+    "publication_date": "1988-12-31", 
+    "publication_type": "article", 
+    "title": "Variation at four enzyme loci in natural populations of Drosophila melanogaster: factor analysis of genotypic and gametic associations.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:21:15.152056+00:00", 
+  "owner": 1161, 
+  "record_id": 805687, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Variation at four enzyme loci in natural populations of Drosophila melanogaster: factor analysis of genotypic and gametic associations."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:21:18 GMT
+Content-Type: application/json
+Content-Length: 373
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497115195
+Retry-After: 3516
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "e63f5b9ba5552aa7c076b7b20b5d3f55", "filename": "alonso__munoz_1988b.pdf", "filesize": 436585, "id": "f7f4f20d-193d-4aa2-88f5-52bd2c0d354c", "links": {"download": "https://zenodo.org/api/files/e7938341-b6fb-4381-ac0e-d1dce30043b0/alonso__munoz_1988b.pdf", "self": "https://zenodo.org/api/deposit/depositions/805687/files/f7f4f20d-193d-4aa2-88f5-52bd2c0d354c"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:21:21 GMT
+Content-Type: application/json
+Content-Length: 2681
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:21:19 GMT
+Location: https://zenodo.org/api/deposit/depositions/805687
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497115210
+Retry-After: 3528
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805686", 
+  "conceptrecid": "805686", 
+  "created": "2017-06-10T16:21:15.152047+00:00", 
+  "doi": "10.5281/zenodo.805687", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805687", 
+  "files": [
+    {
+      "checksum": "e63f5b9ba5552aa7c076b7b20b5d3f55", 
+      "filename": "alonso__munoz_1988b.pdf", 
+      "filesize": 436585, 
+      "id": "f7f4f20d-193d-4aa2-88f5-52bd2c0d354c", 
+      "links": {
+        "download": "https://zenodo.org/api/files/e7938341-b6fb-4381-ac0e-d1dce30043b0/alonso__munoz_1988b.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804699/files/f7f4f20d-193d-4aa2-88f5-52bd2c0d354c"
+      }
+    }
+  ], 
+  "id": 805687, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805687.svg", 
+    "bucket": "https://zenodo.org/api/files/e7938341-b6fb-4381-ac0e-d1dce30043b0", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805686.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805686", 
+    "doi": "https://doi.org/10.5281/zenodo.805687", 
+    "latest": "https://zenodo.org/api/records/805687", 
+    "latest_html": "https://zenodo.org/record/805687", 
+    "record": "https://zenodo.org/api/records/805687", 
+    "record_html": "https://zenodo.org/record/805687"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alonso-Moraga, A."
+      }, 
+      {
+        "name": "Munoz-Serrano, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805687", 
+    "journal_pages": "15-24", 
+    "journal_title": "Genet. Sel. Evol.", 
+    "journal_volume": "20", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805687", 
+      "recid": 805687
+    }, 
+    "publication_date": "1988-12-31", 
+    "publication_type": "article", 
+    "title": "Variation at four enzyme loci in natural populations of Drosophila melanogaster: factor analysis of genotypic and gametic associations.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:21:19.740973+00:00", 
+  "owner": 1161, 
+  "record_id": 805687, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Variation at four enzyme loci in natural populations of Drosophila melanogaster: factor analysis of genotypic and gametic associations."
+}

@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805606", 
+  "conceptrecid": "805606", 
+  "created": "2017-06-10T16:06:45.571047+00:00", 
+  "doi": "10.5281/zenodo.805607", 
+  "id": 805607, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805607.svg", 
+    "bucket": "https://zenodo.org/api/files/567d6f82-c043-4836-90e8-4532a4a89346", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805606.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805606", 
+    "doi": "https://doi.org/10.5281/zenodo.805607", 
+    "html": "https://zenodo.org/record/805607", 
+    "latest": "https://zenodo.org/api/records/805607", 
+    "latest_html": "https://zenodo.org/record/805607", 
+    "self": "https://zenodo.org/api/records/805607"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alexander, M.L."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805607", 
+    "journal": {
+      "pages": "63-69", 
+      "title": "Univ. Texas Publs", 
+      "volume": "4920"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1949-10-15", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805606", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805607"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805606"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Note on gene variability in natural populations of Drosophila."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:39:05.808795+00:00"
+}

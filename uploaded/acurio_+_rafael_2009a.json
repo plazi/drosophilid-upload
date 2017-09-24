@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "title": "Inventario Taxonomico de Drosophilidae (Diptera) en el Parque Nacional Yasuni, Amazonia Ecuatoriana.",
+    "upload_type": "publication",
+    "description": "uploaded by Plazi from Taxodros",
+    "access_right": "open",
+    "journal_pages": "713-718",
+    "journal_title": "Acta Amazon.",
+    "journal_volume": "39",
+    "publication_type": "article",
+    "publication_date": "2009-12-31",
+    "keywords": [
+      "Biodiversity",
+      "Taxonomy",
+      "Animalia",
+      "Arthropoda",
+      "Insecta",
+      "Diptera",
+      "Drosophilidae",
+      "flies",
+      "fruit flies",
+      "terrestrial"
+    ],
+    "license": "cc-by",
+    "creators": [
+      {
+        "name": "Acurio, A.E."
+      },
+      {
+        "name": "Rafael, V.L."
+      }
+    ],
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ]
+  }
+}

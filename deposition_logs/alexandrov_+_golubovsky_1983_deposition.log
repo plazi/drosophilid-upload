@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805614", 
+  "created": "2017-06-10T16:08:35.564260+00:00", 
+  "files": [], 
+  "id": 805615, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/0dd395e9-78cd-4634-9dd8-c5c615265531", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805615/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805615/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805615/files", 
+    "html": "https://zenodo.org/deposit/805615", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805615", 
+    "latest_draft_html": "https://zenodo.org/deposit/805615", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805615/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805615"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alexandrov, Y.N."
+      }, 
+      {
+        "name": "Golubovsky, M.D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "10-11", 
+    "journal_title": "D. I. S.", 
+    "journal_volume": "59", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805615", 
+      "recid": 805615
+    }, 
+    "publication_date": "1983-10-31", 
+    "publication_type": "article", 
+    "title": "The multisite mutations induced by viruses and foreign DNA can spread in natural populations of Drosophila.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:08:35.564266+00:00", 
+  "owner": 1161, 
+  "record_id": 805615, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "The multisite mutations induced by viruses and foreign DNA can spread in natural populations of Drosophila."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:08:38 GMT
+Content-Type: application/json
+Content-Length: 388
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497114516
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "2dea633fe9da52d12a1bc7a50189087e", "filename": "alexandrov__golubovsky_1983.pdf", "filesize": 62959, "id": "7ca0fd1c-ad16-4083-9f3f-e273941f72ab", "links": {"download": "https://zenodo.org/api/files/0dd395e9-78cd-4634-9dd8-c5c615265531/alexandrov__golubovsky_1983.pdf", "self": "https://zenodo.org/api/deposit/depositions/805615/files/7ca0fd1c-ad16-4083-9f3f-e273941f72ab"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:08:40 GMT
+Content-Type: application/json
+Content-Length: 2629
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:08:40 GMT
+Location: https://zenodo.org/api/deposit/depositions/805615
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497114519
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805614", 
+  "conceptrecid": "805614", 
+  "created": "2017-06-10T16:08:35.564260+00:00", 
+  "doi": "10.5281/zenodo.805615", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805615", 
+  "files": [
+    {
+      "checksum": "2dea633fe9da52d12a1bc7a50189087e", 
+      "filename": "alexandrov__golubovsky_1983.pdf", 
+      "filesize": 62959, 
+      "id": "7ca0fd1c-ad16-4083-9f3f-e273941f72ab", 
+      "links": {
+        "download": "https://zenodo.org/api/files/0dd395e9-78cd-4634-9dd8-c5c615265531/alexandrov__golubovsky_1983.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804606/files/7ca0fd1c-ad16-4083-9f3f-e273941f72ab"
+      }
+    }
+  ], 
+  "id": 805615, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805615.svg", 
+    "bucket": "https://zenodo.org/api/files/0dd395e9-78cd-4634-9dd8-c5c615265531", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805614.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805614", 
+    "doi": "https://doi.org/10.5281/zenodo.805615", 
+    "latest": "https://zenodo.org/api/records/805615", 
+    "latest_html": "https://zenodo.org/record/805615", 
+    "record": "https://zenodo.org/api/records/805615", 
+    "record_html": "https://zenodo.org/record/805615"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alexandrov, Y.N."
+      }, 
+      {
+        "name": "Golubovsky, M.D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805615", 
+    "journal_pages": "10-11", 
+    "journal_title": "D. I. S.", 
+    "journal_volume": "59", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805615", 
+      "recid": 805615
+    }, 
+    "publication_date": "1983-10-31", 
+    "publication_type": "article", 
+    "title": "The multisite mutations induced by viruses and foreign DNA can spread in natural populations of Drosophila.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:08:40.194220+00:00", 
+  "owner": 1161, 
+  "record_id": 805615, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "The multisite mutations induced by viruses and foreign DNA can spread in natural populations of Drosophila."
+}

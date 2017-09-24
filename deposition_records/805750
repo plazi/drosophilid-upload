@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805749", 
+  "conceptrecid": "805749", 
+  "created": "2017-06-10T20:07:45.865818+00:00", 
+  "doi": "10.5281/zenodo.805750", 
+  "id": 805750, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805750.svg", 
+    "bucket": "https://zenodo.org/api/files/9c0c44c3-d422-49c7-a122-810c7b64e31d", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805749.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805749", 
+    "doi": "https://doi.org/10.5281/zenodo.805750", 
+    "html": "https://zenodo.org/record/805750", 
+    "latest": "https://zenodo.org/api/records/805750", 
+    "latest_html": "https://zenodo.org/record/805750", 
+    "self": "https://zenodo.org/api/records/805750"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "van Alphen, J.J.M."
+      }, 
+      {
+        "name": "Visser, M.E."
+      }, 
+      {
+        "name": "Nell, H.W."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805750", 
+    "journal": {
+      "pages": "528-535", 
+      "title": "Funct. Ecol.", 
+      "volume": "6"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1992-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805749", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805750"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805749"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Adaptive superparasitism and patch time allocation in solitary parasitoids: searching in groups vs sequential patch visits."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:42:55.730504+00:00"
+}

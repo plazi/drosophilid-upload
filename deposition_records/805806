@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805805", 
+  "conceptrecid": "805805", 
+  "created": "2017-06-10T20:10:47.970520+00:00", 
+  "doi": "10.5281/zenodo.805806", 
+  "id": 805806, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805806.svg", 
+    "bucket": "https://zenodo.org/api/files/4ff09b46-8987-49eb-824f-8d652196cb13", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805805.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805805", 
+    "doi": "https://doi.org/10.5281/zenodo.805806", 
+    "html": "https://zenodo.org/record/805806", 
+    "latest": "https://zenodo.org/api/records/805806", 
+    "latest_html": "https://zenodo.org/record/805806", 
+    "self": "https://zenodo.org/api/records/805806"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ananiev, E.V."
+      }, 
+      {
+        "name": "Barsky, V.E."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805806", 
+    "journal": {
+      "pages": "239-245", 
+      "title": "Chromosoma", 
+      "volume": "87"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1982-12-22", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805805", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805806"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805805"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "A Photographic Map of Drosophila hydei Polytene Chromosomes."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:52:09.639221+00:00"
+}

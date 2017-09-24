@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805554", 
+  "created": "2017-06-10T13:11:59.448447+00:00", 
+  "files": [], 
+  "id": 805555, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/c374ba49-d0bf-4252-ab08-93f3c49a2a26", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805555/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805555/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805555/files", 
+    "html": "https://zenodo.org/deposit/805555", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805555", 
+    "latest_draft_html": "https://zenodo.org/deposit/805555", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805555/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805555"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alatalo, R.H."
+      }, 
+      {
+        "name": "Alatalo, R.V."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "111-117", 
+    "journal_title": "Aquilo, Ser. Zool.", 
+    "journal_volume": "20", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805555", 
+      "recid": 805555
+    }, 
+    "publication_date": "1979-12-31", 
+    "publication_type": "article", 
+    "title": "Estimation of genetic variation by the components of gene diversity.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T13:11:59.448454+00:00", 
+  "owner": 1161, 
+  "record_id": 805555, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Estimation of genetic variation by the components of gene diversity."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 13:12:02 GMT
+Content-Type: application/json
+Content-Length: 377
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497103920
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "663e56416c393dc5367ed74e45c59f6b", "filename": "alatalo__alatalo_1979.pdf", "filesize": 236671, "id": "0f8350c8-9e36-44a7-86a1-19527493300d", "links": {"download": "https://zenodo.org/api/files/c374ba49-d0bf-4252-ab08-93f3c49a2a26/alatalo__alatalo_1979.pdf", "self": "https://zenodo.org/api/deposit/depositions/805555/files/0f8350c8-9e36-44a7-86a1-19527493300d"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 13:12:04 GMT
+Content-Type: application/json
+Content-Length: 2546
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 13:12:04 GMT
+Location: https://zenodo.org/api/deposit/depositions/805555
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497103923
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805554", 
+  "conceptrecid": "805554", 
+  "created": "2017-06-10T13:11:59.448447+00:00", 
+  "doi": "10.5281/zenodo.805555", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805555", 
+  "files": [
+    {
+      "checksum": "663e56416c393dc5367ed74e45c59f6b", 
+      "filename": "alatalo__alatalo_1979.pdf", 
+      "filesize": 236671, 
+      "id": "0f8350c8-9e36-44a7-86a1-19527493300d", 
+      "links": {
+        "download": "https://zenodo.org/api/files/c374ba49-d0bf-4252-ab08-93f3c49a2a26/alatalo__alatalo_1979.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/142767/files/0f8350c8-9e36-44a7-86a1-19527493300d"
+      }
+    }
+  ], 
+  "id": 805555, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805555.svg", 
+    "bucket": "https://zenodo.org/api/files/c374ba49-d0bf-4252-ab08-93f3c49a2a26", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805554.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805554", 
+    "doi": "https://doi.org/10.5281/zenodo.805555", 
+    "latest": "https://zenodo.org/api/records/805555", 
+    "latest_html": "https://zenodo.org/record/805555", 
+    "record": "https://zenodo.org/api/records/805555", 
+    "record_html": "https://zenodo.org/record/805555"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alatalo, R.H."
+      }, 
+      {
+        "name": "Alatalo, R.V."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805555", 
+    "journal_pages": "111-117", 
+    "journal_title": "Aquilo, Ser. Zool.", 
+    "journal_volume": "20", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805555", 
+      "recid": 805555
+    }, 
+    "publication_date": "1979-12-31", 
+    "publication_type": "article", 
+    "title": "Estimation of genetic variation by the components of gene diversity.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T13:12:04.073475+00:00", 
+  "owner": 1161, 
+  "record_id": 805555, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Estimation of genetic variation by the components of gene diversity."
+}

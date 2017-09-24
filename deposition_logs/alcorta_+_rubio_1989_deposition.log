@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805578", 
+  "created": "2017-06-10T13:13:35.225682+00:00", 
+  "files": [], 
+  "id": 805579, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/a84e6bce-6d3d-476c-8df1-9bbb904df504", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805579/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805579/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805579/files", 
+    "html": "https://zenodo.org/deposit/805579", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805579", 
+    "latest_draft_html": "https://zenodo.org/deposit/805579", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805579/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805579"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alcorta, E."
+      }, 
+      {
+        "name": "Rubio, J."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "285-300", 
+    "journal_title": "Behav. Genet.", 
+    "journal_volume": "19", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805579", 
+      "recid": 805579
+    }, 
+    "publication_date": "1989-03-31", 
+    "publication_type": "article", 
+    "title": "Intrapopulational Variation of Olfactory Responses in Drosophila melanogaster.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T13:13:35.225689+00:00", 
+  "owner": 1161, 
+  "record_id": 805579, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Intrapopulational Variation of Olfactory Responses in Drosophila melanogaster."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 13:13:38 GMT
+Content-Type: application/json
+Content-Length: 372
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497104016
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "2e12471b64d127bffb581805ad3e15e5", "filename": "alcorta__rubio_1989.pdf", "filesize": 44003, "id": "d1f43e41-cf5f-4582-824d-23331c71e0a0", "links": {"download": "https://zenodo.org/api/files/a84e6bce-6d3d-476c-8df1-9bbb904df504/alcorta__rubio_1989.pdf", "self": "https://zenodo.org/api/deposit/depositions/805579/files/d1f43e41-cf5f-4582-824d-23331c71e0a0"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 13:13:39 GMT
+Content-Type: application/json
+Content-Length: 2550
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 13:13:39 GMT
+Location: https://zenodo.org/api/deposit/depositions/805579
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497104018
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805578", 
+  "conceptrecid": "805578", 
+  "created": "2017-06-10T13:13:35.225682+00:00", 
+  "doi": "10.5281/zenodo.805579", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805579", 
+  "files": [
+    {
+      "checksum": "2e12471b64d127bffb581805ad3e15e5", 
+      "filename": "alcorta__rubio_1989.pdf", 
+      "filesize": 44003, 
+      "id": "d1f43e41-cf5f-4582-824d-23331c71e0a0", 
+      "links": {
+        "download": "https://zenodo.org/api/files/a84e6bce-6d3d-476c-8df1-9bbb904df504/alcorta__rubio_1989.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/376790/files/d1f43e41-cf5f-4582-824d-23331c71e0a0"
+      }
+    }
+  ], 
+  "id": 805579, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805579.svg", 
+    "bucket": "https://zenodo.org/api/files/a84e6bce-6d3d-476c-8df1-9bbb904df504", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805578.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805578", 
+    "doi": "https://doi.org/10.5281/zenodo.805579", 
+    "latest": "https://zenodo.org/api/records/805579", 
+    "latest_html": "https://zenodo.org/record/805579", 
+    "record": "https://zenodo.org/api/records/805579", 
+    "record_html": "https://zenodo.org/record/805579"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alcorta, E."
+      }, 
+      {
+        "name": "Rubio, J."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805579", 
+    "journal_pages": "285-300", 
+    "journal_title": "Behav. Genet.", 
+    "journal_volume": "19", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805579", 
+      "recid": 805579
+    }, 
+    "publication_date": "1989-03-31", 
+    "publication_type": "article", 
+    "title": "Intrapopulational Variation of Olfactory Responses in Drosophila melanogaster.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T13:13:39.088498+00:00", 
+  "owner": 1161, 
+  "record_id": 805579, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Intrapopulational Variation of Olfactory Responses in Drosophila melanogaster."
+}

@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805604", 
+  "conceptrecid": "805604", 
+  "created": "2017-06-10T16:06:39.496699+00:00", 
+  "doi": "10.5281/zenodo.805605", 
+  "id": 805605, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805605.svg", 
+    "bucket": "https://zenodo.org/api/files/754f78a9-59fa-4556-8d6a-2c7297610c37", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805604.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805604", 
+    "doi": "https://doi.org/10.5281/zenodo.805605", 
+    "html": "https://zenodo.org/record/805605", 
+    "latest": "https://zenodo.org/api/records/805605", 
+    "latest_html": "https://zenodo.org/record/805605", 
+    "self": "https://zenodo.org/api/records/805605"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alexander, W.B."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805605", 
+    "journal": {
+      "pages": "1", 
+      "title": "Bull. Inst. Sci. Ind., Melb.", 
+      "volume": "29"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1925-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805604", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805605"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805604"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Natural Enemies of Prickly Pear and their Introduction into Australia."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:08:30.594399+00:00"
+}

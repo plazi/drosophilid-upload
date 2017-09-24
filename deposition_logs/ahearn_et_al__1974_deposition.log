@@ -1,0 +1,189 @@
+{
+  "conceptrecid": "805490", 
+  "created": "2017-06-10T11:52:47.572199+00:00", 
+  "files": [], 
+  "id": 805491, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/7c73fc25-e44a-4b65-97e0-25dca4f8d5ee", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805491/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805491/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805491/files", 
+    "html": "https://zenodo.org/deposit/805491", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805491", 
+    "latest_draft_html": "https://zenodo.org/deposit/805491", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805491/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805491"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ahearn, J.N."
+      }, 
+      {
+        "name": "Carson, H.L."
+      }, 
+      {
+        "name": "Dobzhansky, T."
+      }, 
+      {
+        "name": "and Kaneshiro, K.Y."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "901-903", 
+    "journal_title": "Proc. Natl. Acad. Sci. USA", 
+    "journal_volume": "71", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805491", 
+      "recid": 805491
+    }, 
+    "publication_date": "1974-03-31", 
+    "publication_type": "article", 
+    "title": "Ethological Isolation Among Three Species of the planitibia Subgroup of Hawaiian Drosophila.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T11:52:47.572208+00:00", 
+  "owner": 1161, 
+  "record_id": 805491, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Ethological Isolation Among Three Species of the planitibia Subgroup of Hawaiian Drosophila."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 11:52:50 GMT
+Content-Type: application/json
+Content-Length: 371
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497099168
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "1adf2d13b3a2a5f037d1d0487226d973", "filename": "ahearn_et_al__1974.pdf", "filesize": 255650, "id": "7dbef3a2-6132-4876-9bec-22277a15306f", "links": {"download": "https://zenodo.org/api/files/7c73fc25-e44a-4b65-97e0-25dca4f8d5ee/ahearn_et_al__1974.pdf", "self": "https://zenodo.org/api/deposit/depositions/805491/files/7dbef3a2-6132-4876-9bec-22277a15306f"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 11:52:52 GMT
+Content-Type: application/json
+Content-Length: 2701
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 11:52:51 GMT
+Location: https://zenodo.org/api/deposit/depositions/805491
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497099171
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805490", 
+  "conceptrecid": "805490", 
+  "created": "2017-06-10T11:52:47.572199+00:00", 
+  "doi": "10.5281/zenodo.805491", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805491", 
+  "files": [
+    {
+      "checksum": "1adf2d13b3a2a5f037d1d0487226d973", 
+      "filename": "ahearn_et_al__1974.pdf", 
+      "filesize": 255650, 
+      "id": "7dbef3a2-6132-4876-9bec-22277a15306f", 
+      "links": {
+        "download": "https://zenodo.org/api/files/7c73fc25-e44a-4b65-97e0-25dca4f8d5ee/ahearn_et_al__1974.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804695/files/7dbef3a2-6132-4876-9bec-22277a15306f"
+      }
+    }
+  ], 
+  "id": 805491, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805491.svg", 
+    "bucket": "https://zenodo.org/api/files/7c73fc25-e44a-4b65-97e0-25dca4f8d5ee", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805490.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805490", 
+    "doi": "https://doi.org/10.5281/zenodo.805491", 
+    "latest": "https://zenodo.org/api/records/805491", 
+    "latest_html": "https://zenodo.org/record/805491", 
+    "record": "https://zenodo.org/api/records/805491", 
+    "record_html": "https://zenodo.org/record/805491"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ahearn, J.N."
+      }, 
+      {
+        "name": "Carson, H.L."
+      }, 
+      {
+        "name": "Dobzhansky, T."
+      }, 
+      {
+        "name": "and Kaneshiro, K.Y."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805491", 
+    "journal_pages": "901-903", 
+    "journal_title": "Proc. Natl. Acad. Sci. USA", 
+    "journal_volume": "71", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805491", 
+      "recid": 805491
+    }, 
+    "publication_date": "1974-03-31", 
+    "publication_type": "article", 
+    "title": "Ethological Isolation Among Three Species of the planitibia Subgroup of Hawaiian Drosophila.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T11:52:51.688140+00:00", 
+  "owner": 1161, 
+  "record_id": 805491, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Ethological Isolation Among Three Species of the planitibia Subgroup of Hawaiian Drosophila."
+}

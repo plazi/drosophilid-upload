@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805616", 
+  "conceptrecid": "805616", 
+  "created": "2017-06-10T16:08:48.117352+00:00", 
+  "doi": "10.5281/zenodo.805617", 
+  "id": 805617, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805617.svg", 
+    "bucket": "https://zenodo.org/api/files/e79b0dce-1ae2-4e3f-90f1-ba5598c838e3", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805616.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805616", 
+    "doi": "https://doi.org/10.5281/zenodo.805617", 
+    "html": "https://zenodo.org/record/805617", 
+    "latest": "https://zenodo.org/api/records/805617", 
+    "latest_html": "https://zenodo.org/record/805617", 
+    "self": "https://zenodo.org/api/records/805617"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alexandrov, I.D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805617", 
+    "journal": {
+      "pages": "72-73", 
+      "title": "D. I. S.", 
+      "volume": "46"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1971-01-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805616", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805617"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805616"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "The functional w+ isoalleles revealed by w mutations in D. melanogaster."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:06:11.462899+00:00"
+}

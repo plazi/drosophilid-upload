@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805678", 
+  "conceptrecid": "805678", 
+  "created": "2017-06-10T16:20:56.228594+00:00", 
+  "doi": "10.5281/zenodo.805679", 
+  "id": 805679, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805679.svg", 
+    "bucket": "https://zenodo.org/api/files/91f7ebe9-6e57-4c74-90de-15907d5bea2b", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805678.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805678", 
+    "doi": "https://doi.org/10.5281/zenodo.805679", 
+    "html": "https://zenodo.org/record/805679", 
+    "latest": "https://zenodo.org/api/records/805679", 
+    "latest_html": "https://zenodo.org/record/805679", 
+    "self": "https://zenodo.org/api/records/805679"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Almeida, L.M."
+      }, 
+      {
+        "name": "Castro, J.P."
+      }, 
+      {
+        "name": "Carareto, C.M.A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805679", 
+    "journal": {
+      "pages": "114-117", 
+      "title": "D. I. S.", 
+      "volume": "84"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2001-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805678", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805679"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805678"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Micropia transposable element occurrence in Drosophila species of the saltans group."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T07:37:33.910131+00:00"
+}

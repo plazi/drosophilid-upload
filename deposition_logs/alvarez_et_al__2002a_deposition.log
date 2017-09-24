@@ -1,0 +1,187 @@
+{
+  "conceptrecid": "805763", 
+  "created": "2017-06-10T20:08:24.826542+00:00", 
+  "files": [], 
+  "id": 805764, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/ddb02da1-6b0d-4214-90a3-70853af58852", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805764/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805764/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805764/files", 
+    "html": "https://zenodo.org/deposit/805764", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805764", 
+    "latest_draft_html": "https://zenodo.org/deposit/805764", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805764/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805764"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alvarez, D."
+      }, 
+      {
+        "name": "Ruiz-Garcia, M."
+      }, 
+      {
+        "name": "Guerrero, J."
+      }, 
+      {
+        "name": "Jaramillo, J-P."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "1-24", 
+    "journal_title": "Genet. Mol. Res.", 
+    "journal_volume": "1", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805764", 
+      "recid": 805764
+    }, 
+    "publication_date": "2002-12-31", 
+    "publication_type": "article", 
+    "title": "Detection of stabilizing selection in favor of the Santa Cruz homokaryotype in Drosophila pseudoobscura populations from the high plateau of the Colombian Andes.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:08:24.826549+00:00", 
+  "owner": 1161, 
+  "record_id": 805764, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Detection of stabilizing selection in favor of the Santa Cruz homokaryotype in Drosophila pseudoobscura populations from the high plateau of the Colombian Andes."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:08:28 GMT
+Content-Type: application/json
+Content-Length: 375
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497128863
+Retry-After: 3554
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "67c07c0eb65f25211c159c9f89e7526a", "filename": "alvarez_et_al__2002a.pdf", "filesize": 696404, "id": "fa1c3ccd-21ca-49f0-913e-be9ca619e493", "links": {"download": "https://zenodo.org/api/files/ddb02da1-6b0d-4214-90a3-70853af58852/alvarez_et_al__2002a.pdf", "self": "https://zenodo.org/api/deposit/depositions/805764/files/fa1c3ccd-21ca-49f0-913e-be9ca619e493"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:08:30 GMT
+Content-Type: application/json
+Content-Length: 2798
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 20:08:29 GMT
+Location: https://zenodo.org/api/deposit/depositions/805764
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497128822
+Retry-After: 3511
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805763", 
+  "conceptrecid": "805763", 
+  "created": "2017-06-10T20:08:24.826542+00:00", 
+  "doi": "10.5281/zenodo.805764", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805764", 
+  "files": [
+    {
+      "checksum": "67c07c0eb65f25211c159c9f89e7526a", 
+      "filename": "alvarez_et_al__2002a.pdf", 
+      "filesize": 696404, 
+      "id": "fa1c3ccd-21ca-49f0-913e-be9ca619e493", 
+      "links": {
+        "download": "https://zenodo.org/api/files/ddb02da1-6b0d-4214-90a3-70853af58852/alvarez_et_al__2002a.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/142767/files/fa1c3ccd-21ca-49f0-913e-be9ca619e493"
+      }
+    }
+  ], 
+  "id": 805764, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805764.svg", 
+    "bucket": "https://zenodo.org/api/files/ddb02da1-6b0d-4214-90a3-70853af58852", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805763.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805763", 
+    "doi": "https://doi.org/10.5281/zenodo.805764", 
+    "latest": "https://zenodo.org/api/records/805764", 
+    "latest_html": "https://zenodo.org/record/805764", 
+    "record": "https://zenodo.org/api/records/805764", 
+    "record_html": "https://zenodo.org/record/805764"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alvarez, D."
+      }, 
+      {
+        "name": "Ruiz-Garcia, M."
+      }, 
+      {
+        "name": "Guerrero, J."
+      }, 
+      {
+        "name": "Jaramillo, J-P."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805764", 
+    "journal_pages": "1-24", 
+    "journal_title": "Genet. Mol. Res.", 
+    "journal_volume": "1", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805764", 
+      "recid": 805764
+    }, 
+    "publication_date": "2002-12-31", 
+    "publication_type": "article", 
+    "title": "Detection of stabilizing selection in favor of the Santa Cruz homokaryotype in Drosophila pseudoobscura populations from the high plateau of the Colombian Andes.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:08:29.867962+00:00", 
+  "owner": 1161, 
+  "record_id": 805764, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Detection of stabilizing selection in favor of the Santa Cruz homokaryotype in Drosophila pseudoobscura populations from the high plateau of the Colombian Andes."
+}

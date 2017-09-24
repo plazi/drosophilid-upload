@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805080", 
+  "conceptrecid": "805080", 
+  "created": "2017-06-09T21:40:21.660581+00:00", 
+  "doi": "10.5281/zenodo.805081", 
+  "id": 805081, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805081.svg", 
+    "bucket": "https://zenodo.org/api/files/1c2c98c7-cad7-47a0-b3d7-05a420bfeab9", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805080.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805080", 
+    "doi": "https://doi.org/10.5281/zenodo.805081", 
+    "html": "https://zenodo.org/record/805081", 
+    "latest": "https://zenodo.org/api/records/805081", 
+    "latest_html": "https://zenodo.org/record/805081", 
+    "self": "https://zenodo.org/api/records/805081"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Adams, C.F."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805081", 
+    "journal": {
+      "pages": "149-208", 
+      "title": "Kans. Univ. Sci. Bull.", 
+      "volume": "3"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "notspecified"
+    }, 
+    "publication_date": "1905-10-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805080", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805081"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805080"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Diptera africana, I."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-08-02T07:12:49.993378+00:00"
+}

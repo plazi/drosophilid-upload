@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805626", 
+  "created": "2017-06-10T16:09:20.023378+00:00", 
+  "files": [], 
+  "id": 805627, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/af005843-41a4-4a2e-942a-08460cd03a2a", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805627/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805627/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805627/files", 
+    "html": "https://zenodo.org/deposit/805627", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805627", 
+    "latest_draft_html": "https://zenodo.org/deposit/805627", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805627/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805627"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ali, A.M.M."
+      }, 
+      {
+        "name": "El-Helw, M.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "204-210", 
+    "journal_title": "Egypt. J. Genet. Cytol.", 
+    "journal_volume": "3", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805627", 
+      "recid": 805627
+    }, 
+    "publication_date": "1974-07-31", 
+    "publication_type": "article", 
+    "title": "Differences in the yeasts preferred by Drosophila melanogaster and D. simulans.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:09:20.023384+00:00", 
+  "owner": 1161, 
+  "record_id": 805627, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Differences in the yeasts preferred by Drosophila melanogaster and D. simulans."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:09:23 GMT
+Content-Type: application/json
+Content-Length: 369
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497114530
+Retry-After: 3566
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "df24c5aed4995413bbb3adabbfc6e237", "filename": "ali__el-helw_1974.pdf", "filesize": 200777, "id": "dd05118e-35a4-425e-8c1c-43d40fa58f7c", "links": {"download": "https://zenodo.org/api/files/af005843-41a4-4a2e-942a-08460cd03a2a/ali__el-helw_1974.pdf", "self": "https://zenodo.org/api/deposit/depositions/805627/files/dd05118e-35a4-425e-8c1c-43d40fa58f7c"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:09:24 GMT
+Content-Type: application/json
+Content-Length: 2562
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:09:24 GMT
+Location: https://zenodo.org/api/deposit/depositions/805627
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497114564
+Retry-After: 3599
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805626", 
+  "conceptrecid": "805626", 
+  "created": "2017-06-10T16:09:20.023378+00:00", 
+  "doi": "10.5281/zenodo.805627", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805627", 
+  "files": [
+    {
+      "checksum": "df24c5aed4995413bbb3adabbfc6e237", 
+      "filename": "ali__el-helw_1974.pdf", 
+      "filesize": 200777, 
+      "id": "dd05118e-35a4-425e-8c1c-43d40fa58f7c", 
+      "links": {
+        "download": "https://zenodo.org/api/files/af005843-41a4-4a2e-942a-08460cd03a2a/ali__el-helw_1974.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804352/files/dd05118e-35a4-425e-8c1c-43d40fa58f7c"
+      }
+    }
+  ], 
+  "id": 805627, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805627.svg", 
+    "bucket": "https://zenodo.org/api/files/af005843-41a4-4a2e-942a-08460cd03a2a", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805626.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805626", 
+    "doi": "https://doi.org/10.5281/zenodo.805627", 
+    "latest": "https://zenodo.org/api/records/805627", 
+    "latest_html": "https://zenodo.org/record/805627", 
+    "record": "https://zenodo.org/api/records/805627", 
+    "record_html": "https://zenodo.org/record/805627"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ali, A.M.M."
+      }, 
+      {
+        "name": "El-Helw, M.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805627", 
+    "journal_pages": "204-210", 
+    "journal_title": "Egypt. J. Genet. Cytol.", 
+    "journal_volume": "3", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805627", 
+      "recid": 805627
+    }, 
+    "publication_date": "1974-07-31", 
+    "publication_type": "article", 
+    "title": "Differences in the yeasts preferred by Drosophila melanogaster and D. simulans.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:09:24.555616+00:00", 
+  "owner": 1161, 
+  "record_id": 805627, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Differences in the yeasts preferred by Drosophila melanogaster and D. simulans."
+}

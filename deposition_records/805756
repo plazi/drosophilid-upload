@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805755", 
+  "conceptrecid": "805755", 
+  "created": "2017-06-10T20:08:06.161376+00:00", 
+  "doi": "10.5281/zenodo.805756", 
+  "id": 805756, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805756.svg", 
+    "bucket": "https://zenodo.org/api/files/833249ab-2444-41a6-ab08-0a28bc1c1176", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805755.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805755", 
+    "doi": "https://doi.org/10.5281/zenodo.805756", 
+    "html": "https://zenodo.org/record/805756", 
+    "latest": "https://zenodo.org/api/records/805756", 
+    "latest_html": "https://zenodo.org/record/805756", 
+    "self": "https://zenodo.org/api/records/805756"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alvarez, G."
+      }, 
+      {
+        "name": "Zapata, C."
+      }, 
+      {
+        "name": "Fontdevila, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805756", 
+    "journal": {
+      "pages": "81-89", 
+      "title": "Acta biol. jugosl., Genetika", 
+      "volume": "12"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1980-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805755", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805756"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805755"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Modifier variability in a natural population of Drosophila subobscura."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:48:29.569438+00:00"
+}

@@ -1,0 +1,334 @@
+HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:14:00 GMT
+Content-Type: application/json
+Content-Length: 2335
+ETag: "0"
+Last-Modified: Fri, 09 Jun 2017 21:14:00 GMT
+Link: <https://zenodo.org/api/deposit/depositions/805028/files>; rel="files", <https://zenodo.org/api/deposit/depositions/805028/actions/edit>; rel="edit", <https://zenodo.org/api/deposit/depositions/805028>; rel="self", <https://zenodo.org/api/deposit/depositions/805028/actions/publish>; rel="publish", <https://zenodo.org/deposit/805028>; rel="html", <https://zenodo.org/api/deposit/depositions/805028/actions/discard>; rel="discard"
+location: https://zenodo.org/api/deposit/depositions/805028
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497046440
+Retry-After: 3599
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{
+  "conceptrecid": "805027", 
+  "created": "2017-06-09T21:14:00.442080+00:00", 
+  "files": [], 
+  "id": 805028, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/8068266f-ca5b-4bd5-8893-9d4f6889988d", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805028/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805028/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805028/files", 
+    "html": "https://zenodo.org/deposit/805028", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805028", 
+    "latest_draft_html": "https://zenodo.org/deposit/805028", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805028/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805028"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Abdallah, K."
+      }, 
+      {
+        "name": "Khan, S.M."
+      }, 
+      {
+        "name": "Yasmin, S."
+      }, 
+      {
+        "name": "Gowen, S."
+      }, 
+      {
+        "name": "Khattak, M.K."
+      }, 
+      {
+        "name": "Kiani, A.R."
+      }, 
+      {
+        "name": "Ukeh, D.A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "981-985", 
+    "journal_title": "Life Sci. Int. J.", 
+    "journal_volume": "3", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805028", 
+      "recid": 805028
+    }, 
+    "publication_date": "2009-12-31", 
+    "publication_type": "article", 
+    "title": "Progeny Estimation of Different Entomopathogenic Nematodes in Full Fed Larvae of Fruit Flies Drosophila Sp. (Drosophilidae: Diptera).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:14:00.442086+00:00", 
+  "owner": 1161, 
+  "record_id": 805028, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Progeny Estimation of Different Entomopathogenic Nematodes in Full Fed Larvae of Fruit Flies Drosophila Sp. (Drosophilidae: Diptera)."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 405 METHOD NOT ALLOWED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:14:03 GMT
+Content-Type: application/json
+Content-Length: 86
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "message": "The method is not allowed for the requested URL.", 
+  "status": 405
+}
+HTTP/1.1 404 NOT FOUND
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:14:04 GMT
+Content-Type: application/json
+Content-Length: 159
+Vary: Accept-Encoding
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "message": "The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.", 
+  "status": 404
+}
+{
+  "conceptrecid": "805033", 
+  "created": "2017-06-09T21:15:59.530516+00:00", 
+  "files": [], 
+  "id": 805034, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/be067eda-a906-47a1-bc80-83c6fa9096ff", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805034/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805034/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805034/files", 
+    "html": "https://zenodo.org/deposit/805034", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805034", 
+    "latest_draft_html": "https://zenodo.org/deposit/805034", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805034/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805034"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Abdallah, K."
+      }, 
+      {
+        "name": "Khan, S.M."
+      }, 
+      {
+        "name": "Yasmin, S."
+      }, 
+      {
+        "name": "Gowen, S."
+      }, 
+      {
+        "name": "Khattak, M.K."
+      }, 
+      {
+        "name": "Kiani, A.R."
+      }, 
+      {
+        "name": "Ukeh, D.A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "981-985", 
+    "journal_title": "Life Sci. Int. J.", 
+    "journal_volume": "3", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805034", 
+      "recid": 805034
+    }, 
+    "publication_date": "2009-12-31", 
+    "publication_type": "article", 
+    "title": "Progeny Estimation of Different Entomopathogenic Nematodes in Full Fed Larvae of Fruit Flies Drosophila Sp. (Drosophilidae: Diptera).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:15:59.530523+00:00", 
+  "owner": 1161, 
+  "record_id": 805034, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Progeny Estimation of Different Entomopathogenic Nematodes in Full Fed Larvae of Fruit Flies Drosophila Sp. (Drosophilidae: Diptera)."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:16:02 GMT
+Content-Type: application/json
+Content-Length: 375
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497045276
+Retry-After: 2313
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "46963953f2ed1f1c10409ad6f142e008", "filename": "abdullah_et_al__2009.pdf", "filesize": 173551, "id": "28534711-1635-42d3-8227-c273e0558432", "links": {"download": "https://zenodo.org/api/files/be067eda-a906-47a1-bc80-83c6fa9096ff/abdullah_et_al__2009.pdf", "self": "https://zenodo.org/api/deposit/depositions/805034/files/28534711-1635-42d3-8227-c273e0558432"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:16:05 GMT
+Content-Type: application/json
+Content-Length: 2906
+ETag: "2"
+Last-Modified: Fri, 09 Jun 2017 21:16:05 GMT
+Location: https://zenodo.org/api/deposit/depositions/805034
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497046564
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805033", 
+  "conceptrecid": "805033", 
+  "created": "2017-06-09T21:15:59.530516+00:00", 
+  "doi": "10.5281/zenodo.805034", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805034", 
+  "files": [
+    {
+      "checksum": "46963953f2ed1f1c10409ad6f142e008", 
+      "filename": "abdullah_et_al__2009.pdf", 
+      "filesize": 173551, 
+      "id": "28534711-1635-42d3-8227-c273e0558432", 
+      "links": {
+        "download": "https://zenodo.org/api/files/be067eda-a906-47a1-bc80-83c6fa9096ff/abdullah_et_al__2009.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804711/files/28534711-1635-42d3-8227-c273e0558432"
+      }
+    }
+  ], 
+  "id": 805034, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805034.svg", 
+    "bucket": "https://zenodo.org/api/files/be067eda-a906-47a1-bc80-83c6fa9096ff", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805033.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805033", 
+    "doi": "https://doi.org/10.5281/zenodo.805034", 
+    "latest": "https://zenodo.org/api/records/805034", 
+    "latest_html": "https://zenodo.org/record/805034", 
+    "record": "https://zenodo.org/api/records/805034", 
+    "record_html": "https://zenodo.org/record/805034"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Abdallah, K."
+      }, 
+      {
+        "name": "Khan, S.M."
+      }, 
+      {
+        "name": "Yasmin, S."
+      }, 
+      {
+        "name": "Gowen, S."
+      }, 
+      {
+        "name": "Khattak, M.K."
+      }, 
+      {
+        "name": "Kiani, A.R."
+      }, 
+      {
+        "name": "Ukeh, D.A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805034", 
+    "journal_pages": "981-985", 
+    "journal_title": "Life Sci. Int. J.", 
+    "journal_volume": "3", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805034", 
+      "recid": 805034
+    }, 
+    "publication_date": "2009-12-31", 
+    "publication_type": "article", 
+    "title": "Progeny Estimation of Different Entomopathogenic Nematodes in Full Fed Larvae of Fruit Flies Drosophila Sp. (Drosophilidae: Diptera).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:16:05.034225+00:00", 
+  "owner": 1161, 
+  "record_id": 805034, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Progeny Estimation of Different Entomopathogenic Nematodes in Full Fed Larvae of Fruit Flies Drosophila Sp. (Drosophilidae: Diptera)."
+}

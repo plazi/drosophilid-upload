@@ -1,0 +1,95 @@
+{
+  "conceptdoi": "10.5281/zenodo.805674", 
+  "conceptrecid": "805674", 
+  "created": "2017-06-10T16:20:44.233786+00:00", 
+  "doi": "10.5281/zenodo.805675", 
+  "id": 805675, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805675.svg", 
+    "bucket": "https://zenodo.org/api/files/f455951c-0e0e-439d-9e8f-60a6d4a62ad1", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805674.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805674", 
+    "doi": "https://doi.org/10.5281/zenodo.805675", 
+    "html": "https://zenodo.org/record/805675", 
+    "latest": "https://zenodo.org/api/records/805675", 
+    "latest_html": "https://zenodo.org/record/805675", 
+    "self": "https://zenodo.org/api/records/805675"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Almeida, F.C."
+      }, 
+      {
+        "name": "DeSalle, R."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805675", 
+    "journal": {
+      "pages": "235-245", 
+      "title": "Genetics", 
+      "volume": "181"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2009-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.1534/genetics.108.096263", 
+        "relation": "isIdenticalTo", 
+        "scheme": "doi"
+      }, 
+      {
+        "identifier": "10.5281/zenodo.805674", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805675"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805674"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Orthology, Function and Evolution of Accessory Gland Proteins in the Drosophila repleta Group."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-22T17:20:00.444482+00:00"
+}

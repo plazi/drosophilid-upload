@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805761", 
+  "conceptrecid": "805761", 
+  "created": "2017-06-10T20:08:22.845708+00:00", 
+  "doi": "10.5281/zenodo.805762", 
+  "id": 805762, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805762.svg", 
+    "bucket": "https://zenodo.org/api/files/29135c1a-e181-46c8-8e4f-26c3a2f2aaca", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805761.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805761", 
+    "doi": "https://doi.org/10.5281/zenodo.805762", 
+    "html": "https://zenodo.org/record/805762", 
+    "latest": "https://zenodo.org/api/records/805762", 
+    "latest_html": "https://zenodo.org/record/805762", 
+    "self": "https://zenodo.org/api/records/805762"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alvarez, D."
+      }, 
+      {
+        "name": "Ruiz-Garcia, M."
+      }, 
+      {
+        "name": "Noor, M."
+      }, 
+      {
+        "name": "Salceda, V.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805762", 
+    "journal": {
+      "pages": "75-82", 
+      "title": "D. I. S.", 
+      "volume": "84"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2001-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805761", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805762"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805761"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Comparative genetic structure among Colombian and Mexican Drosophila pseudoobscura populations by using 14 microsatellite markers: a first approach."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T07:35:40.782967+00:00"
+}

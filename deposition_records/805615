@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805614", 
+  "conceptrecid": "805614", 
+  "created": "2017-06-10T16:08:39.811250+00:00", 
+  "doi": "10.5281/zenodo.805615", 
+  "id": 805615, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805615.svg", 
+    "bucket": "https://zenodo.org/api/files/d45422b5-cf65-4e57-8948-74b500cbb9f1", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805614.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805614", 
+    "doi": "https://doi.org/10.5281/zenodo.805615", 
+    "html": "https://zenodo.org/record/805615", 
+    "latest": "https://zenodo.org/api/records/805615", 
+    "latest_html": "https://zenodo.org/record/805615", 
+    "self": "https://zenodo.org/api/records/805615"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alexandrov, Y.N."
+      }, 
+      {
+        "name": "Golubovsky, M.D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805615", 
+    "journal": {
+      "pages": "10-11", 
+      "title": "D. I. S.", 
+      "volume": "59"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1983-10-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805614", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805615"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805614"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "The multisite mutations induced by viruses and foreign DNA can spread in natural populations of Drosophila."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:30:54.787464+00:00"
+}

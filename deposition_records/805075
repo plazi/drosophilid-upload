@@ -1,0 +1,95 @@
+{
+  "conceptdoi": "10.5281/zenodo.805074", 
+  "conceptrecid": "805074", 
+  "created": "2017-06-09T21:40:00.271616+00:00", 
+  "doi": "10.5281/zenodo.805075", 
+  "id": 805075, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805075.svg", 
+    "bucket": "https://zenodo.org/api/files/6a39f672-d94c-4321-8c8f-97ad263ed479", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805074.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805074", 
+    "doi": "https://doi.org/10.5281/zenodo.805075", 
+    "html": "https://zenodo.org/record/805075", 
+    "latest": "https://zenodo.org/api/records/805075", 
+    "latest_html": "https://zenodo.org/record/805075", 
+    "self": "https://zenodo.org/api/records/805075"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Adams, E.A."
+      }, 
+      {
+        "name": "Wolfner, M.F."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805075", 
+    "journal": {
+      "pages": "319-331", 
+      "title": "J. Insect Physiol.", 
+      "volume": "53"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2007-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "1016/j.jinsphys.2006.12.003", 
+        "relation": "isIdenticalTo", 
+        "scheme": "handle"
+      }, 
+      {
+        "identifier": "10.5281/zenodo.805074", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805075"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805074"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Seminal proteins but not sperm induce morphological changes in the Drosophila melanogaster female reproductive tract during sperm storage."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 5, 
+  "updated": "2017-09-08T08:48:44.852507+00:00"
+}

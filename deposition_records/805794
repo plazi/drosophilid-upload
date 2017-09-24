@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805793", 
+  "conceptrecid": "805793", 
+  "created": "2017-06-10T20:10:14.279095+00:00", 
+  "doi": "10.5281/zenodo.805794", 
+  "id": 805794, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805794.svg", 
+    "bucket": "https://zenodo.org/api/files/869ef05a-fd45-4f9f-8d35-539d0d06d389", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805793.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805793", 
+    "doi": "https://doi.org/10.5281/zenodo.805794", 
+    "html": "https://zenodo.org/record/805794", 
+    "latest": "https://zenodo.org/api/records/805794", 
+    "latest_html": "https://zenodo.org/record/805794", 
+    "self": "https://zenodo.org/api/records/805794"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amosova, I.S."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805794", 
+    "journal": {
+      "pages": "495-499", 
+      "title": "Ent. Obozr.", 
+      "volume": "69"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1990-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805793", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805794"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805793"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Some indices of thermophily and heat resistance in two species of the genus Drosophila Fll. (Diptera, Drosophilidae). (in Russian, with English summary)."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:36:55.620563+00:00"
+}

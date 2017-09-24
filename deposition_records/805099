@@ -1,0 +1,107 @@
+{
+  "conceptdoi": "10.5281/zenodo.805098", 
+  "conceptrecid": "805098", 
+  "created": "2017-06-09T21:56:01.291239+00:00", 
+  "doi": "10.5281/zenodo.805099", 
+  "id": 805099, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805099.svg", 
+    "bucket": "https://zenodo.org/api/files/dd34e432-28ba-4da3-86af-31028ebe6844", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805098.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805098", 
+    "doi": "https://doi.org/10.5281/zenodo.805099", 
+    "html": "https://zenodo.org/record/805099", 
+    "latest": "https://zenodo.org/api/records/805099", 
+    "latest_html": "https://zenodo.org/record/805099", 
+    "self": "https://zenodo.org/api/records/805099"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aggarwal, D.D."
+      }, 
+      {
+        "name": "Ranga, P."
+      }, 
+      {
+        "name": "Kalra, B."
+      }, 
+      {
+        "name": "Parkash, R."
+      }, 
+      {
+        "name": "Rashkovetsky, E."
+      }, 
+      {
+        "name": "Bantis, L.E."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805099", 
+    "journal": {
+      "pages": "81-90", 
+      "title": "Comp. Biochem. Physiol.", 
+      "volume": "166"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2013-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "1016/j.cbpa.2013.05.012", 
+        "relation": "isIdenticalTo", 
+        "scheme": "handle"
+      }, 
+      {
+        "identifier": "10.5281/zenodo.805098", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805099"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805098"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Rapid effects of humidity acclimation on stress resistance in Drosophila melanogaster."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 5, 
+  "updated": "2017-09-08T08:50:02.039064+00:00"
+}

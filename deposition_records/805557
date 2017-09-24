@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805556", 
+  "conceptrecid": "805556", 
+  "created": "2017-06-10T13:12:18.364012+00:00", 
+  "doi": "10.5281/zenodo.805557", 
+  "id": 805557, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805557.svg", 
+    "bucket": "https://zenodo.org/api/files/e3e3dc35-50d5-4cb0-8c9f-dff2d968d6a3", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805556.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805556", 
+    "doi": "https://doi.org/10.5281/zenodo.805557", 
+    "html": "https://zenodo.org/record/805557", 
+    "latest": "https://zenodo.org/api/records/805557", 
+    "latest_html": "https://zenodo.org/record/805557", 
+    "self": "https://zenodo.org/api/records/805557"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alawi, A.A."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805557", 
+    "journal": {
+      "pages": "51-76", 
+      "title": "Dirasat", 
+      "volume": "2"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "notspecified"
+    }, 
+    "publication_date": "1975-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805556", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805557"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805556"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Electroretinogram of Drosophila: I. Separation of its components."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-08-05T11:32:56.870964+00:00"
+}

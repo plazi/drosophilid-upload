@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805550", 
+  "created": "2017-06-10T13:11:45.721293+00:00", 
+  "files": [], 
+  "id": 805551, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/57f77e40-ff11-445d-b520-2ba956fbab08", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805551/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805551/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805551/files", 
+    "html": "https://zenodo.org/deposit/805551", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805551", 
+    "latest_draft_html": "https://zenodo.org/deposit/805551", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805551/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805551"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alamiri, Z."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "123-129", 
+    "journal_title": "Gayana", 
+    "journal_volume": "64", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805551", 
+      "recid": 805551
+    }, 
+    "publication_date": "2000-12-31", 
+    "publication_type": "article", 
+    "title": "Oviposition behaviour in four species of Drosophila. Conducta de oviposicion en cuatro especies de Drosophila.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T13:11:45.721302+00:00", 
+  "owner": 1161, 
+  "record_id": 805551, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Oviposition behaviour in four species of Drosophila. Conducta de oviposicion en cuatro especies de Drosophila."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 13:11:49 GMT
+Content-Type: application/json
+Content-Length: 359
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497103907
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "78079ac4f8c774e414337b027b897868", "filename": "alamiri_2000.pdf", "filesize": 366102, "id": "92fa15fc-7d98-43f2-8cec-c288fcb70750", "links": {"download": "https://zenodo.org/api/files/57f77e40-ff11-445d-b520-2ba956fbab08/alamiri_2000.pdf", "self": "https://zenodo.org/api/deposit/depositions/805551/files/92fa15fc-7d98-43f2-8cec-c288fcb70750"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 13:11:51 GMT
+Content-Type: application/json
+Content-Length: 2548
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 13:11:50 GMT
+Location: https://zenodo.org/api/deposit/depositions/805551
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497103910
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805550", 
+  "conceptrecid": "805550", 
+  "created": "2017-06-10T13:11:45.721293+00:00", 
+  "doi": "10.5281/zenodo.805551", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805551", 
+  "files": [
+    {
+      "checksum": "78079ac4f8c774e414337b027b897868", 
+      "filename": "alamiri_2000.pdf", 
+      "filesize": 366102, 
+      "id": "92fa15fc-7d98-43f2-8cec-c288fcb70750", 
+      "links": {
+        "download": "https://zenodo.org/api/files/57f77e40-ff11-445d-b520-2ba956fbab08/alamiri_2000.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804695/files/92fa15fc-7d98-43f2-8cec-c288fcb70750"
+      }
+    }
+  ], 
+  "id": 805551, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805551.svg", 
+    "bucket": "https://zenodo.org/api/files/57f77e40-ff11-445d-b520-2ba956fbab08", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805550.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805550", 
+    "doi": "https://doi.org/10.5281/zenodo.805551", 
+    "latest": "https://zenodo.org/api/records/805551", 
+    "latest_html": "https://zenodo.org/record/805551", 
+    "record": "https://zenodo.org/api/records/805551", 
+    "record_html": "https://zenodo.org/record/805551"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alamiri, Z."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805551", 
+    "journal_pages": "123-129", 
+    "journal_title": "Gayana", 
+    "journal_volume": "64", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805551", 
+      "recid": 805551
+    }, 
+    "publication_date": "2000-12-31", 
+    "publication_type": "article", 
+    "title": "Oviposition behaviour in four species of Drosophila. Conducta de oviposicion en cuatro especies de Drosophila.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T13:11:50.862922+00:00", 
+  "owner": 1161, 
+  "record_id": 805551, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Oviposition behaviour in four species of Drosophila. Conducta de oviposicion en cuatro especies de Drosophila."
+}

@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "title": "Influence of the altitude in Asturian communities of Drosophilidae.",
+    "upload_type": "publication",
+    "description": "uploaded by Plazi from Taxodros",
+    "access_right": "open",
+    "journal_pages": "17-19",
+    "journal_title": "D. I. S.",
+    "journal_volume": "63",
+    "publication_type": "article",
+    "publication_date": "1986-06-31",
+    "keywords": [
+      "Biodiversity",
+      "Taxonomy",
+      "Animalia",
+      "Arthropoda",
+      "Insecta",
+      "Diptera",
+      "Drosophilidae",
+      "flies",
+      "fruit flies",
+      "terrestrial"
+    ],
+    "license": "cc-by",
+    "creators": [
+      {
+        "name": "Alcorta-Azcue, E."
+      },
+      {
+        "name": "Garcia-Vazquez, E."
+      },
+      {
+        "name": "Sanchez-Refusta, F."
+      }
+    ],
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ]
+  }
+}

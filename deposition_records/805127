@@ -1,0 +1,98 @@
+{
+  "conceptdoi": "10.5281/zenodo.805126", 
+  "conceptrecid": "805126", 
+  "created": "2017-06-09T21:57:43.800796+00:00", 
+  "doi": "10.5281/zenodo.805127", 
+  "id": 805127, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805127.svg", 
+    "bucket": "https://zenodo.org/api/files/7d698072-661d-44b3-ad27-e69bb024191e", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805126.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805126", 
+    "doi": "https://doi.org/10.5281/zenodo.805127", 
+    "html": "https://zenodo.org/record/805127", 
+    "latest": "https://zenodo.org/api/records/805127", 
+    "latest_html": "https://zenodo.org/record/805127", 
+    "self": "https://zenodo.org/api/records/805127"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ahearn, J.N."
+      }, 
+      {
+        "name": "Templeton, A.R."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805127", 
+    "journal": {
+      "pages": "347-361", 
+      "title": "Evolution", 
+      "volume": "43"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "notspecified"
+    }, 
+    "publication_date": "1989-03-15", 
+    "related_identifiers": [
+      {
+        "identifier": "10.1111/j.1558-5646.1989.tb04232.x", 
+        "relation": "isIdenticalTo", 
+        "scheme": "doi"
+      }, 
+      {
+        "identifier": "10.5281/zenodo.805126", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805127"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805126"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Interspecific hybrids of Drosophila heteroneura and D. silvestris. I. Courtship success."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 4, 
+  "updated": "2017-09-22T17:28:49.996926+00:00"
+}

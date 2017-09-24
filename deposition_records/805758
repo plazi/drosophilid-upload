@@ -1,0 +1,99 @@
+{
+  "conceptdoi": "10.5281/zenodo.805757", 
+  "conceptrecid": "805757", 
+  "created": "2017-06-10T20:08:12.437340+00:00", 
+  "doi": "10.5281/zenodo.805758", 
+  "id": 805758, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805758.svg", 
+    "bucket": "https://zenodo.org/api/files/2c566dd2-dc9b-4d71-97ed-6101d339e30a", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805757.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805757", 
+    "doi": "https://doi.org/10.5281/zenodo.805758", 
+    "html": "https://zenodo.org/record/805758", 
+    "latest": "https://zenodo.org/api/records/805758", 
+    "latest_html": "https://zenodo.org/record/805758", 
+    "self": "https://zenodo.org/api/records/805758"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alvarez, D."
+      }, 
+      {
+        "name": "Iannini, A."
+      }, 
+      {
+        "name": "Cardenas, H."
+      }, 
+      {
+        "name": "Hoenigsberg, H.F."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805758", 
+    "journal": {
+      "pages": "269-311", 
+      "title": "Evol. Biol., Bogota", 
+      "volume": "3"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1989-08-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805757", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805758"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805757"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Population genetics in the American tropics. XXXIX. Asymmetry as a divergence factor in demes of Drosophila pseudoobscura in the Cundiboyacense Altiplano of Colombia."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:30:23.789980+00:00"
+}

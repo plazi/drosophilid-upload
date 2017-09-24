@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805769", 
+  "conceptrecid": "805769", 
+  "created": "2017-06-10T20:08:54.811407+00:00", 
+  "doi": "10.5281/zenodo.805770", 
+  "id": 805770, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805770.svg", 
+    "bucket": "https://zenodo.org/api/files/6db8ebf6-5dcf-4fc9-9edf-95f87b7966b9", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805769.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805769", 
+    "doi": "https://doi.org/10.5281/zenodo.805770", 
+    "html": "https://zenodo.org/record/805770", 
+    "latest": "https://zenodo.org/api/records/805770", 
+    "latest_html": "https://zenodo.org/record/805770", 
+    "self": "https://zenodo.org/api/records/805770"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alves, N.S."
+      }, 
+      {
+        "name": "Machado, L.P.B."
+      }, 
+      {
+        "name": "Mateus, R.P."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805770", 
+    "journal": {
+      "pages": "234", 
+      "title": "Resum. Congr. bras. Genet.", 
+      "volume": "53"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2007-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805769", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805770"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805769"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Perfil de esterases ao longo do desenvolvimento de populacoes da especie Drosophila mercatorum pararepleta (Diptera; Drosophilidae). (Abstract)."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T08:52:20.766688+00:00"
+}

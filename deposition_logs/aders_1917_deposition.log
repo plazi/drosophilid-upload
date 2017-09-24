@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805090", 
+  "created": "2017-06-09T21:55:33.433575+00:00", 
+  "files": [], 
+  "id": 805091, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/69e90f8d-53d4-47e6-9bf5-c8e9f543b575", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805091/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805091/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805091/files", 
+    "html": "https://zenodo.org/deposit/805091", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805091", 
+    "latest_draft_html": "https://zenodo.org/deposit/805091", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805091/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805091"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aders, W.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "391-401", 
+    "journal_title": "Bull. Ent. Res.", 
+    "journal_volume": "7", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805091", 
+      "recid": 805091
+    }, 
+    "publication_date": "1917-06-18", 
+    "publication_type": "article", 
+    "title": "Insects injurious to man and stock in Zanzibar.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:55:33.433580+00:00", 
+  "owner": 1161, 
+  "record_id": 805091, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Insects injurious to man and stock in Zanzibar."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:55:36 GMT
+Content-Type: application/json
+Content-Length: 354
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497048934
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "4e9be6da70df13b1e37398592ee635a9", "filename": "aders_1917.pdf", "filesize": 82852, "id": "ed304e25-9d36-4a85-8c27-5d6cc5fcd1ce", "links": {"download": "https://zenodo.org/api/files/69e90f8d-53d4-47e6-9bf5-c8e9f543b575/aders_1917.pdf", "self": "https://zenodo.org/api/deposit/depositions/805091/files/ed304e25-9d36-4a85-8c27-5d6cc5fcd1ce"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:55:37 GMT
+Content-Type: application/json
+Content-Length: 2425
+ETag: "2"
+Last-Modified: Fri, 09 Jun 2017 21:55:37 GMT
+Location: https://zenodo.org/api/deposit/depositions/805091
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497048937
+Retry-After: 3599
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805090", 
+  "conceptrecid": "805090", 
+  "created": "2017-06-09T21:55:33.433575+00:00", 
+  "doi": "10.5281/zenodo.805091", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805091", 
+  "files": [
+    {
+      "checksum": "4e9be6da70df13b1e37398592ee635a9", 
+      "filename": "aders_1917.pdf", 
+      "filesize": 82852, 
+      "id": "ed304e25-9d36-4a85-8c27-5d6cc5fcd1ce", 
+      "links": {
+        "download": "https://zenodo.org/api/files/69e90f8d-53d4-47e6-9bf5-c8e9f543b575/aders_1917.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804689/files/ed304e25-9d36-4a85-8c27-5d6cc5fcd1ce"
+      }
+    }
+  ], 
+  "id": 805091, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805091.svg", 
+    "bucket": "https://zenodo.org/api/files/69e90f8d-53d4-47e6-9bf5-c8e9f543b575", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805090.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805090", 
+    "doi": "https://doi.org/10.5281/zenodo.805091", 
+    "latest": "https://zenodo.org/api/records/805091", 
+    "latest_html": "https://zenodo.org/record/805091", 
+    "record": "https://zenodo.org/api/records/805091", 
+    "record_html": "https://zenodo.org/record/805091"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aders, W.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805091", 
+    "journal_pages": "391-401", 
+    "journal_title": "Bull. Ent. Res.", 
+    "journal_volume": "7", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805091", 
+      "recid": 805091
+    }, 
+    "publication_date": "1917-06-18", 
+    "publication_type": "article", 
+    "title": "Insects injurious to man and stock in Zanzibar.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:55:37.440237+00:00", 
+  "owner": 1161, 
+  "record_id": 805091, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Insects injurious to man and stock in Zanzibar."
+}

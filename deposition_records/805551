@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805550", 
+  "conceptrecid": "805550", 
+  "created": "2017-06-10T13:11:50.620644+00:00", 
+  "doi": "10.5281/zenodo.805551", 
+  "id": 805551, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805551.svg", 
+    "bucket": "https://zenodo.org/api/files/5e678659-ab4b-4c38-8787-c274b5a941b4", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805550.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805550", 
+    "doi": "https://doi.org/10.5281/zenodo.805551", 
+    "html": "https://zenodo.org/record/805551", 
+    "latest": "https://zenodo.org/api/records/805551", 
+    "latest_html": "https://zenodo.org/record/805551", 
+    "self": "https://zenodo.org/api/records/805551"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alamiri, Z."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805551", 
+    "journal": {
+      "pages": "123-129", 
+      "title": "Gayana", 
+      "volume": "64"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "2000-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805550", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805551"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805550"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Oviposition behaviour in four species of Drosophila. Conducta de oviposicion en cuatro especies de Drosophila."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:08:00.832436+00:00"
+}

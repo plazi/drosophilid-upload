@@ -1,0 +1,86 @@
+{
+  "conceptrecid": "805092", 
+  "created": "2017-06-09T21:55:38.774706+00:00", 
+  "files": [], 
+  "id": 805093, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/7b4f5f4f-a8a4-4343-8787-4ba6df513f36", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805093/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805093/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805093/files", 
+    "html": "https://zenodo.org/deposit/805093", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805093", 
+    "latest_draft_html": "https://zenodo.org/deposit/805093", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805093/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805093"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Adrianov, B.V."
+      }, 
+      {
+        "name": "Sorokina, S.Y."
+      }, 
+      {
+        "name": "Mugue, N.S."
+      }, 
+      {
+        "name": "Reznik, N.L."
+      }, 
+      {
+        "name": "Mitrofanov, V.G."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "159-164", 
+    "journal_title": "Russ. J. Genet.", 
+    "journal_volume": "44", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805093", 
+      "recid": 805093
+    }, 
+    "publication_date": "2008-12-31", 
+    "publication_type": "article", 
+    "title": "Dynamics of Mitochondrial Polymorphism in a Natural Population of Drosophila littoralis.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:55:38.774714+00:00", 
+  "owner": 1161, 
+  "record_id": 805093, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Dynamics of Mitochondrial Polymorphism in a Natural Population of Drosophila littoralis."
+}HTTP/1.1 400 BAD REQUEST
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:55:40 GMT
+Content-Type: application/json
+Content-Length: 137
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497048940
+Retry-After: 3599
+X-Sentry-ID: None
+
+{"status": 400, "message": "Validation error.", "errors": [{"field": null, "message": "Minimum one file must be provided.", "code": 10}]}

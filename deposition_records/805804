@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805803", 
+  "conceptrecid": "805803", 
+  "created": "2017-06-10T20:10:42.937885+00:00", 
+  "doi": "10.5281/zenodo.805804", 
+  "id": 805804, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805804.svg", 
+    "bucket": "https://zenodo.org/api/files/bcadd2ae-ec06-4cd5-b68d-83923481fa42", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805803.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805803", 
+    "doi": "https://doi.org/10.5281/zenodo.805804", 
+    "html": "https://zenodo.org/record/805804", 
+    "latest": "https://zenodo.org/api/records/805804", 
+    "latest_html": "https://zenodo.org/record/805804", 
+    "self": "https://zenodo.org/api/records/805804"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Am Stein, (J.R.)"
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805804", 
+    "journal": {
+      "pages": "89-111", 
+      "title": "Jber. naturf. Ges. Graub.", 
+      "volume": "2"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1857-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805803", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805804"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805803"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Bundner Dipteren."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:39:42.023893+00:00"
+}

@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805644", 
+  "created": "2017-06-10T16:19:12.632850+00:00", 
+  "files": [], 
+  "id": 805645, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/8eafb584-22e1-4f64-8b7c-e2ba22291882", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805645/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805645/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805645/files", 
+    "html": "https://zenodo.org/deposit/805645", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805645", 
+    "latest_draft_html": "https://zenodo.org/deposit/805645", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805645/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805645"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allemand, R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "2075-2077", 
+    "journal_title": "C. r. Seanc. Acad. Sci., Paris", 
+    "journal_volume": "279", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805645", 
+      "recid": 805645
+    }, 
+    "publication_date": "1974-12-23", 
+    "publication_type": "article", 
+    "title": "Importance evolutive du comportement de ponte chez les insectes: comparaison du rythme circadien d'oviposition chez les six especes de Drosophila du sous-groupe melanogaster.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:19:12.632862+00:00", 
+  "owner": 1161, 
+  "record_id": 805645, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Importance evolutive du comportement de ponte chez les insectes: comparaison du rythme circadien d'oviposition chez les six especes de Drosophila du sous-groupe melanogaster."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:19:15 GMT
+Content-Type: application/json
+Content-Length: 361
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497114408
+Retry-After: 2852
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "2a0efbb2f7f40fca58b559dc211c87d6", "filename": "allemand_1974.pdf", "filesize": 100046, "id": "75055505-63b0-4a7c-bc27-9db96c866470", "links": {"download": "https://zenodo.org/api/files/8eafb584-22e1-4f64-8b7c-e2ba22291882/allemand_1974.pdf", "self": "https://zenodo.org/api/deposit/depositions/805645/files/75055505-63b0-4a7c-bc27-9db96c866470"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:19:17 GMT
+Content-Type: application/json
+Content-Length: 2706
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:19:17 GMT
+Location: https://zenodo.org/api/deposit/depositions/805645
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497114540
+Retry-After: 2982
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805644", 
+  "conceptrecid": "805644", 
+  "created": "2017-06-10T16:19:12.632850+00:00", 
+  "doi": "10.5281/zenodo.805645", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805645", 
+  "files": [
+    {
+      "checksum": "2a0efbb2f7f40fca58b559dc211c87d6", 
+      "filename": "allemand_1974.pdf", 
+      "filesize": 100046, 
+      "id": "75055505-63b0-4a7c-bc27-9db96c866470", 
+      "links": {
+        "download": "https://zenodo.org/api/files/8eafb584-22e1-4f64-8b7c-e2ba22291882/allemand_1974.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804707/files/75055505-63b0-4a7c-bc27-9db96c866470"
+      }
+    }
+  ], 
+  "id": 805645, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805645.svg", 
+    "bucket": "https://zenodo.org/api/files/8eafb584-22e1-4f64-8b7c-e2ba22291882", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805644.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805644", 
+    "doi": "https://doi.org/10.5281/zenodo.805645", 
+    "latest": "https://zenodo.org/api/records/805645", 
+    "latest_html": "https://zenodo.org/record/805645", 
+    "record": "https://zenodo.org/api/records/805645", 
+    "record_html": "https://zenodo.org/record/805645"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allemand, R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805645", 
+    "journal_pages": "2075-2077", 
+    "journal_title": "C. r. Seanc. Acad. Sci., Paris", 
+    "journal_volume": "279", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805645", 
+      "recid": 805645
+    }, 
+    "publication_date": "1974-12-23", 
+    "publication_type": "article", 
+    "title": "Importance evolutive du comportement de ponte chez les insectes: comparaison du rythme circadien d'oviposition chez les six especes de Drosophila du sous-groupe melanogaster.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:19:17.338545+00:00", 
+  "owner": 1161, 
+  "record_id": 805645, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Importance evolutive du comportement de ponte chez les insectes: comparaison du rythme circadien d'oviposition chez les six especes de Drosophila du sous-groupe melanogaster."
+}

@@ -1,0 +1,105 @@
+{
+  "conceptdoi": "10.5281/zenodo.805508", 
+  "conceptrecid": "805508", 
+  "created": "2017-06-10T11:53:48.733822+00:00", 
+  "doi": "10.5281/zenodo.805509", 
+  "id": 805509, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805509.svg", 
+    "bucket": "https://zenodo.org/api/files/0500c99d-7b0d-483d-bbe4-bb63b4d4cd38", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805508.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805508", 
+    "doi": "https://doi.org/10.5281/zenodo.805509", 
+    "html": "https://zenodo.org/record/805509", 
+    "latest": "https://zenodo.org/api/records/805509", 
+    "latest_html": "https://zenodo.org/record/805509", 
+    "self": "https://zenodo.org/api/records/805509"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Al-Hakkak, Z.S."
+      }, 
+      {
+        "name": "Ahmed, M.S.H."
+      }, 
+      {
+        "name": "Ali, S.R."
+      }, 
+      {
+        "name": "Lamooza, S.B."
+      }, 
+      {
+        "name": "Al-Maliky, S.K."
+      }, 
+      {
+        "name": "and Kadhum, A.-R.A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805509", 
+    "journal": {
+      "pages": "295-304", 
+      "title": "J. Biol. Sci. Res., Baghdad", 
+      "volume": "16"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1985-07-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805508", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805509"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805508"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Studies on Iraqi population of Drosophila melanogaster inhabiting Tuwaitha area."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:49:31.048003+00:00"
+}

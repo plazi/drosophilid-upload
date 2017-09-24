@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805596", 
+  "conceptrecid": "805596", 
+  "created": "2017-06-10T16:06:15.026981+00:00", 
+  "doi": "10.5281/zenodo.805597", 
+  "id": 805597, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805597.svg", 
+    "bucket": "https://zenodo.org/api/files/f2fe3900-2d73-40e4-9374-159854a9cee2", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805596.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805596", 
+    "doi": "https://doi.org/10.5281/zenodo.805597", 
+    "html": "https://zenodo.org/record/805597", 
+    "latest": "https://zenodo.org/api/records/805597", 
+    "latest_html": "https://zenodo.org/record/805597", 
+    "self": "https://zenodo.org/api/records/805597"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aldrich, J.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805597", 
+    "journal": {
+      "pages": "395-399", 
+      "title": "Proc. Hawaii. ent. Soc.", 
+      "volume": "7"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1931-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805596", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805597"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805596"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "New Acalyptrate Diptera from the Pacific and Oriental regions."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:28:53.158593+00:00"
+}

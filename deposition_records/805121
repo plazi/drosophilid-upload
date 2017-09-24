@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805120", 
+  "conceptrecid": "805120", 
+  "created": "2017-06-09T21:57:20.832549+00:00", 
+  "doi": "10.5281/zenodo.805121", 
+  "id": 805121, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805121.svg", 
+    "bucket": "https://zenodo.org/api/files/44c18967-daea-4b87-aa04-aa526e1cc7ac", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805120.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805120", 
+    "doi": "https://doi.org/10.5281/zenodo.805121", 
+    "html": "https://zenodo.org/record/805121", 
+    "latest": "https://zenodo.org/api/records/805121", 
+    "latest_html": "https://zenodo.org/record/805121", 
+    "self": "https://zenodo.org/api/records/805121"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aguade, M."
+      }, 
+      {
+        "name": "Miyashita, N."
+      }, 
+      {
+        "name": "Langley, C.H."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805121", 
+    "journal": {
+      "pages": "123-130", 
+      "title": "Molec. Biol. Evol.", 
+      "volume": "6"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1989-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805120", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805121"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805120"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Restriction-Map Variation at the Zeste-tko Region in Natural populations of Drosophila melanogaster."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:32:12.120592+00:00"
+}

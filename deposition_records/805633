@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805632", 
+  "conceptrecid": "805632", 
+  "created": "2017-06-10T16:09:43.653580+00:00", 
+  "doi": "10.5281/zenodo.805633", 
+  "id": 805633, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805633.svg", 
+    "bucket": "https://zenodo.org/api/files/2b66bfb6-5166-45ae-b5aa-4bcc92f028b8", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805632.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805632", 
+    "doi": "https://doi.org/10.5281/zenodo.805633", 
+    "html": "https://zenodo.org/record/805633", 
+    "latest": "https://zenodo.org/api/records/805633", 
+    "latest_html": "https://zenodo.org/record/805633", 
+    "self": "https://zenodo.org/api/records/805633"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allemand, R."
+      }, 
+      {
+        "name": "Bouletreau-Merle, J."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805633", 
+    "journal": {
+      "pages": "1147-1150", 
+      "title": "Experientia", 
+      "volume": "45"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1989-12-01", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805632", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805633"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805632"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Correlated responses in lines of Drosophila melanogaster selected for different oviposition behaviours."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:26:53.204521+00:00"
+}

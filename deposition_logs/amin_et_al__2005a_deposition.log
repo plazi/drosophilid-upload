@@ -1,0 +1,187 @@
+{
+  "conceptrecid": "805779", 
+  "created": "2017-06-10T20:09:20.335466+00:00", 
+  "files": [], 
+  "id": 805780, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/e04ca7bb-614f-4282-b828-08d859cff204", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805780/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805780/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805780/files", 
+    "html": "https://zenodo.org/deposit/805780", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805780", 
+    "latest_draft_html": "https://zenodo.org/deposit/805780", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805780/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805780"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amin ud Din, M."
+      }, 
+      {
+        "name": "Mazhar, K."
+      }, 
+      {
+        "name": "Haque, S."
+      }, 
+      {
+        "name": "Ahmed, M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "6-7", 
+    "journal_title": "D. I. S.", 
+    "journal_volume": "88", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805780", 
+      "recid": 805780
+    }, 
+    "publication_date": "2005-12-31", 
+    "publication_type": "article", 
+    "title": "A preliminary report on Drosophila fauna of Islamabad (Capital, Pakistan).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:09:20.335474+00:00", 
+  "owner": 1161, 
+  "record_id": 805780, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "A preliminary report on Drosophila fauna of Islamabad (Capital, Pakistan)."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:09:23 GMT
+Content-Type: application/json
+Content-Length: 369
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497128877
+Retry-After: 3513
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "6b334e6bb9c85fabfca66f8d8298cbfc", "filename": "amin_et_al__2005a.pdf", "filesize": 171102, "id": "1fcf768d-f0c5-4947-ad55-75cf805d8c32", "links": {"download": "https://zenodo.org/api/files/e04ca7bb-614f-4282-b828-08d859cff204/amin_et_al__2005a.pdf", "self": "https://zenodo.org/api/deposit/depositions/805780/files/1fcf768d-f0c5-4947-ad55-75cf805d8c32"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:09:25 GMT
+Content-Type: application/json
+Content-Length: 2600
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 20:09:25 GMT
+Location: https://zenodo.org/api/deposit/depositions/805780
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497128842
+Retry-After: 3476
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805779", 
+  "conceptrecid": "805779", 
+  "created": "2017-06-10T20:09:20.335466+00:00", 
+  "doi": "10.5281/zenodo.805780", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805780", 
+  "files": [
+    {
+      "checksum": "6b334e6bb9c85fabfca66f8d8298cbfc", 
+      "filename": "amin_et_al__2005a.pdf", 
+      "filesize": 171102, 
+      "id": "1fcf768d-f0c5-4947-ad55-75cf805d8c32", 
+      "links": {
+        "download": "https://zenodo.org/api/files/e04ca7bb-614f-4282-b828-08d859cff204/amin_et_al__2005a.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804769/files/1fcf768d-f0c5-4947-ad55-75cf805d8c32"
+      }
+    }
+  ], 
+  "id": 805780, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805780.svg", 
+    "bucket": "https://zenodo.org/api/files/e04ca7bb-614f-4282-b828-08d859cff204", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805779.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805779", 
+    "doi": "https://doi.org/10.5281/zenodo.805780", 
+    "latest": "https://zenodo.org/api/records/805780", 
+    "latest_html": "https://zenodo.org/record/805780", 
+    "record": "https://zenodo.org/api/records/805780", 
+    "record_html": "https://zenodo.org/record/805780"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amin ud Din, M."
+      }, 
+      {
+        "name": "Mazhar, K."
+      }, 
+      {
+        "name": "Haque, S."
+      }, 
+      {
+        "name": "Ahmed, M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805780", 
+    "journal_pages": "6-7", 
+    "journal_title": "D. I. S.", 
+    "journal_volume": "88", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805780", 
+      "recid": 805780
+    }, 
+    "publication_date": "2005-12-31", 
+    "publication_type": "article", 
+    "title": "A preliminary report on Drosophila fauna of Islamabad (Capital, Pakistan).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:09:25.208757+00:00", 
+  "owner": 1161, 
+  "record_id": 805780, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "A preliminary report on Drosophila fauna of Islamabad (Capital, Pakistan)."
+}

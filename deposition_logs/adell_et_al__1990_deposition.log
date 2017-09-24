@@ -1,0 +1,189 @@
+{
+  "conceptrecid": "805086", 
+  "created": "2017-06-09T21:54:04.599694+00:00", 
+  "files": [], 
+  "id": 805087, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/0f8645ff-4107-4283-aa04-83d11f46ca89", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805087/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805087/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805087/files", 
+    "html": "https://zenodo.org/deposit/805087", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805087", 
+    "latest_draft_html": "https://zenodo.org/deposit/805087", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805087/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805087"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Adell, J.C."
+      }, 
+      {
+        "name": "Moya, A."
+      }, 
+      {
+        "name": "Molina, V."
+      }, 
+      {
+        "name": "Gonzalez-Candelas, F."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "39-46", 
+    "journal_title": "Heredity", 
+    "journal_volume": "65", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805087", 
+      "recid": 805087
+    }, 
+    "publication_date": "1990-08-31", 
+    "publication_type": "article", 
+    "title": "On the analysis of viability data: an example with Drosophila.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:54:04.599702+00:00", 
+  "owner": 1161, 
+  "record_id": 805087, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "On the analysis of viability data: an example with Drosophila."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:54:07 GMT
+Content-Type: application/json
+Content-Length: 369
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497048845
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "e357f2bf6f9ebb41c46ce5e445529fdc", "filename": "adell_et_al__1990.pdf", "filesize": 127198, "id": "0d0bf15e-03fa-4ed6-9434-1d967b890ea8", "links": {"download": "https://zenodo.org/api/files/0f8645ff-4107-4283-aa04-83d11f46ca89/adell_et_al__1990.pdf", "self": "https://zenodo.org/api/deposit/depositions/805087/files/0d0bf15e-03fa-4ed6-9434-1d967b890ea8"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:54:09 GMT
+Content-Type: application/json
+Content-Length: 2612
+ETag: "2"
+Last-Modified: Fri, 09 Jun 2017 21:54:08 GMT
+Location: https://zenodo.org/api/deposit/depositions/805087
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497048848
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805086", 
+  "conceptrecid": "805086", 
+  "created": "2017-06-09T21:54:04.599694+00:00", 
+  "doi": "10.5281/zenodo.805087", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805087", 
+  "files": [
+    {
+      "checksum": "e357f2bf6f9ebb41c46ce5e445529fdc", 
+      "filename": "adell_et_al__1990.pdf", 
+      "filesize": 127198, 
+      "id": "0d0bf15e-03fa-4ed6-9434-1d967b890ea8", 
+      "links": {
+        "download": "https://zenodo.org/api/files/0f8645ff-4107-4283-aa04-83d11f46ca89/adell_et_al__1990.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804617/files/0d0bf15e-03fa-4ed6-9434-1d967b890ea8"
+      }
+    }
+  ], 
+  "id": 805087, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805087.svg", 
+    "bucket": "https://zenodo.org/api/files/0f8645ff-4107-4283-aa04-83d11f46ca89", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805086.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805086", 
+    "doi": "https://doi.org/10.5281/zenodo.805087", 
+    "latest": "https://zenodo.org/api/records/805087", 
+    "latest_html": "https://zenodo.org/record/805087", 
+    "record": "https://zenodo.org/api/records/805087", 
+    "record_html": "https://zenodo.org/record/805087"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Adell, J.C."
+      }, 
+      {
+        "name": "Moya, A."
+      }, 
+      {
+        "name": "Molina, V."
+      }, 
+      {
+        "name": "Gonzalez-Candelas, F."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805087", 
+    "journal_pages": "39-46", 
+    "journal_title": "Heredity", 
+    "journal_volume": "65", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805087", 
+      "recid": 805087
+    }, 
+    "publication_date": "1990-08-31", 
+    "publication_type": "article", 
+    "title": "On the analysis of viability data: an example with Drosophila.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:54:08.859828+00:00", 
+  "owner": 1161, 
+  "record_id": 805087, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "On the analysis of viability data: an example with Drosophila."
+}

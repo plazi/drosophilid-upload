@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805512", 
+  "created": "2017-06-10T11:54:05.218311+00:00", 
+  "files": [], 
+  "id": 805513, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/489689ce-8592-4507-b8af-9e148639e77a", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805513/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805513/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805513/files", 
+    "html": "https://zenodo.org/deposit/805513", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805513", 
+    "latest_draft_html": "https://zenodo.org/deposit/805513", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805513/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805513"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alahiotis, S.N."
+      }, 
+      {
+        "name": "Kilias, G."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "53-58", 
+    "journal_title": "J. Hered.", 
+    "journal_volume": "73", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805513", 
+      "recid": 805513
+    }, 
+    "publication_date": "1982-12-31", 
+    "publication_type": "article", 
+    "title": "Mating propensities and variations in enzyme activities in long-term cage populations of Drosophila melanogaster.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T11:54:05.218317+00:00", 
+  "owner": 1161, 
+  "record_id": 805513, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Mating propensities and variations in enzyme activities in long-term cage populations of Drosophila melanogaster."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 11:54:07 GMT
+Content-Type: application/json
+Content-Length: 379
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497099246
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "ab52fe844e92ceab7fb461339814f281", "filename": "alahiotis__kilias_1982.pdf", "filesize": 107075, "id": "36b816cf-9a7f-49d0-9996-8d27295d6ef1", "links": {"download": "https://zenodo.org/api/files/489689ce-8592-4507-b8af-9e148639e77a/alahiotis__kilias_1982.pdf", "self": "https://zenodo.org/api/deposit/depositions/805513/files/36b816cf-9a7f-49d0-9996-8d27295d6ef1"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 11:54:09 GMT
+Content-Type: application/json
+Content-Length: 2626
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 11:54:08 GMT
+Location: https://zenodo.org/api/deposit/depositions/805513
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497099248
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805512", 
+  "conceptrecid": "805512", 
+  "created": "2017-06-10T11:54:05.218311+00:00", 
+  "doi": "10.5281/zenodo.805513", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805513", 
+  "files": [
+    {
+      "checksum": "ab52fe844e92ceab7fb461339814f281", 
+      "filename": "alahiotis__kilias_1982.pdf", 
+      "filesize": 107075, 
+      "id": "36b816cf-9a7f-49d0-9996-8d27295d6ef1", 
+      "links": {
+        "download": "https://zenodo.org/api/files/489689ce-8592-4507-b8af-9e148639e77a/alahiotis__kilias_1982.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804727/files/36b816cf-9a7f-49d0-9996-8d27295d6ef1"
+      }
+    }
+  ], 
+  "id": 805513, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805513.svg", 
+    "bucket": "https://zenodo.org/api/files/489689ce-8592-4507-b8af-9e148639e77a", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805512.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805512", 
+    "doi": "https://doi.org/10.5281/zenodo.805513", 
+    "latest": "https://zenodo.org/api/records/805513", 
+    "latest_html": "https://zenodo.org/record/805513", 
+    "record": "https://zenodo.org/api/records/805513", 
+    "record_html": "https://zenodo.org/record/805513"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alahiotis, S.N."
+      }, 
+      {
+        "name": "Kilias, G."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805513", 
+    "journal_pages": "53-58", 
+    "journal_title": "J. Hered.", 
+    "journal_volume": "73", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805513", 
+      "recid": 805513
+    }, 
+    "publication_date": "1982-12-31", 
+    "publication_type": "article", 
+    "title": "Mating propensities and variations in enzyme activities in long-term cage populations of Drosophila melanogaster.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T11:54:08.810113+00:00", 
+  "owner": 1161, 
+  "record_id": 805513, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Mating propensities and variations in enzyme activities in long-term cage populations of Drosophila melanogaster."
+}

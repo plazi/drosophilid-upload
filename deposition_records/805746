@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805745", 
+  "conceptrecid": "805745", 
+  "created": "2017-06-10T20:07:35.021469+00:00", 
+  "doi": "10.5281/zenodo.805746", 
+  "id": 805746, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805746.svg", 
+    "bucket": "https://zenodo.org/api/files/925ccfb9-cbfa-4abc-afde-ebf21e9cdfb3", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805745.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805745", 
+    "doi": "https://doi.org/10.5281/zenodo.805746", 
+    "html": "https://zenodo.org/record/805746", 
+    "latest": "https://zenodo.org/api/records/805746", 
+    "latest_html": "https://zenodo.org/record/805746", 
+    "self": "https://zenodo.org/api/records/805746"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "van Alphen, J.J.M."
+      }, 
+      {
+        "name": "van Dijken, M.J."
+      }, 
+      {
+        "name": "Waage, J.K."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805746", 
+    "journal": {
+      "pages": "167-179", 
+      "title": "Neth. J. Zool.", 
+      "volume": "37"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1987-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805745", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805746"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805745"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "A functional approach to superparasitism: host discrimination needs not be learnt."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:04:45.236441+00:00"
+}

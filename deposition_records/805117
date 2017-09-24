@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805116", 
+  "conceptrecid": "805116", 
+  "created": "2017-06-09T21:57:06.508984+00:00", 
+  "doi": "10.5281/zenodo.805117", 
+  "id": 805117, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805117.svg", 
+    "bucket": "https://zenodo.org/api/files/b291a562-306a-4c5c-b012-e367fd4464bc", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805116.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805116", 
+    "doi": "https://doi.org/10.5281/zenodo.805117", 
+    "html": "https://zenodo.org/record/805117", 
+    "latest": "https://zenodo.org/api/records/805117", 
+    "latest_html": "https://zenodo.org/record/805117", 
+    "self": "https://zenodo.org/api/records/805117"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aguade, M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805117", 
+    "journal": {
+      "pages": "1079-1089", 
+      "title": "Genetics", 
+      "volume": "150"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1998-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805116", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805117"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805116"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Different Forces Drive the Evolution of the Acp26Aa and Acp26Ab Accessory Gland Genes in the Drosophila melanogaster Species Complex."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:01:22.183145+00:00"
+}

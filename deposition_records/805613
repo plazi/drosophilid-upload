@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805612", 
+  "conceptrecid": "805612", 
+  "created": "2017-06-10T16:07:04.352978+00:00", 
+  "doi": "10.5281/zenodo.805613", 
+  "id": 805613, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805613.svg", 
+    "bucket": "https://zenodo.org/api/files/5837dcb8-9a95-49f0-850a-d50510b2a99c", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805612.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805612", 
+    "doi": "https://doi.org/10.5281/zenodo.805613", 
+    "html": "https://zenodo.org/record/805613", 
+    "latest": "https://zenodo.org/api/records/805613", 
+    "latest_html": "https://zenodo.org/record/805613", 
+    "self": "https://zenodo.org/api/records/805613"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alexander, M.L."
+      }, 
+      {
+        "name": "Lea, R.B."
+      }, 
+      {
+        "name": "Stone, W.S."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805613", 
+    "journal": {
+      "pages": "106-113", 
+      "title": "Univ. Texas Publs", 
+      "volume": "5204"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1952-02-15", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805612", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805613"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805612"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Interspecific gene variability in the Virilis species group."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:52:48.922290+00:00"
+}

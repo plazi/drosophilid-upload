@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805506", 
+  "conceptrecid": "805506", 
+  "created": "2017-06-10T11:53:42.991245+00:00", 
+  "doi": "10.5281/zenodo.805507", 
+  "id": 805507, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805507.svg", 
+    "bucket": "https://zenodo.org/api/files/f36ba0af-cc8b-4855-8913-dc54d3203cd1", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805506.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805506", 
+    "doi": "https://doi.org/10.5281/zenodo.805507", 
+    "html": "https://zenodo.org/record/805507", 
+    "latest": "https://zenodo.org/api/records/805507", 
+    "latest_html": "https://zenodo.org/record/805507", 
+    "self": "https://zenodo.org/api/records/805507"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Akutsu, K."
+      }, 
+      {
+        "name": "Khen, C.V."
+      }, 
+      {
+        "name": "Toda, M.J."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805507", 
+    "journal": {
+      "pages": "542-550", 
+      "title": "Ecol. Res.", 
+      "volume": "22"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2007-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805506", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805507"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805506"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Assessment of higher insect taxa as bioindicators for different logging-disturbance regimes in lowland tropical rain forest in Sabah, Malaysia."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:02:45.486121+00:00"
+}

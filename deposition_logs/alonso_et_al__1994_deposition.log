@@ -1,0 +1,183 @@
+{
+  "conceptrecid": "805733", 
+  "created": "2017-06-10T20:06:51.782841+00:00", 
+  "files": [], 
+  "id": 805734, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/48eb1060-3e52-49c5-8b44-d8a245de6342", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805734/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805734/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805734/files", 
+    "html": "https://zenodo.org/deposit/805734", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805734", 
+    "latest_draft_html": "https://zenodo.org/deposit/805734", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805734/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805734"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alonso-Pimentel, H."
+      }, 
+      {
+        "name": "Tolbert, L.P."
+      }, 
+      {
+        "name": "Heed, W.B."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "467-479", 
+    "journal_title": "Cell Tissue Res.", 
+    "journal_volume": "275", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805734", 
+      "recid": 805734
+    }, 
+    "publication_date": "1994-12-31", 
+    "publication_type": "article", 
+    "title": "Ultrastructural examination of the insemination reaction in Drosophila.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:06:51.782847+00:00", 
+  "owner": 1161, 
+  "record_id": 805734, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Ultrastructural examination of the insemination reaction in Drosophila."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:06:54 GMT
+Content-Type: application/json
+Content-Length: 370
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497128813
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "f9115d8c09b100f26829dac343d90d99", "filename": "alonso_et_al__1994.pdf", "filesize": 84584, "id": "d69df975-ea8f-4e3e-9d48-a9144ae0d48d", "links": {"download": "https://zenodo.org/api/files/48eb1060-3e52-49c5-8b44-d8a245de6342/alonso_et_al__1994.pdf", "self": "https://zenodo.org/api/deposit/depositions/805734/files/d69df975-ea8f-4e3e-9d48-a9144ae0d48d"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:06:56 GMT
+Content-Type: application/json
+Content-Length: 2597
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 20:06:56 GMT
+Location: https://zenodo.org/api/deposit/depositions/805734
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497128815
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805733", 
+  "conceptrecid": "805733", 
+  "created": "2017-06-10T20:06:51.782841+00:00", 
+  "doi": "10.5281/zenodo.805734", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805734", 
+  "files": [
+    {
+      "checksum": "f9115d8c09b100f26829dac343d90d99", 
+      "filename": "alonso_et_al__1994.pdf", 
+      "filesize": 84584, 
+      "id": "d69df975-ea8f-4e3e-9d48-a9144ae0d48d", 
+      "links": {
+        "download": "https://zenodo.org/api/files/48eb1060-3e52-49c5-8b44-d8a245de6342/alonso_et_al__1994.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804352/files/d69df975-ea8f-4e3e-9d48-a9144ae0d48d"
+      }
+    }
+  ], 
+  "id": 805734, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805734.svg", 
+    "bucket": "https://zenodo.org/api/files/48eb1060-3e52-49c5-8b44-d8a245de6342", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805733.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805733", 
+    "doi": "https://doi.org/10.5281/zenodo.805734", 
+    "latest": "https://zenodo.org/api/records/805734", 
+    "latest_html": "https://zenodo.org/record/805734", 
+    "record": "https://zenodo.org/api/records/805734", 
+    "record_html": "https://zenodo.org/record/805734"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alonso-Pimentel, H."
+      }, 
+      {
+        "name": "Tolbert, L.P."
+      }, 
+      {
+        "name": "Heed, W.B."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805734", 
+    "journal_pages": "467-479", 
+    "journal_title": "Cell Tissue Res.", 
+    "journal_volume": "275", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805734", 
+      "recid": 805734
+    }, 
+    "publication_date": "1994-12-31", 
+    "publication_type": "article", 
+    "title": "Ultrastructural examination of the insemination reaction in Drosophila.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:06:56.018768+00:00", 
+  "owner": 1161, 
+  "record_id": 805734, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Ultrastructural examination of the insemination reaction in Drosophila."
+}

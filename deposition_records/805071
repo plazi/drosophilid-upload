@@ -1,0 +1,98 @@
+{
+  "conceptdoi": "10.5281/zenodo.805070", 
+  "conceptrecid": "805070", 
+  "created": "2017-06-09T21:39:37.270989+00:00", 
+  "doi": "10.5281/zenodo.805071", 
+  "id": 805071, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805071.svg", 
+    "bucket": "https://zenodo.org/api/files/7417b7cd-b24d-4377-ad23-96e0a5645e97", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805070.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805070", 
+    "doi": "https://doi.org/10.5281/zenodo.805071", 
+    "html": "https://zenodo.org/record/805071", 
+    "latest": "https://zenodo.org/api/records/805071", 
+    "latest_html": "https://zenodo.org/record/805071", 
+    "self": "https://zenodo.org/api/records/805071"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Acurio, A."
+      }, 
+      {
+        "name": "Rafael, V."
+      }, 
+      {
+        "name": "Dangles, O."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805071", 
+    "journal": {
+      "pages": "717-723", 
+      "title": "Biotropica", 
+      "volume": "42"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2010-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.1111/j.1744-7429.2010.00628.x", 
+        "relation": "isIdenticalTo", 
+        "scheme": "doi"
+      }, 
+      {
+        "identifier": "10.5281/zenodo.805070", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805071"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805070"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Biological Invasions in the Amazonian Tropical Rain Forest: The Case of Drosophilidae (Insecta, Diptera) in Ecuador, South America."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 6, 
+  "updated": "2017-09-08T07:30:23.807222+00:00"
+}

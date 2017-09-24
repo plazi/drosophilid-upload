@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805574", 
+  "created": "2017-06-10T13:13:25.032587+00:00", 
+  "files": [], 
+  "id": 805575, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/ad925c60-96bd-44f7-b876-56cbbae180d3", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805575/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805575/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805575/files", 
+    "html": "https://zenodo.org/deposit/805575", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805575", 
+    "latest_draft_html": "https://zenodo.org/deposit/805575", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805575/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805575"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "de Albuquerque, C.M.r."
+      }, 
+      {
+        "name": "Napp, M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "399-407", 
+    "journal_title": "Genetics", 
+    "journal_volume": "98", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805575", 
+      "recid": 805575
+    }, 
+    "publication_date": "1981-12-31", 
+    "publication_type": "article", 
+    "title": "Genetic variability at the esterase-6 locus in natural populations of Drosophila simulans in relation to environmental heterogeneity.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T13:13:25.032593+00:00", 
+  "owner": 1161, 
+  "record_id": 805575, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Genetic variability at the esterase-6 locus in natural populations of Drosophila simulans in relation to environmental heterogeneity."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 13:13:27 GMT
+Content-Type: application/json
+Content-Length: 379
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497104006
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "bd394f6ab8a5cbe09091908ae46dac96", "filename": "albuquerque__napp_1981.pdf", "filesize": 199002, "id": "213f7577-a267-4c49-89ea-93355c501bed", "links": {"download": "https://zenodo.org/api/files/ad925c60-96bd-44f7-b876-56cbbae180d3/albuquerque__napp_1981.pdf", "self": "https://zenodo.org/api/deposit/depositions/805575/files/213f7577-a267-4c49-89ea-93355c501bed"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 13:13:29 GMT
+Content-Type: application/json
+Content-Length: 2672
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 13:13:29 GMT
+Location: https://zenodo.org/api/deposit/depositions/805575
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497103923
+Retry-After: 3513
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805574", 
+  "conceptrecid": "805574", 
+  "created": "2017-06-10T13:13:25.032587+00:00", 
+  "doi": "10.5281/zenodo.805575", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805575", 
+  "files": [
+    {
+      "checksum": "bd394f6ab8a5cbe09091908ae46dac96", 
+      "filename": "albuquerque__napp_1981.pdf", 
+      "filesize": 199002, 
+      "id": "213f7577-a267-4c49-89ea-93355c501bed", 
+      "links": {
+        "download": "https://zenodo.org/api/files/ad925c60-96bd-44f7-b876-56cbbae180d3/albuquerque__napp_1981.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/142767/files/213f7577-a267-4c49-89ea-93355c501bed"
+      }
+    }
+  ], 
+  "id": 805575, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805575.svg", 
+    "bucket": "https://zenodo.org/api/files/ad925c60-96bd-44f7-b876-56cbbae180d3", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805574.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805574", 
+    "doi": "https://doi.org/10.5281/zenodo.805575", 
+    "latest": "https://zenodo.org/api/records/805575", 
+    "latest_html": "https://zenodo.org/record/805575", 
+    "record": "https://zenodo.org/api/records/805575", 
+    "record_html": "https://zenodo.org/record/805575"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "de Albuquerque, C.M.r."
+      }, 
+      {
+        "name": "Napp, M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805575", 
+    "journal_pages": "399-407", 
+    "journal_title": "Genetics", 
+    "journal_volume": "98", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805575", 
+      "recid": 805575
+    }, 
+    "publication_date": "1981-12-31", 
+    "publication_type": "article", 
+    "title": "Genetic variability at the esterase-6 locus in natural populations of Drosophila simulans in relation to environmental heterogeneity.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T13:13:29.023495+00:00", 
+  "owner": 1161, 
+  "record_id": 805575, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Genetic variability at the esterase-6 locus in natural populations of Drosophila simulans in relation to environmental heterogeneity."
+}

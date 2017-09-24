@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805632", 
+  "created": "2017-06-10T16:09:39.250076+00:00", 
+  "files": [], 
+  "id": 805633, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/00c3e234-7258-4ed8-88ac-97755ef2309f", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805633/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805633/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805633/files", 
+    "html": "https://zenodo.org/deposit/805633", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805633", 
+    "latest_draft_html": "https://zenodo.org/deposit/805633", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805633/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805633"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allemand, R."
+      }, 
+      {
+        "name": "Bouletreau-Merle, J."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "1147-1150", 
+    "journal_title": "Experientia", 
+    "journal_volume": "45", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805633", 
+      "recid": 805633
+    }, 
+    "publication_date": "1989-12-01", 
+    "publication_type": "article", 
+    "title": "Correlated responses in lines of Drosophila melanogaster selected for different oviposition behaviours.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:09:39.250114+00:00", 
+  "owner": 1161, 
+  "record_id": 805633, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Correlated responses in lines of Drosophila melanogaster selected for different oviposition behaviours."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:09:42 GMT
+Content-Type: application/json
+Content-Length: 385
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497114580
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "7676d218ca40f1fca1d0a6655c4eaec1", "filename": "allemand__bouletreau_1989.pdf", "filesize": 168736, "id": "a7834246-771f-4a27-a7be-7374ec5ebbe0", "links": {"download": "https://zenodo.org/api/files/00c3e234-7258-4ed8-88ac-97755ef2309f/allemand__bouletreau_1989.pdf", "self": "https://zenodo.org/api/deposit/depositions/805633/files/a7834246-771f-4a27-a7be-7374ec5ebbe0"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:09:44 GMT
+Content-Type: application/json
+Content-Length: 2625
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:09:43 GMT
+Location: https://zenodo.org/api/deposit/depositions/805633
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497114399
+Retry-After: 3414
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805632", 
+  "conceptrecid": "805632", 
+  "created": "2017-06-10T16:09:39.250076+00:00", 
+  "doi": "10.5281/zenodo.805633", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805633", 
+  "files": [
+    {
+      "checksum": "7676d218ca40f1fca1d0a6655c4eaec1", 
+      "filename": "allemand__bouletreau_1989.pdf", 
+      "filesize": 168736, 
+      "id": "a7834246-771f-4a27-a7be-7374ec5ebbe0", 
+      "links": {
+        "download": "https://zenodo.org/api/files/00c3e234-7258-4ed8-88ac-97755ef2309f/allemand__bouletreau_1989.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804711/files/a7834246-771f-4a27-a7be-7374ec5ebbe0"
+      }
+    }
+  ], 
+  "id": 805633, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805633.svg", 
+    "bucket": "https://zenodo.org/api/files/00c3e234-7258-4ed8-88ac-97755ef2309f", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805632.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805632", 
+    "doi": "https://doi.org/10.5281/zenodo.805633", 
+    "latest": "https://zenodo.org/api/records/805633", 
+    "latest_html": "https://zenodo.org/record/805633", 
+    "record": "https://zenodo.org/api/records/805633", 
+    "record_html": "https://zenodo.org/record/805633"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allemand, R."
+      }, 
+      {
+        "name": "Bouletreau-Merle, J."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805633", 
+    "journal_pages": "1147-1150", 
+    "journal_title": "Experientia", 
+    "journal_volume": "45", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805633", 
+      "recid": 805633
+    }, 
+    "publication_date": "1989-12-01", 
+    "publication_type": "article", 
+    "title": "Correlated responses in lines of Drosophila melanogaster selected for different oviposition behaviours.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:09:43.933768+00:00", 
+  "owner": 1161, 
+  "record_id": 805633, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Correlated responses in lines of Drosophila melanogaster selected for different oviposition behaviours."
+}

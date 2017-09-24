@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805636", 
+  "conceptrecid": "805636", 
+  "created": "2017-06-10T16:09:54.045747+00:00", 
+  "doi": "10.5281/zenodo.805637", 
+  "id": 805637, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805637.svg", 
+    "bucket": "https://zenodo.org/api/files/d9dbc89d-d5e1-4380-8671-ea586cf7eb52", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805636.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805636", 
+    "doi": "https://doi.org/10.5281/zenodo.805637", 
+    "html": "https://zenodo.org/record/805637", 
+    "latest": "https://zenodo.org/api/records/805637", 
+    "latest_html": "https://zenodo.org/record/805637", 
+    "self": "https://zenodo.org/api/records/805637"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allemand, R."
+      }, 
+      {
+        "name": "David, J.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805637", 
+    "journal": {
+      "pages": "31-43", 
+      "title": "Behav. Genet.", 
+      "volume": "14"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1984-01-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805636", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805637"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805636"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Genetic Analysis of the Circadian Oviposition Rhythm in Drosophila melanogaster: Effects of Drift in Laboratory Strains."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:33:59.876214+00:00"
+}

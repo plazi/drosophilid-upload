@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805628", 
+  "conceptrecid": "805628", 
+  "created": "2017-06-10T16:09:31.947086+00:00", 
+  "doi": "10.5281/zenodo.805629", 
+  "id": 805629, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805629.svg", 
+    "bucket": "https://zenodo.org/api/files/1fe52c74-26e2-4d19-bb73-2f7cd2060e18", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805628.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805628", 
+    "doi": "https://doi.org/10.5281/zenodo.805629", 
+    "html": "https://zenodo.org/record/805629", 
+    "latest": "https://zenodo.org/api/records/805629", 
+    "latest_html": "https://zenodo.org/record/805629", 
+    "self": "https://zenodo.org/api/records/805629"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ali, S.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805629", 
+    "journal": {
+      "pages": "131-132", 
+      "title": "Indian J. SugCane Res. Dev.", 
+      "volume": "7"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1963-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805628", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805629"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805628"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "A Preliminary Note on the Natural Enemies of sugarcane Mealybug, Pseudococcus saccharifolii (Green) in Bihar (India)."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:26:53.156859+00:00"
+}

@@ -1,0 +1,95 @@
+{
+  "conceptdoi": "10.5281/zenodo.805666", 
+  "conceptrecid": "805666", 
+  "created": "2017-06-10T16:20:22.182842+00:00", 
+  "doi": "10.5281/zenodo.805667", 
+  "id": 805667, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805667.svg", 
+    "bucket": "https://zenodo.org/api/files/0d418908-52da-4fc7-85e4-8e306bdd9843", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805666.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805666", 
+    "doi": "https://doi.org/10.5281/zenodo.805667", 
+    "html": "https://zenodo.org/record/805667", 
+    "latest": "https://zenodo.org/api/records/805667", 
+    "latest_html": "https://zenodo.org/record/805667", 
+    "self": "https://zenodo.org/api/records/805667"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "de Almeida, L.M."
+      }, 
+      {
+        "name": "Carareto, C.M.A."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805667", 
+    "journal": {
+      "pages": "71-79", 
+      "title": "Iheringia, Ser. Zool.", 
+      "volume": "92"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2002-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.1590/s0073-47212002000200007", 
+        "relation": "isIdenticalTo", 
+        "scheme": "doi"
+      }, 
+      {
+        "identifier": "10.5281/zenodo.805666", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805667"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805666"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Gonadal hybrid dysgenesis in Drosophila sturtevanti (Diptera, Drosophilidae)."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-22T17:15:46.386973+00:00"
+}

@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805763", 
+  "conceptrecid": "805763", 
+  "created": "2017-06-10T20:08:29.591987+00:00", 
+  "doi": "10.5281/zenodo.805764", 
+  "id": 805764, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805764.svg", 
+    "bucket": "https://zenodo.org/api/files/98928b08-5704-46a5-9d29-f46a1e3db121", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805763.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805763", 
+    "doi": "https://doi.org/10.5281/zenodo.805764", 
+    "html": "https://zenodo.org/record/805764", 
+    "latest": "https://zenodo.org/api/records/805764", 
+    "latest_html": "https://zenodo.org/record/805764", 
+    "self": "https://zenodo.org/api/records/805764"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alvarez, D."
+      }, 
+      {
+        "name": "Ruiz-Garcia, M."
+      }, 
+      {
+        "name": "Guerrero, J."
+      }, 
+      {
+        "name": "Jaramillo, J-P."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805764", 
+    "journal": {
+      "pages": "1-24", 
+      "title": "Genet. Mol. Res.", 
+      "volume": "1"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2002-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805763", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805764"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805763"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Detection of stabilizing selection in favor of the Santa Cruz homokaryotype in Drosophila pseudoobscura populations from the high plateau of the Colombian Andes."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T08:05:39.306652+00:00"
+}

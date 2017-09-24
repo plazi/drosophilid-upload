@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805751", 
+  "conceptrecid": "805751", 
+  "created": "2017-06-10T20:07:54.402379+00:00", 
+  "doi": "10.5281/zenodo.805752", 
+  "id": 805752, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805752.svg", 
+    "bucket": "https://zenodo.org/api/files/9b4fad9b-6676-4c9f-9c43-3c2651b7b2f5", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805751.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805751", 
+    "doi": "https://doi.org/10.5281/zenodo.805752", 
+    "html": "https://zenodo.org/record/805752", 
+    "latest": "https://zenodo.org/api/records/805752", 
+    "latest_html": "https://zenodo.org/record/805752", 
+    "self": "https://zenodo.org/api/records/805752"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Altenburg, E."
+      }, 
+      {
+        "name": "Muller, H.J."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805752", 
+    "journal": {
+      "pages": "1-59", 
+      "title": "Genetics", 
+      "volume": "5"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1920-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805751", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805752"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805751"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "The genetic basis of truncate wing. - An inconstant and modifiable character in Drosophila."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:47:40.134663+00:00"
+}

@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805759", 
+  "conceptrecid": "805759", 
+  "created": "2017-06-10T20:08:17.917611+00:00", 
+  "doi": "10.5281/zenodo.805760", 
+  "id": 805760, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805760.svg", 
+    "bucket": "https://zenodo.org/api/files/91f62260-f46d-4a00-bd3a-6c8317296e38", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805759.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805759", 
+    "doi": "https://doi.org/10.5281/zenodo.805760", 
+    "html": "https://zenodo.org/record/805760", 
+    "latest": "https://zenodo.org/api/records/805760", 
+    "latest_html": "https://zenodo.org/record/805760", 
+    "self": "https://zenodo.org/api/records/805760"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alvarez, G."
+      }, 
+      {
+        "name": "Martinez, P."
+      }, 
+      {
+        "name": "Zapata, C."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805760", 
+    "journal": {
+      "pages": "55-66", 
+      "title": "Heredity", 
+      "volume": "64"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1990-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805759", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805760"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805759"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Genetic variation in a modifier system affecting the expression of Bare mutant of Drosophila subobscura."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:09:02.007023+00:00"
+}

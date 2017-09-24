@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805066", 
+  "conceptrecid": "805066", 
+  "created": "2017-06-09T21:39:22.039512+00:00", 
+  "doi": "10.5281/zenodo.805067", 
+  "id": 805067, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805067.svg", 
+    "bucket": "https://zenodo.org/api/files/48247079-5bd8-495e-b825-5257ed66fd91", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805066.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805066", 
+    "doi": "https://doi.org/10.5281/zenodo.805067", 
+    "html": "https://zenodo.org/record/805067", 
+    "latest": "https://zenodo.org/api/records/805067", 
+    "latest_html": "https://zenodo.org/record/805067", 
+    "self": "https://zenodo.org/api/records/805067"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Acurio, A.E."
+      }, 
+      {
+        "name": "Rafael, V.L."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805067", 
+    "journal": {
+      "pages": "713-718", 
+      "title": "Acta Amazon.", 
+      "volume": "39"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2009-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805066", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805067"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805066"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Inventario Taxonomico de Drosophilidae (Diptera) en el Parque Nacional Yasuni, Amazonia Ecuatoriana."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 5, 
+  "updated": "2017-09-08T07:24:54.846198+00:00"
+}

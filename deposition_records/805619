@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805618", 
+  "conceptrecid": "805618", 
+  "created": "2017-06-10T16:08:54.396711+00:00", 
+  "doi": "10.5281/zenodo.805619", 
+  "id": 805619, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805619.svg", 
+    "bucket": "https://zenodo.org/api/files/ce623678-7ab6-43ef-8861-d85bb9f905b5", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805618.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805618", 
+    "doi": "https://doi.org/10.5281/zenodo.805619", 
+    "html": "https://zenodo.org/record/805619", 
+    "latest": "https://zenodo.org/api/records/805619", 
+    "latest_html": "https://zenodo.org/record/805619", 
+    "self": "https://zenodo.org/api/records/805619"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alexandrov, I.D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805619", 
+    "journal": {
+      "pages": "213-214", 
+      "title": "D. I. S.", 
+      "volume": "71"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1992-07-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805618", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805619"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805618"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Different patterns of spontaneous mutability in two wild-type sib stocks of D. melanogaster with long-term laboratory history."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:40:23.691037+00:00"
+}

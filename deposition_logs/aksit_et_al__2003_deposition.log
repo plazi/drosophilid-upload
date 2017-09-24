@@ -1,0 +1,183 @@
+{
+  "conceptrecid": "805504", 
+  "created": "2017-06-10T11:53:30.384238+00:00", 
+  "files": [], 
+  "id": 805505, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/5257e0da-a88b-4709-888a-744cc51df4cc", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805505/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805505/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805505/files", 
+    "html": "https://zenodo.org/deposit/805505", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805505", 
+    "latest_draft_html": "https://zenodo.org/deposit/805505", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805505/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805505"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aksit, T."
+      }, 
+      {
+        "name": "Ozsemerci, F."
+      }, 
+      {
+        "name": "Cakmak, I."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "181-189", 
+    "journal_title": "Turkiye Entomoloji Dergisi", 
+    "journal_volume": "27", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805505", 
+      "recid": 805505
+    }, 
+    "publication_date": "2003-12-31", 
+    "publication_type": "article", 
+    "title": "Studies on determination of harmful fauna in the fig orchards in Aydin province (Turkey). Aydin ilinde incir agaclarinda saptanan zararli turler. (in Turkish).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T11:53:30.384245+00:00", 
+  "owner": 1161, 
+  "record_id": 805505, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Studies on determination of harmful fauna in the fig orchards in Aydin province (Turkey). Aydin ilinde incir agaclarinda saptanan zararli turler. (in Turkish)."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 11:53:35 GMT
+Content-Type: application/json
+Content-Length: 370
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497099211
+Retry-After: 3595
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "250c4a6c803d78505fd17346bc3948c7", "filename": "aksit_et_al__2003.pdf", "filesize": 1027789, "id": "49b15116-a226-4efa-bce9-c2ed955abed5", "links": {"download": "https://zenodo.org/api/files/5257e0da-a88b-4709-888a-744cc51df4cc/aksit_et_al__2003.pdf", "self": "https://zenodo.org/api/deposit/depositions/805505/files/49b15116-a226-4efa-bce9-c2ed955abed5"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 11:53:37 GMT
+Content-Type: application/json
+Content-Length: 2772
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 11:53:36 GMT
+Location: https://zenodo.org/api/deposit/depositions/805505
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497099216
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805504", 
+  "conceptrecid": "805504", 
+  "created": "2017-06-10T11:53:30.384238+00:00", 
+  "doi": "10.5281/zenodo.805505", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805505", 
+  "files": [
+    {
+      "checksum": "250c4a6c803d78505fd17346bc3948c7", 
+      "filename": "aksit_et_al__2003.pdf", 
+      "filesize": 1027789, 
+      "id": "49b15116-a226-4efa-bce9-c2ed955abed5", 
+      "links": {
+        "download": "https://zenodo.org/api/files/5257e0da-a88b-4709-888a-744cc51df4cc/aksit_et_al__2003.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804699/files/49b15116-a226-4efa-bce9-c2ed955abed5"
+      }
+    }
+  ], 
+  "id": 805505, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805505.svg", 
+    "bucket": "https://zenodo.org/api/files/5257e0da-a88b-4709-888a-744cc51df4cc", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805504.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805504", 
+    "doi": "https://doi.org/10.5281/zenodo.805505", 
+    "latest": "https://zenodo.org/api/records/805505", 
+    "latest_html": "https://zenodo.org/record/805505", 
+    "record": "https://zenodo.org/api/records/805505", 
+    "record_html": "https://zenodo.org/record/805505"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aksit, T."
+      }, 
+      {
+        "name": "Ozsemerci, F."
+      }, 
+      {
+        "name": "Cakmak, I."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805505", 
+    "journal_pages": "181-189", 
+    "journal_title": "Turkiye Entomoloji Dergisi", 
+    "journal_volume": "27", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805505", 
+      "recid": 805505
+    }, 
+    "publication_date": "2003-12-31", 
+    "publication_type": "article", 
+    "title": "Studies on determination of harmful fauna in the fig orchards in Aydin province (Turkey). Aydin ilinde incir agaclarinda saptanan zararli turler. (in Turkish).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T11:53:36.835914+00:00", 
+  "owner": 1161, 
+  "record_id": 805505, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Studies on determination of harmful fauna in the fig orchards in Aydin province (Turkey). Aydin ilinde incir agaclarinda saptanan zararli turler. (in Turkish)."
+}

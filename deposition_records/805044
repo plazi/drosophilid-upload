@@ -1,0 +1,99 @@
+{
+  "conceptdoi": "10.5281/zenodo.805043", 
+  "conceptrecid": "805043", 
+  "created": "2017-06-09T21:31:24.223644+00:00", 
+  "doi": "10.5281/zenodo.805044", 
+  "id": 805044, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805044.svg", 
+    "bucket": "https://zenodo.org/api/files/a923c8c1-ce7f-45e6-a950-2a51eb651197", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805043.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805043", 
+    "doi": "https://doi.org/10.5281/zenodo.805044", 
+    "html": "https://zenodo.org/record/805044", 
+    "latest": "https://zenodo.org/api/records/805044", 
+    "latest_html": "https://zenodo.org/record/805044", 
+    "self": "https://zenodo.org/api/records/805044"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Abou-Youssef, A.Y."
+      }, 
+      {
+        "name": "Youssef, M.K."
+      }, 
+      {
+        "name": "Riad, S.A."
+      }, 
+      {
+        "name": "Badr, E.A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805044", 
+    "journal": {
+      "pages": "17-30", 
+      "title": "Egypt. J. Genet. Cytol.", 
+      "volume": "12"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1983-01-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805043", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805044"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805043"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Seasonal fluctuations of esterase-6 allelic frequencies of Drosophila melanogaster in an area heavily sprayed with insecticides."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:35:03.691771+00:00"
+}

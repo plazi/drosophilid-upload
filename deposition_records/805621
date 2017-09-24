@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805620", 
+  "conceptrecid": "805620", 
+  "created": "2017-06-10T16:09:01.060756+00:00", 
+  "doi": "10.5281/zenodo.805621", 
+  "id": 805621, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805621.svg", 
+    "bucket": "https://zenodo.org/api/files/eb2fde0f-7985-4e2d-822f-8cbaa0bae7e6", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805620.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805620", 
+    "doi": "https://doi.org/10.5281/zenodo.805621", 
+    "html": "https://zenodo.org/record/805621", 
+    "latest": "https://zenodo.org/api/records/805621", 
+    "latest_html": "https://zenodo.org/record/805621", 
+    "self": "https://zenodo.org/api/records/805621"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alexeieff, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805621", 
+    "journal": {
+      "pages": "17-37", 
+      "title": "Zool. Anz.", 
+      "volume": "41"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1912-12-26", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805620", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805621"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805620"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Quelques remarques a propos de la specificite parasitaire. Sur le veritable nom de Cryptobia (=Trypanoplasma) intestinalis et sur celui du Trypanosome pathogene des Mammiferes; quelques autres questions de synonymie chez les Protozoaires."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:31:10.123406+00:00"
+}

@@ -1,0 +1,183 @@
+{
+  "conceptrecid": "805622", 
+  "created": "2017-06-10T16:09:02.719833+00:00", 
+  "files": [], 
+  "id": 805623, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/8deec5c5-e8ea-4677-9256-e8bb2043c52a", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805623/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805623/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805623/files", 
+    "html": "https://zenodo.org/deposit/805623", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805623", 
+    "latest_draft_html": "https://zenodo.org/deposit/805623", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805623/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805623"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alfaro, R.I."
+      }, 
+      {
+        "name": "Hulme, M.A."
+      }, 
+      {
+        "name": "Harris, J.W.E."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "415-418", 
+    "journal_title": "Entomophaga", 
+    "journal_volume": "30", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805623", 
+      "recid": 805623
+    }, 
+    "publication_date": "1985-12-31", 
+    "publication_type": "article", 
+    "title": "Insects associated with the Sitka spruce weevil, Pissodes strobi (Col.: Curculionidae) on Sitka spruce, Picea sitchensis in British Columbia, Canada.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:09:02.719842+00:00", 
+  "owner": 1161, 
+  "record_id": 805623, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Insects associated with the Sitka spruce weevil, Pissodes strobi (Col.: Curculionidae) on Sitka spruce, Picea sitchensis in British Columbia, Canada."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:09:06 GMT
+Content-Type: application/json
+Content-Length: 371
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497114543
+Retry-After: 3596
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "43ca6c943d352efd60ff2d1f75e566cd", "filename": "alfaro_et_al__1985.pdf", "filesize": 149031, "id": "6fdf0687-60c2-4f1a-995d-dde2a6e11646", "links": {"download": "https://zenodo.org/api/files/8deec5c5-e8ea-4677-9256-e8bb2043c52a/alfaro_et_al__1985.pdf", "self": "https://zenodo.org/api/deposit/depositions/805623/files/6fdf0687-60c2-4f1a-995d-dde2a6e11646"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:09:08 GMT
+Content-Type: application/json
+Content-Length: 2743
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:09:08 GMT
+Location: https://zenodo.org/api/deposit/depositions/805623
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497114547
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805622", 
+  "conceptrecid": "805622", 
+  "created": "2017-06-10T16:09:02.719833+00:00", 
+  "doi": "10.5281/zenodo.805623", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805623", 
+  "files": [
+    {
+      "checksum": "43ca6c943d352efd60ff2d1f75e566cd", 
+      "filename": "alfaro_et_al__1985.pdf", 
+      "filesize": 149031, 
+      "id": "6fdf0687-60c2-4f1a-995d-dde2a6e11646", 
+      "links": {
+        "download": "https://zenodo.org/api/files/8deec5c5-e8ea-4677-9256-e8bb2043c52a/alfaro_et_al__1985.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804695/files/6fdf0687-60c2-4f1a-995d-dde2a6e11646"
+      }
+    }
+  ], 
+  "id": 805623, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805623.svg", 
+    "bucket": "https://zenodo.org/api/files/8deec5c5-e8ea-4677-9256-e8bb2043c52a", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805622.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805622", 
+    "doi": "https://doi.org/10.5281/zenodo.805623", 
+    "latest": "https://zenodo.org/api/records/805623", 
+    "latest_html": "https://zenodo.org/record/805623", 
+    "record": "https://zenodo.org/api/records/805623", 
+    "record_html": "https://zenodo.org/record/805623"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alfaro, R.I."
+      }, 
+      {
+        "name": "Hulme, M.A."
+      }, 
+      {
+        "name": "Harris, J.W.E."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805623", 
+    "journal_pages": "415-418", 
+    "journal_title": "Entomophaga", 
+    "journal_volume": "30", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805623", 
+      "recid": 805623
+    }, 
+    "publication_date": "1985-12-31", 
+    "publication_type": "article", 
+    "title": "Insects associated with the Sitka spruce weevil, Pissodes strobi (Col.: Curculionidae) on Sitka spruce, Picea sitchensis in British Columbia, Canada.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:09:08.361593+00:00", 
+  "owner": 1161, 
+  "record_id": 805623, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Insects associated with the Sitka spruce weevil, Pissodes strobi (Col.: Curculionidae) on Sitka spruce, Picea sitchensis in British Columbia, Canada."
+}

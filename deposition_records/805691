@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805690", 
+  "conceptrecid": "805690", 
+  "created": "2017-06-10T16:21:39.118194+00:00", 
+  "doi": "10.5281/zenodo.805691", 
+  "id": 805691, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805691.svg", 
+    "bucket": "https://zenodo.org/api/files/886d5a11-d111-456c-85ef-b0b987408bca", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805690.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805690", 
+    "doi": "https://doi.org/10.5281/zenodo.805691", 
+    "html": "https://zenodo.org/record/805691", 
+    "latest": "https://zenodo.org/api/records/805691", 
+    "latest_html": "https://zenodo.org/record/805691", 
+    "self": "https://zenodo.org/api/records/805691"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alonso-Moraga, A."
+      }, 
+      {
+        "name": "Munoz-Serrano, A."
+      }, 
+      {
+        "name": "and Rodero, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805691", 
+    "journal": {
+      "pages": "435-442", 
+      "title": "Genet. Sel. Evol.", 
+      "volume": "17"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1985-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805690", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805691"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805690"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Variation of allozyme frequencies in Spanish field and cellar populations of D. melanogaster."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:42:43.057182+00:00"
+}

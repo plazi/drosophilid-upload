@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805510", 
+  "conceptrecid": "805510", 
+  "created": "2017-06-10T11:54:00.078820+00:00", 
+  "doi": "10.5281/zenodo.805511", 
+  "id": 805511, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805511.svg", 
+    "bucket": "https://zenodo.org/api/files/fa38088b-6081-443c-8c02-bef108bd40be", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805510.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805510", 
+    "doi": "https://doi.org/10.5281/zenodo.805511", 
+    "html": "https://zenodo.org/record/805511", 
+    "latest": "https://zenodo.org/api/records/805511", 
+    "latest_html": "https://zenodo.org/record/805511", 
+    "self": "https://zenodo.org/api/records/805511"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alahiotis, S."
+      }, 
+      {
+        "name": "Berger, E."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805511", 
+    "journal": {
+      "pages": "199-202", 
+      "title": "Comp. Biochem. Physiol.", 
+      "volume": "61"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1978-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805510", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805511"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805510"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Adaptation of Drosophila enzymes to temperature - I. Acetylcholinesterase and NADP-dependent isocitrate-dehydrogenase."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:09:17.830884+00:00"
+}

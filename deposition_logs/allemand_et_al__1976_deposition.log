@@ -1,0 +1,183 @@
+{
+  "conceptrecid": "805640", 
+  "created": "2017-06-10T16:10:01.485829+00:00", 
+  "files": [], 
+  "id": 805641, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/118b70df-207e-4e9b-88d4-df6e9ee6dce9", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805641/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805641/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805641/files", 
+    "html": "https://zenodo.org/deposit/805641", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805641", 
+    "latest_draft_html": "https://zenodo.org/deposit/805641", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805641/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805641"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allemand, R."
+      }, 
+      {
+        "name": "Cohet, Y."
+      }, 
+      {
+        "name": "Savolainen, O."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "76-85", 
+    "journal_title": "Acta ent. bohemoslovaca", 
+    "journal_volume": "73", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805641", 
+      "recid": 805641
+    }, 
+    "publication_date": "1976-05-20", 
+    "publication_type": "article", 
+    "title": "Effects of different light regimens on the egg production and egg hatchability of Drosophila melanogaster adults.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:10:01.485836+00:00", 
+  "owner": 1161, 
+  "record_id": 805641, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Effects of different light regimens on the egg production and egg hatchability of Drosophila melanogaster adults."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:10:05 GMT
+Content-Type: application/json
+Content-Length: 375
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497114415
+Retry-After: 3409
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "d6d884938d39edc924a0fb910aa3b338", "filename": "allemand_et_al__1976.pdf", "filesize": 256730, "id": "a3f9d078-2a5b-45a1-a271-62dccf2934de", "links": {"download": "https://zenodo.org/api/files/118b70df-207e-4e9b-88d4-df6e9ee6dce9/allemand_et_al__1976.pdf", "self": "https://zenodo.org/api/deposit/depositions/805641/files/a3f9d078-2a5b-45a1-a271-62dccf2934de"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:10:06 GMT
+Content-Type: application/json
+Content-Length: 2683
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:10:06 GMT
+Location: https://zenodo.org/api/deposit/depositions/805641
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497114547
+Retry-After: 3540
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805640", 
+  "conceptrecid": "805640", 
+  "created": "2017-06-10T16:10:01.485829+00:00", 
+  "doi": "10.5281/zenodo.805641", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805641", 
+  "files": [
+    {
+      "checksum": "d6d884938d39edc924a0fb910aa3b338", 
+      "filename": "allemand_et_al__1976.pdf", 
+      "filesize": 256730, 
+      "id": "a3f9d078-2a5b-45a1-a271-62dccf2934de", 
+      "links": {
+        "download": "https://zenodo.org/api/files/118b70df-207e-4e9b-88d4-df6e9ee6dce9/allemand_et_al__1976.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804695/files/a3f9d078-2a5b-45a1-a271-62dccf2934de"
+      }
+    }
+  ], 
+  "id": 805641, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805641.svg", 
+    "bucket": "https://zenodo.org/api/files/118b70df-207e-4e9b-88d4-df6e9ee6dce9", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805640.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805640", 
+    "doi": "https://doi.org/10.5281/zenodo.805641", 
+    "latest": "https://zenodo.org/api/records/805641", 
+    "latest_html": "https://zenodo.org/record/805641", 
+    "record": "https://zenodo.org/api/records/805641", 
+    "record_html": "https://zenodo.org/record/805641"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allemand, R."
+      }, 
+      {
+        "name": "Cohet, Y."
+      }, 
+      {
+        "name": "Savolainen, O."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805641", 
+    "journal_pages": "76-85", 
+    "journal_title": "Acta ent. bohemoslovaca", 
+    "journal_volume": "73", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805641", 
+      "recid": 805641
+    }, 
+    "publication_date": "1976-05-20", 
+    "publication_type": "article", 
+    "title": "Effects of different light regimens on the egg production and egg hatchability of Drosophila melanogaster adults.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:10:06.224794+00:00", 
+  "owner": 1161, 
+  "record_id": 805641, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Effects of different light regimens on the egg production and egg hatchability of Drosophila melanogaster adults."
+}

@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805572", 
+  "created": "2017-06-10T13:13:15.601101+00:00", 
+  "files": [], 
+  "id": 805573, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/02b9e56d-a33f-4760-aff2-7ac60c5e067d", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805573/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805573/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805573/files", 
+    "html": "https://zenodo.org/deposit/805573", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805573", 
+    "latest_draft_html": "https://zenodo.org/deposit/805573", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805573/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805573"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Albornoz, J."
+      }, 
+      {
+        "name": "Dominguez, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "257-262", 
+    "journal_title": "Behav. Genet.", 
+    "journal_volume": "17", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805573", 
+      "recid": 805573
+    }, 
+    "publication_date": "1987-05-31", 
+    "publication_type": "article", 
+    "title": "Genetic Analysis of Drosophila melanogaster Egg Insertion Behavior.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T13:13:15.601107+00:00", 
+  "owner": 1161, 
+  "record_id": 805573, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Genetic Analysis of Drosophila melanogaster Egg Insertion Behavior."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 13:13:18 GMT
+Content-Type: application/json
+Content-Length: 383
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497103996
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "5ff3fbd12505d3f93f5179cd2cf51cda", "filename": "albornoz__dominguez_1987.pdf", "filesize": 144571, "id": "e67fd2ca-e93d-4bce-be95-15e412f30710", "links": {"download": "https://zenodo.org/api/files/02b9e56d-a33f-4760-aff2-7ac60c5e067d/albornoz__dominguez_1987.pdf", "self": "https://zenodo.org/api/deposit/depositions/805573/files/e67fd2ca-e93d-4bce-be95-15e412f30710"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 13:13:19 GMT
+Content-Type: application/json
+Content-Length: 2544
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 13:13:19 GMT
+Location: https://zenodo.org/api/deposit/depositions/805573
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497103910
+Retry-After: 3510
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805572", 
+  "conceptrecid": "805572", 
+  "created": "2017-06-10T13:13:15.601101+00:00", 
+  "doi": "10.5281/zenodo.805573", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805573", 
+  "files": [
+    {
+      "checksum": "5ff3fbd12505d3f93f5179cd2cf51cda", 
+      "filename": "albornoz__dominguez_1987.pdf", 
+      "filesize": 144571, 
+      "id": "e67fd2ca-e93d-4bce-be95-15e412f30710", 
+      "links": {
+        "download": "https://zenodo.org/api/files/02b9e56d-a33f-4760-aff2-7ac60c5e067d/albornoz__dominguez_1987.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804695/files/e67fd2ca-e93d-4bce-be95-15e412f30710"
+      }
+    }
+  ], 
+  "id": 805573, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805573.svg", 
+    "bucket": "https://zenodo.org/api/files/02b9e56d-a33f-4760-aff2-7ac60c5e067d", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805572.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805572", 
+    "doi": "https://doi.org/10.5281/zenodo.805573", 
+    "latest": "https://zenodo.org/api/records/805573", 
+    "latest_html": "https://zenodo.org/record/805573", 
+    "record": "https://zenodo.org/api/records/805573", 
+    "record_html": "https://zenodo.org/record/805573"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Albornoz, J."
+      }, 
+      {
+        "name": "Dominguez, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805573", 
+    "journal_pages": "257-262", 
+    "journal_title": "Behav. Genet.", 
+    "journal_volume": "17", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805573", 
+      "recid": 805573
+    }, 
+    "publication_date": "1987-05-31", 
+    "publication_type": "article", 
+    "title": "Genetic Analysis of Drosophila melanogaster Egg Insertion Behavior.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T13:13:19.178550+00:00", 
+  "owner": 1161, 
+  "record_id": 805573, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Genetic Analysis of Drosophila melanogaster Egg Insertion Behavior."
+}

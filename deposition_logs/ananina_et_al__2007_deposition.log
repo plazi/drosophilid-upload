@@ -1,0 +1,193 @@
+{
+  "conceptrecid": "805813", 
+  "created": "2017-06-10T20:11:11.916136+00:00", 
+  "files": [], 
+  "id": 805814, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/9aff9daf-e453-44e4-9f2e-292f45417602", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805814/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805814/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805814/files", 
+    "html": "https://zenodo.org/deposit/805814", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805814", 
+    "latest_draft_html": "https://zenodo.org/deposit/805814", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805814/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805814"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ananina, G."
+      }, 
+      {
+        "name": "Rohde, C."
+      }, 
+      {
+        "name": "David, J.R."
+      }, 
+      {
+        "name": "Valente, V.L.S."
+      }, 
+      {
+        "name": "Klaczko, L.B."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "117-125", 
+    "journal_title": "Genetica", 
+    "journal_volume": "131", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805814", 
+      "recid": 805814
+    }, 
+    "publication_date": "2007-12-31", 
+    "publication_type": "article", 
+    "title": "Inversion polymorphism and a new polytene chromosome map of Zaprionus indianus Gupta (1970) (Diptera: Drosophilidae).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:11:11.916142+00:00", 
+  "owner": 1161, 
+  "record_id": 805814, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Inversion polymorphism and a new polytene chromosome map of Zaprionus indianus Gupta (1970) (Diptera: Drosophilidae)."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:11:15 GMT
+Content-Type: application/json
+Content-Length: 373
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497128857
+Retry-After: 3381
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "95761aaf1eea464eb3b837fc82311def", "filename": "ananina_et_al__2007.pdf", "filesize": 382210, "id": "fb869d0e-3828-49cf-a901-44a1e67ffb35", "links": {"download": "https://zenodo.org/api/files/9aff9daf-e453-44e4-9f2e-292f45417602/ananina_et_al__2007.pdf", "self": "https://zenodo.org/api/deposit/depositions/805814/files/fb869d0e-3828-49cf-a901-44a1e67ffb35"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:11:17 GMT
+Content-Type: application/json
+Content-Length: 2748
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 20:11:16 GMT
+Location: https://zenodo.org/api/deposit/depositions/805814
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497129032
+Retry-After: 3554
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805813", 
+  "conceptrecid": "805813", 
+  "created": "2017-06-10T20:11:11.916136+00:00", 
+  "doi": "10.5281/zenodo.805814", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805814", 
+  "files": [
+    {
+      "checksum": "95761aaf1eea464eb3b837fc82311def", 
+      "filename": "ananina_et_al__2007.pdf", 
+      "filesize": 382210, 
+      "id": "fb869d0e-3828-49cf-a901-44a1e67ffb35", 
+      "links": {
+        "download": "https://zenodo.org/api/files/9aff9daf-e453-44e4-9f2e-292f45417602/ananina_et_al__2007.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804727/files/fb869d0e-3828-49cf-a901-44a1e67ffb35"
+      }
+    }
+  ], 
+  "id": 805814, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805814.svg", 
+    "bucket": "https://zenodo.org/api/files/9aff9daf-e453-44e4-9f2e-292f45417602", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805813.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805813", 
+    "doi": "https://doi.org/10.5281/zenodo.805814", 
+    "latest": "https://zenodo.org/api/records/805814", 
+    "latest_html": "https://zenodo.org/record/805814", 
+    "record": "https://zenodo.org/api/records/805814", 
+    "record_html": "https://zenodo.org/record/805814"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ananina, G."
+      }, 
+      {
+        "name": "Rohde, C."
+      }, 
+      {
+        "name": "David, J.R."
+      }, 
+      {
+        "name": "Valente, V.L.S."
+      }, 
+      {
+        "name": "Klaczko, L.B."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805814", 
+    "journal_pages": "117-125", 
+    "journal_title": "Genetica", 
+    "journal_volume": "131", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805814", 
+      "recid": 805814
+    }, 
+    "publication_date": "2007-12-31", 
+    "publication_type": "article", 
+    "title": "Inversion polymorphism and a new polytene chromosome map of Zaprionus indianus Gupta (1970) (Diptera: Drosophilidae).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:11:16.829329+00:00", 
+  "owner": 1161, 
+  "record_id": 805814, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Inversion polymorphism and a new polytene chromosome map of Zaprionus indianus Gupta (1970) (Diptera: Drosophilidae)."
+}

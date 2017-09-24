@@ -1,0 +1,183 @@
+{
+  "conceptrecid": "805544", 
+  "created": "2017-06-10T11:55:12.410981+00:00", 
+  "files": [], 
+  "id": 805545, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/4e84d04f-752a-459f-8463-80483a2545b5", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805545/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805545/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805545/files", 
+    "html": "https://zenodo.org/deposit/805545", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805545", 
+    "latest_draft_html": "https://zenodo.org/deposit/805545", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805545/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805545"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alahiotis, S."
+      }, 
+      {
+        "name": "Zacharopoulou, A."
+      }, 
+      {
+        "name": "Pelecanos, M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "106-108", 
+    "journal_title": "D. I. S.", 
+    "journal_volume": "52", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805545", 
+      "recid": 805545
+    }, 
+    "publication_date": "1977-05-31", 
+    "publication_type": "article", 
+    "title": "The effect of two ecological factors upon the inversion frequencies in D. melanogaster cage population.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T11:55:12.410988+00:00", 
+  "owner": 1161, 
+  "record_id": 805545, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "The effect of two ecological factors upon the inversion frequencies in D. melanogaster cage population."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 11:55:14 GMT
+Content-Type: application/json
+Content-Length: 378
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497099174
+Retry-After: 3459
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "aed7b39d6f544df5b7f5419941759cb1", "filename": "alahiotis_et_al__1977a.pdf", "filesize": 88147, "id": "a71b277b-6556-403d-acb5-4d740910f462", "links": {"download": "https://zenodo.org/api/files/4e84d04f-752a-459f-8463-80483a2545b5/alahiotis_et_al__1977a.pdf", "self": "https://zenodo.org/api/deposit/depositions/805545/files/a71b277b-6556-403d-acb5-4d740910f462"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 11:55:15 GMT
+Content-Type: application/json
+Content-Length: 2661
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 11:55:15 GMT
+Location: https://zenodo.org/api/deposit/depositions/805545
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497099315
+Retry-After: 3599
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805544", 
+  "conceptrecid": "805544", 
+  "created": "2017-06-10T11:55:12.410981+00:00", 
+  "doi": "10.5281/zenodo.805545", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805545", 
+  "files": [
+    {
+      "checksum": "aed7b39d6f544df5b7f5419941759cb1", 
+      "filename": "alahiotis_et_al__1977a.pdf", 
+      "filesize": 88147, 
+      "id": "a71b277b-6556-403d-acb5-4d740910f462", 
+      "links": {
+        "download": "https://zenodo.org/api/files/4e84d04f-752a-459f-8463-80483a2545b5/alahiotis_et_al__1977a.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804705/files/a71b277b-6556-403d-acb5-4d740910f462"
+      }
+    }
+  ], 
+  "id": 805545, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805545.svg", 
+    "bucket": "https://zenodo.org/api/files/4e84d04f-752a-459f-8463-80483a2545b5", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805544.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805544", 
+    "doi": "https://doi.org/10.5281/zenodo.805545", 
+    "latest": "https://zenodo.org/api/records/805545", 
+    "latest_html": "https://zenodo.org/record/805545", 
+    "record": "https://zenodo.org/api/records/805545", 
+    "record_html": "https://zenodo.org/record/805545"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alahiotis, S."
+      }, 
+      {
+        "name": "Zacharopoulou, A."
+      }, 
+      {
+        "name": "Pelecanos, M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805545", 
+    "journal_pages": "106-108", 
+    "journal_title": "D. I. S.", 
+    "journal_volume": "52", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805545", 
+      "recid": 805545
+    }, 
+    "publication_date": "1977-05-31", 
+    "publication_type": "article", 
+    "title": "The effect of two ecological factors upon the inversion frequencies in D. melanogaster cage population.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T11:55:15.644867+00:00", 
+  "owner": 1161, 
+  "record_id": 805545, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "The effect of two ecological factors upon the inversion frequencies in D. melanogaster cage population."
+}

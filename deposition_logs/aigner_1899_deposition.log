@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805496", 
+  "created": "2017-06-10T11:53:06.818391+00:00", 
+  "files": [], 
+  "id": 805497, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/a1e63c25-e20d-4fbb-8c4c-5e54f4febc24", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805497/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805497/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805497/files", 
+    "html": "https://zenodo.org/deposit/805497", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805497", 
+    "latest_draft_html": "https://zenodo.org/deposit/805497", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805497/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805497"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "von Aigner-Abafi, L."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "303", 
+    "journal_title": "Ill. Z. Ent.", 
+    "journal_volume": "4", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805497", 
+      "recid": 805497
+    }, 
+    "publication_date": "1899-12-31", 
+    "publication_type": "article", 
+    "title": "(Review).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T11:53:06.818398+00:00", 
+  "owner": 1161, 
+  "record_id": 805497, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "(Review)."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 11:53:08 GMT
+Content-Type: application/json
+Content-Length: 356
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497099187
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "515d19c6d1b232476ba9c607e797f452", "filename": "aigner_1899.pdf", "filesize": 23973, "id": "7e069b70-8f95-440d-9cee-6de2b5176b39", "links": {"download": "https://zenodo.org/api/files/a1e63c25-e20d-4fbb-8c4c-5e54f4febc24/aigner_1899.pdf", "self": "https://zenodo.org/api/deposit/depositions/805497/files/7e069b70-8f95-440d-9cee-6de2b5176b39"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 11:53:10 GMT
+Content-Type: application/json
+Content-Length: 2353
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 11:53:09 GMT
+Location: https://zenodo.org/api/deposit/depositions/805497
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497099189
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805496", 
+  "conceptrecid": "805496", 
+  "created": "2017-06-10T11:53:06.818391+00:00", 
+  "doi": "10.5281/zenodo.805497", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805497", 
+  "files": [
+    {
+      "checksum": "515d19c6d1b232476ba9c607e797f452", 
+      "filename": "aigner_1899.pdf", 
+      "filesize": 23973, 
+      "id": "7e069b70-8f95-440d-9cee-6de2b5176b39", 
+      "links": {
+        "download": "https://zenodo.org/api/files/a1e63c25-e20d-4fbb-8c4c-5e54f4febc24/aigner_1899.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804769/files/7e069b70-8f95-440d-9cee-6de2b5176b39"
+      }
+    }
+  ], 
+  "id": 805497, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805497.svg", 
+    "bucket": "https://zenodo.org/api/files/a1e63c25-e20d-4fbb-8c4c-5e54f4febc24", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805496.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805496", 
+    "doi": "https://doi.org/10.5281/zenodo.805497", 
+    "latest": "https://zenodo.org/api/records/805497", 
+    "latest_html": "https://zenodo.org/record/805497", 
+    "record": "https://zenodo.org/api/records/805497", 
+    "record_html": "https://zenodo.org/record/805497"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "von Aigner-Abafi, L."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805497", 
+    "journal_pages": "303", 
+    "journal_title": "Ill. Z. Ent.", 
+    "journal_volume": "4", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805497", 
+      "recid": 805497
+    }, 
+    "publication_date": "1899-12-31", 
+    "publication_type": "article", 
+    "title": "(Review).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T11:53:09.947608+00:00", 
+  "owner": 1161, 
+  "record_id": 805497, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "(Review)."
+}

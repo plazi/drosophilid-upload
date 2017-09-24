@@ -1,0 +1,99 @@
+{
+  "conceptdoi": "10.5281/zenodo.805600", 
+  "conceptrecid": "805600", 
+  "created": "2017-06-10T16:06:26.540705+00:00", 
+  "doi": "10.5281/zenodo.805601", 
+  "id": 805601, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805601.svg", 
+    "bucket": "https://zenodo.org/api/files/e926fdd6-7a3f-4017-b210-38bdbe062f95", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805600.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805600", 
+    "doi": "https://doi.org/10.5281/zenodo.805601", 
+    "html": "https://zenodo.org/record/805601", 
+    "latest": "https://zenodo.org/api/records/805601", 
+    "latest_html": "https://zenodo.org/record/805601", 
+    "self": "https://zenodo.org/api/records/805601"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alemdar, N."
+      }, 
+      {
+        "name": "McIntyre, R."
+      }, 
+      {
+        "name": "Chang, H.-C."
+      }, 
+      {
+        "name": "Miller, D.D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805601", 
+    "journal": {
+      "pages": "1-8", 
+      "title": "Trans. Neb. Acad. Sci.", 
+      "volume": "8"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1980-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805600", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805601"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805600"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "The influence of winglessness on mating frequency in species of the Drosophila affinis subgroup."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:37:21.660740+00:00"
+}

@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805576", 
+  "created": "2017-06-10T13:13:30.082577+00:00", 
+  "files": [], 
+  "id": 805577, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/9b2a84a1-88ca-4ef1-878c-09133bc107de", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805577/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805577/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805577/files", 
+    "html": "https://zenodo.org/deposit/805577", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805577", 
+    "latest_draft_html": "https://zenodo.org/deposit/805577", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805577/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805577"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alcorta, E."
+      }, 
+      {
+        "name": "Rubio, J."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "7-14", 
+    "journal_title": "Heredity", 
+    "journal_volume": "60", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805577", 
+      "recid": 805577
+    }, 
+    "publication_date": "1988-12-31", 
+    "publication_type": "article", 
+    "title": "Genetical analysis of intrapopulational variation in olfactory response in Drosophila melanogaster.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T13:13:30.082583+00:00", 
+  "owner": 1161, 
+  "record_id": 805577, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Genetical analysis of intrapopulational variation in olfactory response in Drosophila melanogaster."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 13:13:32 GMT
+Content-Type: application/json
+Content-Length: 373
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497104010
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "00865664ff17d110b73bbb9ef9817760", "filename": "alcorta__rubio_1988.pdf", "filesize": 163008, "id": "924a32b6-e6ae-43ee-8e04-b5a0ea7ec214", "links": {"download": "https://zenodo.org/api/files/9b2a84a1-88ca-4ef1-878c-09133bc107de/alcorta__rubio_1988.pdf", "self": "https://zenodo.org/api/deposit/depositions/805577/files/924a32b6-e6ae-43ee-8e04-b5a0ea7ec214"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 13:13:34 GMT
+Content-Type: application/json
+Content-Length: 2585
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 13:13:33 GMT
+Location: https://zenodo.org/api/deposit/depositions/805577
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497104013
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805576", 
+  "conceptrecid": "805576", 
+  "created": "2017-06-10T13:13:30.082577+00:00", 
+  "doi": "10.5281/zenodo.805577", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805577", 
+  "files": [
+    {
+      "checksum": "00865664ff17d110b73bbb9ef9817760", 
+      "filename": "alcorta__rubio_1988.pdf", 
+      "filesize": 163008, 
+      "id": "924a32b6-e6ae-43ee-8e04-b5a0ea7ec214", 
+      "links": {
+        "download": "https://zenodo.org/api/files/9b2a84a1-88ca-4ef1-878c-09133bc107de/alcorta__rubio_1988.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804848/files/924a32b6-e6ae-43ee-8e04-b5a0ea7ec214"
+      }
+    }
+  ], 
+  "id": 805577, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805577.svg", 
+    "bucket": "https://zenodo.org/api/files/9b2a84a1-88ca-4ef1-878c-09133bc107de", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805576.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805576", 
+    "doi": "https://doi.org/10.5281/zenodo.805577", 
+    "latest": "https://zenodo.org/api/records/805577", 
+    "latest_html": "https://zenodo.org/record/805577", 
+    "record": "https://zenodo.org/api/records/805577", 
+    "record_html": "https://zenodo.org/record/805577"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alcorta, E."
+      }, 
+      {
+        "name": "Rubio, J."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805577", 
+    "journal_pages": "7-14", 
+    "journal_title": "Heredity", 
+    "journal_volume": "60", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805577", 
+      "recid": 805577
+    }, 
+    "publication_date": "1988-12-31", 
+    "publication_type": "article", 
+    "title": "Genetical analysis of intrapopulational variation in olfactory response in Drosophila melanogaster.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T13:13:33.778703+00:00", 
+  "owner": 1161, 
+  "record_id": 805577, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Genetical analysis of intrapopulational variation in olfactory response in Drosophila melanogaster."
+}

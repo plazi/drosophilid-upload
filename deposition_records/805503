@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805502", 
+  "conceptrecid": "805502", 
+  "created": "2017-06-10T11:53:28.792380+00:00", 
+  "doi": "10.5281/zenodo.805503", 
+  "id": 805503, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805503.svg", 
+    "bucket": "https://zenodo.org/api/files/9827e269-0766-4438-81d3-0bb046df828a", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805502.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805502", 
+    "doi": "https://doi.org/10.5281/zenodo.805503", 
+    "html": "https://zenodo.org/record/805503", 
+    "latest": "https://zenodo.org/api/records/805503", 
+    "latest_html": "https://zenodo.org/record/805503", 
+    "self": "https://zenodo.org/api/records/805503"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Akopyan, K.Z."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805503", 
+    "journal": {
+      "pages": "810-815", 
+      "title": "Biol. Zh. Armenii", 
+      "volume": "38"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1985-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805502", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805503"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805502"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Comparison of the DNA-topoisomerase 1 of embryos of the wild type Dr. simulans and mutant line. (in Russian, with English summary)."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:28:14.369755+00:00"
+}

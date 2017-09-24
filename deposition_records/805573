@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805572", 
+  "conceptrecid": "805572", 
+  "created": "2017-06-10T13:13:18.912707+00:00", 
+  "doi": "10.5281/zenodo.805573", 
+  "id": 805573, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805573.svg", 
+    "bucket": "https://zenodo.org/api/files/0c7781a2-42de-45d4-abce-15a541eb9c06", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805572.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805572", 
+    "doi": "https://doi.org/10.5281/zenodo.805573", 
+    "html": "https://zenodo.org/record/805573", 
+    "latest": "https://zenodo.org/api/records/805573", 
+    "latest_html": "https://zenodo.org/record/805573", 
+    "self": "https://zenodo.org/api/records/805573"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Albornoz, J."
+      }, 
+      {
+        "name": "Dominguez, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805573", 
+    "journal": {
+      "pages": "257-262", 
+      "title": "Behav. Genet.", 
+      "volume": "17"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1987-05-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805572", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805573"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805572"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Genetic Analysis of Drosophila melanogaster Egg Insertion Behavior."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:00:13.999023+00:00"
+}

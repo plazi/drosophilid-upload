@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805516", 
+  "conceptrecid": "805516", 
+  "created": "2017-06-10T11:54:21.988285+00:00", 
+  "doi": "10.5281/zenodo.805517", 
+  "id": 805517, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805517.svg", 
+    "bucket": "https://zenodo.org/api/files/ce98496a-3564-4231-8ead-1e8988542be4", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805516.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805516", 
+    "doi": "https://doi.org/10.5281/zenodo.805517", 
+    "html": "https://zenodo.org/record/805517", 
+    "latest": "https://zenodo.org/api/records/805517", 
+    "latest_html": "https://zenodo.org/record/805517", 
+    "self": "https://zenodo.org/api/records/805517"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alahiotis, S."
+      }, 
+      {
+        "name": "Pelecanos, M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805517", 
+    "journal": {
+      "pages": "209-217", 
+      "title": "Acta biol. jugosl., Genetika", 
+      "volume": "12"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1980-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805516", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805517"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805516"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "The effect of the environmental parameters temperature and humidity upon the variability of the gene pool in Drosophila melanogaster."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:38:36.781234+00:00"
+}

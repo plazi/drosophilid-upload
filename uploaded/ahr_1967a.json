@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "title": "Mitteldeutsche Blattminenkunde, 1. Teil.",
+    "upload_type": "publication",
+    "description": "uploaded by Plazi from Taxodros",
+    "access_right": "open",
+    "journal_pages": "21-32",
+    "journal_title": "Ent. Ber., Berlin",
+    "journal_volume": "1966",
+    "publication_type": "article",
+    "publication_date": "1967-02-01",
+    "keywords": [
+      "Biodiversity",
+      "Taxonomy",
+      "Animalia",
+      "Arthropoda",
+      "Insecta",
+      "Diptera",
+      "Drosophilidae",
+      "flies",
+      "fruit flies",
+      "terrestrial"
+    ],
+    "license": "cc-by",
+    "creators": [
+      {
+        "name": "Ahr, H."
+      }
+    ],
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ]
+  }
+}

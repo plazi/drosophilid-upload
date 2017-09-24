@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805743", 
+  "conceptrecid": "805743", 
+  "created": "2017-06-10T20:07:29.772844+00:00", 
+  "doi": "10.5281/zenodo.805744", 
+  "id": 805744, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805744.svg", 
+    "bucket": "https://zenodo.org/api/files/0a42633e-dd8e-4375-8bc8-91764a2efa17", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805743.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805743", 
+    "doi": "https://doi.org/10.5281/zenodo.805744", 
+    "html": "https://zenodo.org/record/805744", 
+    "latest": "https://zenodo.org/api/records/805744", 
+    "latest_html": "https://zenodo.org/record/805744", 
+    "self": "https://zenodo.org/api/records/805744"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "van Alphen, J.J.M."
+      }, 
+      {
+        "name": "Nell, H.W."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805744", 
+    "journal": {
+      "pages": "232-260", 
+      "title": "Neth. J. Zool.", 
+      "volume": "32"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1982-08-18", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805743", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805744"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805743"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Superparasitism and host discrimination by Asobara tabida nees (Braconidae: Alysiinae), a larval parasitoid of Drosophilidae."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:38:11.416491+00:00"
+}

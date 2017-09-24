@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805108", 
+  "created": "2017-06-09T21:56:28.084216+00:00", 
+  "files": [], 
+  "id": 805109, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/1bf836e5-31a4-48d4-bea0-e1cda2945dc9", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805109/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805109/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805109/files", 
+    "html": "https://zenodo.org/deposit/805109", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805109", 
+    "latest_draft_html": "https://zenodo.org/deposit/805109", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805109/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805109"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Agnew, J.D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "85-95", 
+    "journal_title": "J. S. Afr. Bot.", 
+    "journal_volume": "42", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805109", 
+      "recid": 805109
+    }, 
+    "publication_date": "1976-12-31", 
+    "publication_type": "article", 
+    "title": "A case of myophily involving Drosophilidae (Diptera).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:56:28.084223+00:00", 
+  "owner": 1161, 
+  "record_id": 805109, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "A case of myophily involving Drosophilidae (Diptera)."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:56:32 GMT
+Content-Type: application/json
+Content-Length: 355
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497048934
+Retry-After: 3541
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "477473aca81c7f7dd94bfb298a5c116b", "filename": "agnew_1976.pdf", "filesize": 327349, "id": "1807eb83-cab8-431f-b200-b45eb6567ac9", "links": {"download": "https://zenodo.org/api/files/1bf836e5-31a4-48d4-bea0-e1cda2945dc9/agnew_1976.pdf", "self": "https://zenodo.org/api/deposit/depositions/805109/files/1807eb83-cab8-431f-b200-b45eb6567ac9"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:56:33 GMT
+Content-Type: application/json
+Content-Length: 2437
+ETag: "2"
+Last-Modified: Fri, 09 Jun 2017 21:56:33 GMT
+Location: https://zenodo.org/api/deposit/depositions/805109
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497048993
+Retry-After: 3599
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805108", 
+  "conceptrecid": "805108", 
+  "created": "2017-06-09T21:56:28.084216+00:00", 
+  "doi": "10.5281/zenodo.805109", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805109", 
+  "files": [
+    {
+      "checksum": "477473aca81c7f7dd94bfb298a5c116b", 
+      "filename": "agnew_1976.pdf", 
+      "filesize": 327349, 
+      "id": "1807eb83-cab8-431f-b200-b45eb6567ac9", 
+      "links": {
+        "download": "https://zenodo.org/api/files/1bf836e5-31a4-48d4-bea0-e1cda2945dc9/agnew_1976.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/322378/files/1807eb83-cab8-431f-b200-b45eb6567ac9"
+      }
+    }
+  ], 
+  "id": 805109, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805109.svg", 
+    "bucket": "https://zenodo.org/api/files/1bf836e5-31a4-48d4-bea0-e1cda2945dc9", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805108.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805108", 
+    "doi": "https://doi.org/10.5281/zenodo.805109", 
+    "latest": "https://zenodo.org/api/records/805109", 
+    "latest_html": "https://zenodo.org/record/805109", 
+    "record": "https://zenodo.org/api/records/805109", 
+    "record_html": "https://zenodo.org/record/805109"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Agnew, J.D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805109", 
+    "journal_pages": "85-95", 
+    "journal_title": "J. S. Afr. Bot.", 
+    "journal_volume": "42", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805109", 
+      "recid": 805109
+    }, 
+    "publication_date": "1976-12-31", 
+    "publication_type": "article", 
+    "title": "A case of myophily involving Drosophilidae (Diptera).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:56:33.458289+00:00", 
+  "owner": 1161, 
+  "record_id": 805109, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "A case of myophily involving Drosophilidae (Diptera)."
+}

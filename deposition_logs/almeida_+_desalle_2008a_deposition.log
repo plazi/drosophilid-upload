@@ -1,0 +1,175 @@
+{
+  "conceptrecid": "805672", 
+  "created": "2017-06-10T16:20:33.495314+00:00", 
+  "files": [], 
+  "id": 805673, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/5042d756-27e2-41a5-932f-0298620255ae", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805673/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805673/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805673/files", 
+    "html": "https://zenodo.org/deposit/805673", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805673", 
+    "latest_draft_html": "https://zenodo.org/deposit/805673", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805673/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805673"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Almeida, F.C."
+      }, 
+      {
+        "name": "DeSalle, R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "2043-2053", 
+    "journal_title": "Molec. Biol. Evol.", 
+    "journal_volume": "25", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805673", 
+      "recid": 805673
+    }, 
+    "publication_date": "2008-12-31", 
+    "publication_type": "article", 
+    "title": "Evidence in Adaptive Evolution of Accessory Gland Proteins in Closely Related Species of the Drosophila repleta Group.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:20:33.495323+00:00", 
+  "owner": 1161, 
+  "record_id": 805673, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Evidence in Adaptive Evolution of Accessory Gland Proteins in Closely Related Species of the Drosophila repleta Group."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:20:36 GMT
+Content-Type: application/json
+Content-Length: 379
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4994
+X-RateLimit-Reset: 1497114530
+Retry-After: 2893
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "0eb294cc3eadea4acb1474e9d275888a", "filename": "almeida__desalle_2008a.pdf", "filesize": 130295, "id": "cf461a7c-7e86-4969-a71d-f5c6d3ab4dad", "links": {"download": "https://zenodo.org/api/files/5042d756-27e2-41a5-932f-0298620255ae/almeida__desalle_2008a.pdf", "self": "https://zenodo.org/api/deposit/depositions/805673/files/cf461a7c-7e86-4969-a71d-f5c6d3ab4dad"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:20:38 GMT
+Content-Type: application/json
+Content-Length: 2621
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:20:38 GMT
+Location: https://zenodo.org/api/deposit/depositions/805673
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497115210
+Retry-After: 3571
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805672", 
+  "conceptrecid": "805672", 
+  "created": "2017-06-10T16:20:33.495314+00:00", 
+  "doi": "10.5281/zenodo.805673", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805673", 
+  "files": [
+    {
+      "checksum": "0eb294cc3eadea4acb1474e9d275888a", 
+      "filename": "almeida__desalle_2008a.pdf", 
+      "filesize": 130295, 
+      "id": "cf461a7c-7e86-4969-a71d-f5c6d3ab4dad", 
+      "links": {
+        "download": "https://zenodo.org/api/files/5042d756-27e2-41a5-932f-0298620255ae/almeida__desalle_2008a.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804699/files/cf461a7c-7e86-4969-a71d-f5c6d3ab4dad"
+      }
+    }
+  ], 
+  "id": 805673, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805673.svg", 
+    "bucket": "https://zenodo.org/api/files/5042d756-27e2-41a5-932f-0298620255ae", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805672.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805672", 
+    "doi": "https://doi.org/10.5281/zenodo.805673", 
+    "latest": "https://zenodo.org/api/records/805673", 
+    "latest_html": "https://zenodo.org/record/805673", 
+    "record": "https://zenodo.org/api/records/805673", 
+    "record_html": "https://zenodo.org/record/805673"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Almeida, F.C."
+      }, 
+      {
+        "name": "DeSalle, R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805673", 
+    "journal_pages": "2043-2053", 
+    "journal_title": "Molec. Biol. Evol.", 
+    "journal_volume": "25", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805673", 
+      "recid": 805673
+    }, 
+    "publication_date": "2008-12-31", 
+    "publication_type": "article", 
+    "title": "Evidence in Adaptive Evolution of Accessory Gland Proteins in Closely Related Species of the Drosophila repleta Group.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:20:38.635092+00:00", 
+  "owner": 1161, 
+  "record_id": 805673, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Evidence in Adaptive Evolution of Accessory Gland Proteins in Closely Related Species of the Drosophila repleta Group."
+}

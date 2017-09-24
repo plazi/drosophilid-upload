@@ -1,0 +1,99 @@
+{
+  "conceptdoi": "10.5281/zenodo.805692", 
+  "conceptrecid": "805692", 
+  "created": "2017-06-10T16:21:49.002250+00:00", 
+  "doi": "10.5281/zenodo.805693", 
+  "id": 805693, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805693.svg", 
+    "bucket": "https://zenodo.org/api/files/cbe45936-195f-4c6d-beb9-431aae05271d", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805692.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805692", 
+    "doi": "https://doi.org/10.5281/zenodo.805693", 
+    "html": "https://zenodo.org/record/805693", 
+    "latest": "https://zenodo.org/api/records/805693", 
+    "latest_html": "https://zenodo.org/record/805693", 
+    "self": "https://zenodo.org/api/records/805693"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alonso-Moraga, A."
+      }, 
+      {
+        "name": "Munoz-Serrano, A."
+      }, 
+      {
+        "name": "Serradilla, J.M."
+      }, 
+      {
+        "name": "David, J.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805693", 
+    "journal": {
+      "pages": "307-314", 
+      "title": "Genet. Sel. Evol.", 
+      "volume": "20"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1988-09-30", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805692", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805693"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805692"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Microspatial differentiation of Drosophila melanogaster populations in and around a wine cellar in southern Spain."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:32:53.716753+00:00"
+}

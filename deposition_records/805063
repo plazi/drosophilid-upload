@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805062", 
+  "conceptrecid": "805062", 
+  "created": "2017-06-09T21:39:08.692165+00:00", 
+  "doi": "10.5281/zenodo.805063", 
+  "id": 805063, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805063.svg", 
+    "bucket": "https://zenodo.org/api/files/b415eb21-4a28-48e4-b4b5-013f0b91c697", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805062.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805062", 
+    "doi": "https://doi.org/10.5281/zenodo.805063", 
+    "html": "https://zenodo.org/record/805063", 
+    "latest": "https://zenodo.org/api/records/805063", 
+    "latest_html": "https://zenodo.org/record/805063", 
+    "self": "https://zenodo.org/api/records/805063"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ackland, D.M."
+      }, 
+      {
+        "name": "Taylor, E."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805063", 
+    "journal": {
+      "pages": "12-15", 
+      "title": "Ent. mon. Mag.", 
+      "volume": "108"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1972-09-27", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805062", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805063"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805062"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Notes on the Verrall-Collin collection of Diptera in the Hope Department of Entomology, University Museum, Oxford."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:38:36.737750+00:00"
+}

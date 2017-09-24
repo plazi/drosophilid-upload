@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805624", 
+  "created": "2017-06-10T16:09:09.866241+00:00", 
+  "files": [], 
+  "id": 805625, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/e90937cb-ad72-4a4d-995f-cc77dcb8a966", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805625/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805625/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805625/files", 
+    "html": "https://zenodo.org/deposit/805625", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805625", 
+    "latest_draft_html": "https://zenodo.org/deposit/805625", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805625/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805625"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alfken, J.D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "358-481", 
+    "journal_title": "Abh. naturw. Ver. Bremen", 
+    "journal_volume": "25", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805625", 
+      "recid": 805625
+    }, 
+    "publication_date": "1924-11-30", 
+    "publication_type": "article", 
+    "title": "Die Insekten des Memmert. Zum Problem der Besiedlung einer neuentstehenden Insel.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:09:09.866256+00:00", 
+  "owner": 1161, 
+  "record_id": 805625, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Die Insekten des Memmert. Zum Problem der Besiedlung einer neuentstehenden Insel."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:09:17 GMT
+Content-Type: application/json
+Content-Length: 357
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497114551
+Retry-After: 3593
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "99dff1c4748504c0817ac856429ad92c", "filename": "alfken_1924.pdf", "filesize": 372913, "id": "cacf2b4e-2bfa-4028-b3d8-906418271a98", "links": {"download": "https://zenodo.org/api/files/e90937cb-ad72-4a4d-995f-cc77dcb8a966/alfken_1924.pdf", "self": "https://zenodo.org/api/deposit/depositions/805625/files/cacf2b4e-2bfa-4028-b3d8-906418271a98"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:09:19 GMT
+Content-Type: application/json
+Content-Length: 2507
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:09:18 GMT
+Location: https://zenodo.org/api/deposit/depositions/805625
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497114558
+Retry-After: 3599
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805624", 
+  "conceptrecid": "805624", 
+  "created": "2017-06-10T16:09:09.866241+00:00", 
+  "doi": "10.5281/zenodo.805625", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805625", 
+  "files": [
+    {
+      "checksum": "99dff1c4748504c0817ac856429ad92c", 
+      "filename": "alfken_1924.pdf", 
+      "filesize": 372913, 
+      "id": "cacf2b4e-2bfa-4028-b3d8-906418271a98", 
+      "links": {
+        "download": "https://zenodo.org/api/files/e90937cb-ad72-4a4d-995f-cc77dcb8a966/alfken_1924.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/128482/files/cacf2b4e-2bfa-4028-b3d8-906418271a98"
+      }
+    }
+  ], 
+  "id": 805625, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805625.svg", 
+    "bucket": "https://zenodo.org/api/files/e90937cb-ad72-4a4d-995f-cc77dcb8a966", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805624.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805624", 
+    "doi": "https://doi.org/10.5281/zenodo.805625", 
+    "latest": "https://zenodo.org/api/records/805625", 
+    "latest_html": "https://zenodo.org/record/805625", 
+    "record": "https://zenodo.org/api/records/805625", 
+    "record_html": "https://zenodo.org/record/805625"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alfken, J.D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805625", 
+    "journal_pages": "358-481", 
+    "journal_title": "Abh. naturw. Ver. Bremen", 
+    "journal_volume": "25", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805625", 
+      "recid": 805625
+    }, 
+    "publication_date": "1924-11-30", 
+    "publication_type": "article", 
+    "title": "Die Insekten des Memmert. Zum Problem der Besiedlung einer neuentstehenden Insel.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:09:18.601980+00:00", 
+  "owner": 1161, 
+  "record_id": 805625, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Die Insekten des Memmert. Zum Problem der Besiedlung einer neuentstehenden Insel."
+}

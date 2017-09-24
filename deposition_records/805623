@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805622", 
+  "conceptrecid": "805622", 
+  "created": "2017-06-10T16:09:07.955831+00:00", 
+  "doi": "10.5281/zenodo.805623", 
+  "id": 805623, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805623.svg", 
+    "bucket": "https://zenodo.org/api/files/9361625b-75e9-4b10-9409-aaf5d83b2998", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805622.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805622", 
+    "doi": "https://doi.org/10.5281/zenodo.805623", 
+    "html": "https://zenodo.org/record/805623", 
+    "latest": "https://zenodo.org/api/records/805623", 
+    "latest_html": "https://zenodo.org/record/805623", 
+    "self": "https://zenodo.org/api/records/805623"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alfaro, R.I."
+      }, 
+      {
+        "name": "Hulme, M.A."
+      }, 
+      {
+        "name": "Harris, J.W.E."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805623", 
+    "journal": {
+      "pages": "415-418", 
+      "title": "Entomophaga", 
+      "volume": "30"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1985-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805622", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805623"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805622"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Insects associated with the Sitka spruce weevil, Pissodes strobi (Col.: Curculionidae) on Sitka spruce, Picea sitchensis in British Columbia, Canada."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:42:19.794183+00:00"
+}

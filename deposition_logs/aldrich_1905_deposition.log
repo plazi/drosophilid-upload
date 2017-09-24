@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805583", 
+  "created": "2017-06-10T13:13:54.929321+00:00", 
+  "files": [], 
+  "id": 805584, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/d4b0aaa4-42eb-4689-9362-2f498a11ee9c", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805584/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805584/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805584/files", 
+    "html": "https://zenodo.org/deposit/805584", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805584", 
+    "latest_draft_html": "https://zenodo.org/deposit/805584", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805584/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805584"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aldrich, J.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "1-680", 
+    "journal_title": "Smithson. misc. Collns", 
+    "journal_volume": "46", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805584", 
+      "recid": 805584
+    }, 
+    "publication_date": "1005-05-31", 
+    "publication_type": "article", 
+    "title": "A Catalogue of North American Diptera (or Two-winged Flies).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T13:13:54.929330+00:00", 
+  "owner": 1161, 
+  "record_id": 805584, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "A Catalogue of North American Diptera (or Two-winged Flies)."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 13:14:58 GMT
+Content-Type: application/json
+Content-Length: 361
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497104010
+Retry-After: 3511
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "b4e6c100c45d7d7f92111c10bffe4e84", "filename": "aldrich_1905.pdf", "filesize": 29129546, "id": "ca3f85a8-8f89-4214-8a2b-ef56c3e7ada6", "links": {"download": "https://zenodo.org/api/files/d4b0aaa4-42eb-4689-9362-2f498a11ee9c/aldrich_1905.pdf", "self": "https://zenodo.org/api/deposit/depositions/805584/files/ca3f85a8-8f89-4214-8a2b-ef56c3e7ada6"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 13:15:00 GMT
+Content-Type: application/json
+Content-Length: 2466
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 13:14:59 GMT
+Location: https://zenodo.org/api/deposit/depositions/805584
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497104099
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805583", 
+  "conceptrecid": "805583", 
+  "created": "2017-06-10T13:13:54.929321+00:00", 
+  "doi": "10.5281/zenodo.805584", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805584", 
+  "files": [
+    {
+      "checksum": "b4e6c100c45d7d7f92111c10bffe4e84", 
+      "filename": "aldrich_1905.pdf", 
+      "filesize": 29129546, 
+      "id": "ca3f85a8-8f89-4214-8a2b-ef56c3e7ada6", 
+      "links": {
+        "download": "https://zenodo.org/api/files/d4b0aaa4-42eb-4689-9362-2f498a11ee9c/aldrich_1905.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804848/files/ca3f85a8-8f89-4214-8a2b-ef56c3e7ada6"
+      }
+    }
+  ], 
+  "id": 805584, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805584.svg", 
+    "bucket": "https://zenodo.org/api/files/d4b0aaa4-42eb-4689-9362-2f498a11ee9c", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805583.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805583", 
+    "doi": "https://doi.org/10.5281/zenodo.805584", 
+    "latest": "https://zenodo.org/api/records/805584", 
+    "latest_html": "https://zenodo.org/record/805584", 
+    "record": "https://zenodo.org/api/records/805584", 
+    "record_html": "https://zenodo.org/record/805584"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aldrich, J.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805584", 
+    "journal_pages": "1-680", 
+    "journal_title": "Smithson. misc. Collns", 
+    "journal_volume": "46", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805584", 
+      "recid": 805584
+    }, 
+    "publication_date": "1005-05-31", 
+    "publication_type": "article", 
+    "title": "A Catalogue of North American Diptera (or Two-winged Flies).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T13:14:59.860570+00:00", 
+  "owner": 1161, 
+  "record_id": 805584, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "A Catalogue of North American Diptera (or Two-winged Flies)."
+}

@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805047", 
+  "created": "2017-06-09T21:31:32.165180+00:00", 
+  "files": [], 
+  "id": 805048, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/3436afdf-d0c4-4934-a9c2-23307b336a17", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805048/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805048/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805048/files", 
+    "html": "https://zenodo.org/deposit/805048", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805048", 
+    "latest_draft_html": "https://zenodo.org/deposit/805048", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805048/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805048"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aboul-Nasr, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "1-17", 
+    "journal_title": "Bull. Soc. Fouad Ent.", 
+    "journal_volume": "38", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805048", 
+      "recid": 805048
+    }, 
+    "publication_date": "1954-12-31", 
+    "publication_type": "article", 
+    "title": "The effect of carbon-dioxide upon the wing-beat frequency of Drosophila virilis Sturtevant (1916).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:31:32.165185+00:00", 
+  "owner": 1161, 
+  "record_id": 805048, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "The effect of carbon-dioxide upon the wing-beat frequency of Drosophila virilis Sturtevant (1916)."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:31:34 GMT
+Content-Type: application/json
+Content-Length: 366
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497047493
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "6e459c292ddbf55caeb936cefe9ff84c", "filename": "aboul-nasr_1954a.pdf", "filesize": 25974, "id": "d373ce31-86e8-44d8-9e7b-001ddfc5b874", "links": {"download": "https://zenodo.org/api/files/3436afdf-d0c4-4934-a9c2-23307b336a17/aboul-nasr_1954a.pdf", "self": "https://zenodo.org/api/deposit/depositions/805048/files/d373ce31-86e8-44d8-9e7b-001ddfc5b874"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:31:36 GMT
+Content-Type: application/json
+Content-Length: 2546
+ETag: "2"
+Last-Modified: Fri, 09 Jun 2017 21:31:36 GMT
+Location: https://zenodo.org/api/deposit/depositions/805048
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497045333
+Retry-After: 1436
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805047", 
+  "conceptrecid": "805047", 
+  "created": "2017-06-09T21:31:32.165180+00:00", 
+  "doi": "10.5281/zenodo.805048", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805048", 
+  "files": [
+    {
+      "checksum": "6e459c292ddbf55caeb936cefe9ff84c", 
+      "filename": "aboul-nasr_1954a.pdf", 
+      "filesize": 25974, 
+      "id": "d373ce31-86e8-44d8-9e7b-001ddfc5b874", 
+      "links": {
+        "download": "https://zenodo.org/api/files/3436afdf-d0c4-4934-a9c2-23307b336a17/aboul-nasr_1954a.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/128482/files/d373ce31-86e8-44d8-9e7b-001ddfc5b874"
+      }
+    }
+  ], 
+  "id": 805048, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805048.svg", 
+    "bucket": "https://zenodo.org/api/files/3436afdf-d0c4-4934-a9c2-23307b336a17", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805047.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805047", 
+    "doi": "https://doi.org/10.5281/zenodo.805048", 
+    "latest": "https://zenodo.org/api/records/805048", 
+    "latest_html": "https://zenodo.org/record/805048", 
+    "record": "https://zenodo.org/api/records/805048", 
+    "record_html": "https://zenodo.org/record/805048"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aboul-Nasr, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805048", 
+    "journal_pages": "1-17", 
+    "journal_title": "Bull. Soc. Fouad Ent.", 
+    "journal_volume": "38", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805048", 
+      "recid": 805048
+    }, 
+    "publication_date": "1954-12-31", 
+    "publication_type": "article", 
+    "title": "The effect of carbon-dioxide upon the wing-beat frequency of Drosophila virilis Sturtevant (1916).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:31:36.195694+00:00", 
+  "owner": 1161, 
+  "record_id": 805048, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "The effect of carbon-dioxide upon the wing-beat frequency of Drosophila virilis Sturtevant (1916)."
+}

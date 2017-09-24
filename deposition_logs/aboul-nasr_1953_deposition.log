@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805045", 
+  "created": "2017-06-09T21:31:25.890243+00:00", 
+  "files": [], 
+  "id": 805046, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/90b890e1-b547-492f-b613-a1b6fab0249c", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805046/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805046/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805046/files", 
+    "html": "https://zenodo.org/deposit/805046", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805046", 
+    "latest_draft_html": "https://zenodo.org/deposit/805046", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805046/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805046"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aboul-Nasr, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "121-126", 
+    "journal_title": "Bull. Soc. Fouad Ent.", 
+    "journal_volume": "37", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805046", 
+      "recid": 805046
+    }, 
+    "publication_date": "1953-12-31", 
+    "publication_type": "article", 
+    "title": "On the effect of Carbon Tetrachloride upon etherized Drosophila virilis.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:31:25.890249+00:00", 
+  "owner": 1161, 
+  "record_id": 805046, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "On the effect of Carbon Tetrachloride upon etherized Drosophila virilis."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:31:29 GMT
+Content-Type: application/json
+Content-Length: 365
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497047487
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "d4389afc7156c953a25b66d9ef541808", "filename": "aboul-nasr_1953.pdf", "filesize": 258492, "id": "1eca3534-6d2a-4524-903b-37ab6a95db07", "links": {"download": "https://zenodo.org/api/files/90b890e1-b547-492f-b613-a1b6fab0249c/aboul-nasr_1953.pdf", "self": "https://zenodo.org/api/deposit/depositions/805046/files/1eca3534-6d2a-4524-903b-37ab6a95db07"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:31:31 GMT
+Content-Type: application/json
+Content-Length: 2496
+ETag: "2"
+Last-Modified: Fri, 09 Jun 2017 21:31:30 GMT
+Location: https://zenodo.org/api/deposit/depositions/805046
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497047490
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805045", 
+  "conceptrecid": "805045", 
+  "created": "2017-06-09T21:31:25.890243+00:00", 
+  "doi": "10.5281/zenodo.805046", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805046", 
+  "files": [
+    {
+      "checksum": "d4389afc7156c953a25b66d9ef541808", 
+      "filename": "aboul-nasr_1953.pdf", 
+      "filesize": 258492, 
+      "id": "1eca3534-6d2a-4524-903b-37ab6a95db07", 
+      "links": {
+        "download": "https://zenodo.org/api/files/90b890e1-b547-492f-b613-a1b6fab0249c/aboul-nasr_1953.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/128482/files/1eca3534-6d2a-4524-903b-37ab6a95db07"
+      }
+    }
+  ], 
+  "id": 805046, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805046.svg", 
+    "bucket": "https://zenodo.org/api/files/90b890e1-b547-492f-b613-a1b6fab0249c", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805045.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805045", 
+    "doi": "https://doi.org/10.5281/zenodo.805046", 
+    "latest": "https://zenodo.org/api/records/805046", 
+    "latest_html": "https://zenodo.org/record/805046", 
+    "record": "https://zenodo.org/api/records/805046", 
+    "record_html": "https://zenodo.org/record/805046"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aboul-Nasr, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805046", 
+    "journal_pages": "121-126", 
+    "journal_title": "Bull. Soc. Fouad Ent.", 
+    "journal_volume": "37", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805046", 
+      "recid": 805046
+    }, 
+    "publication_date": "1953-12-31", 
+    "publication_type": "article", 
+    "title": "On the effect of Carbon Tetrachloride upon etherized Drosophila virilis.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:31:30.558338+00:00", 
+  "owner": 1161, 
+  "record_id": 805046, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "On the effect of Carbon Tetrachloride upon etherized Drosophila virilis."
+}

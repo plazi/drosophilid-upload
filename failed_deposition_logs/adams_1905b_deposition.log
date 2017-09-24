@@ -1,0 +1,29 @@
+{"status": 400, "message": "Validation error.", "errors": [{"field": "metadata.publication_date", "message": "Not a valid date."}]}HTTP/1.1 100 Continue
+
+HTTP/1.1 404 NOT FOUND
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:53:36 GMT
+Content-Type: application/json
+Content-Length: 49
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497048815
+Retry-After: 3598
+X-Sentry-ID: None
+
+{"status": 404, "message": "PID does not exist."}HTTP/1.1 404 NOT FOUND
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:53:36 GMT
+Content-Type: application/json
+Content-Length: 49
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497045323
+Retry-After: 106
+X-Sentry-ID: None
+
+{"status": 404, "message": "PID does not exist."}

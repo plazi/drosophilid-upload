@@ -1,0 +1,207 @@
+{
+  "conceptrecid": "805500", 
+  "created": "2017-06-10T11:53:17.028115+00:00", 
+  "files": [], 
+  "id": 805501, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/cbf097a4-9cc8-4b8e-89ea-50640a83835b", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805501/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805501/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805501/files", 
+    "html": "https://zenodo.org/deposit/805501", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805501", 
+    "latest_draft_html": "https://zenodo.org/deposit/805501", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805501/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805501"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Akashi, H."
+      }, 
+      {
+        "name": "Ko, W.-Y."
+      }, 
+      {
+        "name": "Piao, S."
+      }, 
+      {
+        "name": "John, A."
+      }, 
+      {
+        "name": "Goel, P."
+      }, 
+      {
+        "name": "Lin, C.-F."
+      }, 
+      {
+        "name": "Vitins, A.P."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "1711-1726", 
+    "journal_title": "Genetics", 
+    "journal_volume": "172", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805501", 
+      "recid": 805501
+    }, 
+    "publication_date": "2006-12-31", 
+    "publication_type": "article", 
+    "title": "Molecular Evolution in the Drosophila melanogaster Species Subgroup: Frequent Parameter Fluctuations on the Timescale of Molecular Divergence.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T11:53:17.028122+00:00", 
+  "owner": 1161, 
+  "record_id": 805501, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Molecular Evolution in the Drosophila melanogaster Species Subgroup: Frequent Parameter Fluctuations on the Timescale of Molecular Divergence."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 11:53:20 GMT
+Content-Type: application/json
+Content-Length: 371
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497099187
+Retry-After: 3586
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "65f1f15c211e80e0c0d9a175c9a90d19", "filename": "akashi_et_al__2006.pdf", "filesize": 511383, "id": "28d4741f-cf2f-4021-9f30-4f4390c42de9", "links": {"download": "https://zenodo.org/api/files/cbf097a4-9cc8-4b8e-89ea-50640a83835b/akashi_et_al__2006.pdf", "self": "https://zenodo.org/api/deposit/depositions/805501/files/28d4741f-cf2f-4021-9f30-4f4390c42de9"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 11:53:22 GMT
+Content-Type: application/json
+Content-Length: 2905
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 11:53:22 GMT
+Location: https://zenodo.org/api/deposit/depositions/805501
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497099201
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805500", 
+  "conceptrecid": "805500", 
+  "created": "2017-06-10T11:53:17.028115+00:00", 
+  "doi": "10.5281/zenodo.805501", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805501", 
+  "files": [
+    {
+      "checksum": "65f1f15c211e80e0c0d9a175c9a90d19", 
+      "filename": "akashi_et_al__2006.pdf", 
+      "filesize": 511383, 
+      "id": "28d4741f-cf2f-4021-9f30-4f4390c42de9", 
+      "links": {
+        "download": "https://zenodo.org/api/files/cbf097a4-9cc8-4b8e-89ea-50640a83835b/akashi_et_al__2006.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804606/files/28d4741f-cf2f-4021-9f30-4f4390c42de9"
+      }
+    }
+  ], 
+  "id": 805501, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805501.svg", 
+    "bucket": "https://zenodo.org/api/files/cbf097a4-9cc8-4b8e-89ea-50640a83835b", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805500.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805500", 
+    "doi": "https://doi.org/10.5281/zenodo.805501", 
+    "latest": "https://zenodo.org/api/records/805501", 
+    "latest_html": "https://zenodo.org/record/805501", 
+    "record": "https://zenodo.org/api/records/805501", 
+    "record_html": "https://zenodo.org/record/805501"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Akashi, H."
+      }, 
+      {
+        "name": "Ko, W.-Y."
+      }, 
+      {
+        "name": "Piao, S."
+      }, 
+      {
+        "name": "John, A."
+      }, 
+      {
+        "name": "Goel, P."
+      }, 
+      {
+        "name": "Lin, C.-F."
+      }, 
+      {
+        "name": "Vitins, A.P."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805501", 
+    "journal_pages": "1711-1726", 
+    "journal_title": "Genetics", 
+    "journal_volume": "172", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805501", 
+      "recid": 805501
+    }, 
+    "publication_date": "2006-12-31", 
+    "publication_type": "article", 
+    "title": "Molecular Evolution in the Drosophila melanogaster Species Subgroup: Frequent Parameter Fluctuations on the Timescale of Molecular Divergence.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T11:53:22.340558+00:00", 
+  "owner": 1161, 
+  "record_id": 805501, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Molecular Evolution in the Drosophila melanogaster Species Subgroup: Frequent Parameter Fluctuations on the Timescale of Molecular Divergence."
+}

@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805108", 
+  "conceptrecid": "805108", 
+  "created": "2017-06-09T21:56:33.163322+00:00", 
+  "doi": "10.5281/zenodo.805109", 
+  "id": 805109, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805109.svg", 
+    "bucket": "https://zenodo.org/api/files/0e89d939-1a9c-4461-b021-2cb7fd7ff372", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805108.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805108", 
+    "doi": "https://doi.org/10.5281/zenodo.805109", 
+    "html": "https://zenodo.org/record/805109", 
+    "latest": "https://zenodo.org/api/records/805109", 
+    "latest_html": "https://zenodo.org/record/805109", 
+    "self": "https://zenodo.org/api/records/805109"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Agnew, J.D."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805109", 
+    "journal": {
+      "pages": "85-95", 
+      "title": "J. S. Afr. Bot.", 
+      "volume": "42"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "notspecified"
+    }, 
+    "publication_date": "1976-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805108", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805109"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805108"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "A case of myophily involving Drosophilidae (Diptera)."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-08-05T11:21:17.848924+00:00"
+}

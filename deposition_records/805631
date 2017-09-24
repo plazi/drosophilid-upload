@@ -1,0 +1,98 @@
+{
+  "conceptdoi": "10.5281/zenodo.805630", 
+  "conceptrecid": "805630", 
+  "created": "2017-06-10T16:09:37.587304+00:00", 
+  "doi": "10.5281/zenodo.805631", 
+  "id": 805631, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805631.svg", 
+    "bucket": "https://zenodo.org/api/files/50c44292-06a2-4f74-85fb-01bcd0cb71b4", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805630.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805630", 
+    "doi": "https://doi.org/10.5281/zenodo.805631", 
+    "html": "https://zenodo.org/record/805631", 
+    "latest": "https://zenodo.org/api/records/805631", 
+    "latest_html": "https://zenodo.org/record/805631", 
+    "self": "https://zenodo.org/api/records/805631"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alipaz, J.A."
+      }, 
+      {
+        "name": "Wu, C.-I."
+      }, 
+      {
+        "name": "Karr, T.L."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805631", 
+    "journal": {
+      "pages": "789-795", 
+      "title": "Proc. r. Soc.", 
+      "volume": "268"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2001-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.1098/rspb.2000.1420", 
+        "relation": "isIdenticalTo", 
+        "scheme": "doi"
+      }, 
+      {
+        "identifier": "10.5281/zenodo.805630", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805631"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805630"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Gametic incompatibilities between races of Drosophila melanogaster."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-22T17:18:33.530329+00:00"
+}

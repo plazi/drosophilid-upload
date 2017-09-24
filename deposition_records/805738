@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805737", 
+  "conceptrecid": "805737", 
+  "created": "2017-06-10T20:07:08.512812+00:00", 
+  "doi": "10.5281/zenodo.805738", 
+  "id": 805738, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805738.svg", 
+    "bucket": "https://zenodo.org/api/files/b1cefdaa-f8b0-4952-b93e-d3cca9c8b5dd", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805737.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805737", 
+    "doi": "https://doi.org/10.5281/zenodo.805738", 
+    "html": "https://zenodo.org/record/805738", 
+    "latest": "https://zenodo.org/api/records/805738", 
+    "latest_html": "https://zenodo.org/record/805738", 
+    "self": "https://zenodo.org/api/records/805738"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alonso-Gonzalez, L."
+      }, 
+      {
+        "name": "Dominguez, A."
+      }, 
+      {
+        "name": "Albornoz, J."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805738", 
+    "journal": {
+      "pages": "11-19", 
+      "title": "Genetica", 
+      "volume": "128"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2006-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805737", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805738"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805737"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Direct determination of the influence of extreme temperature on transposition and structural mutation rates of Drosophila melanogaster mobile elements."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T08:29:37.459332+00:00"
+}

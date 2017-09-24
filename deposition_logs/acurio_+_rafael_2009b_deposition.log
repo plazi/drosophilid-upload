@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805068", 
+  "created": "2017-06-09T21:39:23.903615+00:00", 
+  "files": [], 
+  "id": 805069, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/26b11626-ca1d-47de-bc62-51239245a152", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805069/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805069/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805069/files", 
+    "html": "https://zenodo.org/deposit/805069", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805069", 
+    "latest_draft_html": "https://zenodo.org/deposit/805069", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805069/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805069"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Acurio, A."
+      }, 
+      {
+        "name": "Rafael, V."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "20-25", 
+    "journal_title": "D. I. S.", 
+    "journal_volume": "92", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805069", 
+      "recid": 805069
+    }, 
+    "publication_date": "2009-12-31", 
+    "publication_type": "article", 
+    "title": "Diversity and geographical distribution of Drosophila (Diptera, Drosophilidae) in Ecuador.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:39:23.903623+00:00", 
+  "owner": 1161, 
+  "record_id": 805069, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Diversity and geographical distribution of Drosophila (Diptera, Drosophilidae) in Ecuador."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:39:30 GMT
+Content-Type: application/json
+Content-Length: 375
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497047481
+Retry-After: 3110
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "0f40aabd57fa784e0d40f35e3a8dec83", "filename": "acurio__rafael_2009b.pdf", "filesize": 203893, "id": "92e5f329-0759-4a19-86f1-cf299a0f750e", "links": {"download": "https://zenodo.org/api/files/26b11626-ca1d-47de-bc62-51239245a152/acurio__rafael_2009b.pdf", "self": "https://zenodo.org/api/deposit/depositions/805069/files/92e5f329-0759-4a19-86f1-cf299a0f750e"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:39:31 GMT
+Content-Type: application/json
+Content-Length: 2570
+ETag: "2"
+Last-Modified: Fri, 09 Jun 2017 21:39:31 GMT
+Location: https://zenodo.org/api/deposit/depositions/805069
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497047970
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805068", 
+  "conceptrecid": "805068", 
+  "created": "2017-06-09T21:39:23.903615+00:00", 
+  "doi": "10.5281/zenodo.805069", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805069", 
+  "files": [
+    {
+      "checksum": "0f40aabd57fa784e0d40f35e3a8dec83", 
+      "filename": "acurio__rafael_2009b.pdf", 
+      "filesize": 203893, 
+      "id": "92e5f329-0759-4a19-86f1-cf299a0f750e", 
+      "links": {
+        "download": "https://zenodo.org/api/files/26b11626-ca1d-47de-bc62-51239245a152/acurio__rafael_2009b.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804610/files/92e5f329-0759-4a19-86f1-cf299a0f750e"
+      }
+    }
+  ], 
+  "id": 805069, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805069.svg", 
+    "bucket": "https://zenodo.org/api/files/26b11626-ca1d-47de-bc62-51239245a152", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805068.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805068", 
+    "doi": "https://doi.org/10.5281/zenodo.805069", 
+    "latest": "https://zenodo.org/api/records/805069", 
+    "latest_html": "https://zenodo.org/record/805069", 
+    "record": "https://zenodo.org/api/records/805069", 
+    "record_html": "https://zenodo.org/record/805069"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Acurio, A."
+      }, 
+      {
+        "name": "Rafael, V."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805069", 
+    "journal_pages": "20-25", 
+    "journal_title": "D. I. S.", 
+    "journal_volume": "92", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805069", 
+      "recid": 805069
+    }, 
+    "publication_date": "2009-12-31", 
+    "publication_type": "article", 
+    "title": "Diversity and geographical distribution of Drosophila (Diptera, Drosophilidae) in Ecuador.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:39:31.305722+00:00", 
+  "owner": 1161, 
+  "record_id": 805069, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Diversity and geographical distribution of Drosophila (Diptera, Drosophilidae) in Ecuador."
+}

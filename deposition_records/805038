@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805037", 
+  "conceptrecid": "805037", 
+  "created": "2017-06-09T21:16:16.713338+00:00", 
+  "doi": "10.5281/zenodo.805038", 
+  "id": 805038, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805038.svg", 
+    "bucket": "https://zenodo.org/api/files/46fb0c51-93dc-42ae-a572-0191e88a4f16", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805037.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805037", 
+    "doi": "https://doi.org/10.5281/zenodo.805038", 
+    "html": "https://zenodo.org/record/805038", 
+    "latest": "https://zenodo.org/api/records/805038", 
+    "latest_html": "https://zenodo.org/record/805038", 
+    "self": "https://zenodo.org/api/records/805038"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aboim, A.N."
+      }, 
+      {
+        "name": "Tordo, G.C."
+      }, 
+      {
+        "name": "Ferreira, G.V."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805038", 
+    "journal": {
+      "pages": "34-52", 
+      "title": "Bolm Soc. port. Cienc. nat.", 
+      "volume": "17"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1949-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805037", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805038"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805037"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Toxicite du chlordane (Velsicole 1068) sur plusieurs insectes qui ravagent les substances emmagasinees."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:09:17.608601+00:00"
+}

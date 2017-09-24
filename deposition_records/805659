@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805658", 
+  "conceptrecid": "805658", 
+  "created": "2017-06-10T16:19:58.860075+00:00", 
+  "doi": "10.5281/zenodo.805659", 
+  "id": 805659, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805659.svg", 
+    "bucket": "https://zenodo.org/api/files/b1726da1-0229-439e-8598-f623c1896b41", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805658.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805658", 
+    "doi": "https://doi.org/10.5281/zenodo.805659", 
+    "html": "https://zenodo.org/record/805659", 
+    "latest": "https://zenodo.org/api/records/805659", 
+    "latest_html": "https://zenodo.org/record/805659", 
+    "self": "https://zenodo.org/api/records/805659"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allen, A.A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805659", 
+    "journal": {
+      "pages": "105-109", 
+      "title": "Ent. Rec.", 
+      "volume": "77"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1965-04-15", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805658", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805659"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805658"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "A Few Notable Diptera from Windsor Forest."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:42:12.993218+00:00"
+}

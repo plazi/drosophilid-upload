@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805682", 
+  "conceptrecid": "805682", 
+  "created": "2017-06-10T16:21:07.129556+00:00", 
+  "doi": "10.5281/zenodo.805683", 
+  "id": 805683, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805683.svg", 
+    "bucket": "https://zenodo.org/api/files/4e4affa3-4166-4f2b-b76e-ad551503e57b", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805682.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805682", 
+    "doi": "https://doi.org/10.5281/zenodo.805683", 
+    "html": "https://zenodo.org/record/805683", 
+    "latest": "https://zenodo.org/api/records/805683", 
+    "latest_html": "https://zenodo.org/record/805683", 
+    "self": "https://zenodo.org/api/records/805683"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alonso-Moraga, A."
+      }, 
+      {
+        "name": "Munoz-Serrano, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805683", 
+    "journal": {
+      "pages": "1048-1050", 
+      "title": "Experientia", 
+      "volume": "42"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1986-11-15", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805682", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805683"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805682"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Allozyme polymorphism and linkage disequilibrium of Adh and Alpha-Gpdh loci in wine cellar and field populations of Drosophila melanogaster."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:37:37.729689+00:00"
+}

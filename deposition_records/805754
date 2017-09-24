@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805753", 
+  "conceptrecid": "805753", 
+  "created": "2017-06-10T20:08:00.524437+00:00", 
+  "doi": "10.5281/zenodo.805754", 
+  "id": 805754, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805754.svg", 
+    "bucket": "https://zenodo.org/api/files/ac9413b3-1a97-4976-8588-878d4ded229e", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805753.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805753", 
+    "doi": "https://doi.org/10.5281/zenodo.805754", 
+    "html": "https://zenodo.org/record/805754", 
+    "latest": "https://zenodo.org/api/records/805754", 
+    "latest_html": "https://zenodo.org/record/805754", 
+    "self": "https://zenodo.org/api/records/805754"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Al T'Oma, Z."
+      }, 
+      {
+        "name": "Mohammad, A.R."
+      }, 
+      {
+        "name": "van der Linde, K."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805754", 
+    "journal": {
+      "pages": "197-200", 
+      "title": "D. I. S.", 
+      "volume": "93"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2010-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805753", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805754"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805753"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "First records of Zaprionus indianus (Diptera: Drosophilidae) from the Basra governorate in Iraq."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T08:28:53.118324+00:00"
+}

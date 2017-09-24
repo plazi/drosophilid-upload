@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805520", 
+  "conceptrecid": "805520", 
+  "created": "2017-06-10T11:54:33.845818+00:00", 
+  "doi": "10.5281/zenodo.805521", 
+  "id": 805521, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805521.svg", 
+    "bucket": "https://zenodo.org/api/files/24dbb78a-ff57-4eef-98bf-4ad29373e06e", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805520.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805520", 
+    "doi": "https://doi.org/10.5281/zenodo.805521", 
+    "html": "https://zenodo.org/record/805521", 
+    "latest": "https://zenodo.org/api/records/805521", 
+    "latest_html": "https://zenodo.org/record/805521", 
+    "self": "https://zenodo.org/api/records/805521"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alahiotis, S."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805521", 
+    "journal": {
+      "pages": "63", 
+      "title": "D. I. S.", 
+      "volume": "51"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1974-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805520", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805521"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805520"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Isozyme genotype-environment relationship in artificial cage populations originated from a Southern Greek D. melanogaster natural population."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:03:54.675986+00:00"
+}

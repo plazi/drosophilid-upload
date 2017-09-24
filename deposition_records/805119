@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805118", 
+  "conceptrecid": "805118", 
+  "created": "2017-06-09T21:57:12.816820+00:00", 
+  "doi": "10.5281/zenodo.805119", 
+  "id": 805119, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805119.svg", 
+    "bucket": "https://zenodo.org/api/files/ddec83f0-f310-4f1f-a78c-32ed7b1648e4", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805118.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805118", 
+    "doi": "https://doi.org/10.5281/zenodo.805119", 
+    "html": "https://zenodo.org/record/805119", 
+    "latest": "https://zenodo.org/api/records/805119", 
+    "latest_html": "https://zenodo.org/record/805119", 
+    "self": "https://zenodo.org/api/records/805119"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aguade, M."
+      }, 
+      {
+        "name": "Cuello, J."
+      }, 
+      {
+        "name": "Prevosti, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805119", 
+    "journal": {
+      "pages": "317-327", 
+      "title": "Theoret. Appl. Genet.", 
+      "volume": "60"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1981-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805118", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805119"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805118"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Correlated Responses to Selection for Wing Length in Allozyme Systems of Drosophila melanogaster."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:59:24.290279+00:00"
+}

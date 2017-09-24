@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805670", 
+  "conceptrecid": "805670", 
+  "created": "2017-06-10T16:20:31.844587+00:00", 
+  "doi": "10.5281/zenodo.805671", 
+  "id": 805671, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805671.svg", 
+    "bucket": "https://zenodo.org/api/files/1a520bed-9f0f-4123-a58b-652787862e93", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805670.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805670", 
+    "doi": "https://doi.org/10.5281/zenodo.805671", 
+    "html": "https://zenodo.org/record/805671", 
+    "latest": "https://zenodo.org/api/records/805671", 
+    "latest_html": "https://zenodo.org/record/805671", 
+    "self": "https://zenodo.org/api/records/805671"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "de Almeida, L.M."
+      }, 
+      {
+        "name": "Carareto, C.M.A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805671", 
+    "journal": {
+      "pages": "583-594", 
+      "title": "Molec. Phylog. Evol.", 
+      "volume": "35"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2005-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805670", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805671"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805670"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Multiple events of horizontal transfer of the Minos transposable element between Drosophila species."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T07:29:11.766913+00:00"
+}

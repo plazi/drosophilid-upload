@@ -1,0 +1,183 @@
+{
+  "conceptrecid": "805799", 
+  "created": "2017-06-10T20:10:28.370559+00:00", 
+  "files": [], 
+  "id": 805800, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/df1003a0-5520-4d78-82dc-2d45b3f12138", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805800/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805800/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805800/files", 
+    "html": "https://zenodo.org/deposit/805800", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805800", 
+    "latest_draft_html": "https://zenodo.org/deposit/805800", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805800/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805800"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amoudi, M.A."
+      }, 
+      {
+        "name": "Diab, F.M."
+      }, 
+      {
+        "name": "and Abou-Fannah, S.S.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "37-40", 
+    "journal_title": "Pakistan J. Zool.", 
+    "journal_volume": "25", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805800", 
+      "recid": 805800
+    }, 
+    "publication_date": "1993-12-31", 
+    "publication_type": "article", 
+    "title": "Effects of Larval Population Density on the Life Cycle Parameters in Zaprionus indiana Gupta (Diptera: Drosophilidae).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:10:28.370566+00:00", 
+  "owner": 1161, 
+  "record_id": 805800, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Effects of Larval Population Density on the Life Cycle Parameters in Zaprionus indiana Gupta (Diptera: Drosophilidae)."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:10:31 GMT
+Content-Type: application/json
+Content-Length: 373
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497128857
+Retry-After: 3425
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "52e7edbdece19dfaa9fc8fde4e22a25c", "filename": "amoudi_et_al__1993b.pdf", "filesize": 166128, "id": "61c9d434-b726-4390-9637-b1ac13b868c6", "links": {"download": "https://zenodo.org/api/files/df1003a0-5520-4d78-82dc-2d45b3f12138/amoudi_et_al__1993b.pdf", "self": "https://zenodo.org/api/deposit/depositions/805800/files/61c9d434-b726-4390-9637-b1ac13b868c6"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:10:33 GMT
+Content-Type: application/json
+Content-Length: 2695
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 20:10:32 GMT
+Location: https://zenodo.org/api/deposit/depositions/805800
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497129032
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805799", 
+  "conceptrecid": "805799", 
+  "created": "2017-06-10T20:10:28.370559+00:00", 
+  "doi": "10.5281/zenodo.805800", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805800", 
+  "files": [
+    {
+      "checksum": "52e7edbdece19dfaa9fc8fde4e22a25c", 
+      "filename": "amoudi_et_al__1993b.pdf", 
+      "filesize": 166128, 
+      "id": "61c9d434-b726-4390-9637-b1ac13b868c6", 
+      "links": {
+        "download": "https://zenodo.org/api/files/df1003a0-5520-4d78-82dc-2d45b3f12138/amoudi_et_al__1993b.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804727/files/61c9d434-b726-4390-9637-b1ac13b868c6"
+      }
+    }
+  ], 
+  "id": 805800, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805800.svg", 
+    "bucket": "https://zenodo.org/api/files/df1003a0-5520-4d78-82dc-2d45b3f12138", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805799.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805799", 
+    "doi": "https://doi.org/10.5281/zenodo.805800", 
+    "latest": "https://zenodo.org/api/records/805800", 
+    "latest_html": "https://zenodo.org/record/805800", 
+    "record": "https://zenodo.org/api/records/805800", 
+    "record_html": "https://zenodo.org/record/805800"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amoudi, M.A."
+      }, 
+      {
+        "name": "Diab, F.M."
+      }, 
+      {
+        "name": "and Abou-Fannah, S.S.M."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805800", 
+    "journal_pages": "37-40", 
+    "journal_title": "Pakistan J. Zool.", 
+    "journal_volume": "25", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805800", 
+      "recid": 805800
+    }, 
+    "publication_date": "1993-12-31", 
+    "publication_type": "article", 
+    "title": "Effects of Larval Population Density on the Life Cycle Parameters in Zaprionus indiana Gupta (Diptera: Drosophilidae).", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:10:32.695191+00:00", 
+  "owner": 1161, 
+  "record_id": 805800, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Effects of Larval Population Density on the Life Cycle Parameters in Zaprionus indiana Gupta (Diptera: Drosophilidae)."
+}

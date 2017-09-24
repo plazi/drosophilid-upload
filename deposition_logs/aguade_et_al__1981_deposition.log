@@ -1,0 +1,183 @@
+{
+  "conceptrecid": "805118", 
+  "created": "2017-06-09T21:57:08.236752+00:00", 
+  "files": [], 
+  "id": 805119, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/aed56d74-529c-4c9e-a7ce-45b4d8cc6830", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805119/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805119/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805119/files", 
+    "html": "https://zenodo.org/deposit/805119", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805119", 
+    "latest_draft_html": "https://zenodo.org/deposit/805119", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805119/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805119"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aguade, M."
+      }, 
+      {
+        "name": "Cuello, J."
+      }, 
+      {
+        "name": "Prevosti, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "317-327", 
+    "journal_title": "Theoret. Appl. Genet.", 
+    "journal_volume": "60", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805119", 
+      "recid": 805119
+    }, 
+    "publication_date": "1981-12-31", 
+    "publication_type": "article", 
+    "title": "Correlated Responses to Selection for Wing Length in Allozyme Systems of Drosophila melanogaster.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:57:08.236758+00:00", 
+  "owner": 1161, 
+  "record_id": 805119, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Correlated Responses to Selection for Wing Length in Allozyme Systems of Drosophila melanogaster."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:57:11 GMT
+Content-Type: application/json
+Content-Length: 371
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497047504
+Retry-After: 2072
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "c994cd5394bd755537f9a0e832ea5523", "filename": "aguade_et_al__1981.pdf", "filesize": 544123, "id": "a57d6b20-9869-486a-9fa8-452b1c0a9f4a", "links": {"download": "https://zenodo.org/api/files/aed56d74-529c-4c9e-a7ce-45b4d8cc6830/aguade_et_al__1981.pdf", "self": "https://zenodo.org/api/deposit/depositions/805119/files/a57d6b20-9869-486a-9fa8-452b1c0a9f4a"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:57:13 GMT
+Content-Type: application/json
+Content-Length: 2644
+ETag: "2"
+Last-Modified: Fri, 09 Jun 2017 21:57:13 GMT
+Location: https://zenodo.org/api/deposit/depositions/805119
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497049032
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805118", 
+  "conceptrecid": "805118", 
+  "created": "2017-06-09T21:57:08.236752+00:00", 
+  "doi": "10.5281/zenodo.805119", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805119", 
+  "files": [
+    {
+      "checksum": "c994cd5394bd755537f9a0e832ea5523", 
+      "filename": "aguade_et_al__1981.pdf", 
+      "filesize": 544123, 
+      "id": "a57d6b20-9869-486a-9fa8-452b1c0a9f4a", 
+      "links": {
+        "download": "https://zenodo.org/api/files/aed56d74-529c-4c9e-a7ce-45b4d8cc6830/aguade_et_al__1981.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804771/files/a57d6b20-9869-486a-9fa8-452b1c0a9f4a"
+      }
+    }
+  ], 
+  "id": 805119, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805119.svg", 
+    "bucket": "https://zenodo.org/api/files/aed56d74-529c-4c9e-a7ce-45b4d8cc6830", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805118.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805118", 
+    "doi": "https://doi.org/10.5281/zenodo.805119", 
+    "latest": "https://zenodo.org/api/records/805119", 
+    "latest_html": "https://zenodo.org/record/805119", 
+    "record": "https://zenodo.org/api/records/805119", 
+    "record_html": "https://zenodo.org/record/805119"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aguade, M."
+      }, 
+      {
+        "name": "Cuello, J."
+      }, 
+      {
+        "name": "Prevosti, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805119", 
+    "journal_pages": "317-327", 
+    "journal_title": "Theoret. Appl. Genet.", 
+    "journal_volume": "60", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805119", 
+      "recid": 805119
+    }, 
+    "publication_date": "1981-12-31", 
+    "publication_type": "article", 
+    "title": "Correlated Responses to Selection for Wing Length in Allozyme Systems of Drosophila melanogaster.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:57:13.096060+00:00", 
+  "owner": 1161, 
+  "record_id": 805119, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Correlated Responses to Selection for Wing Length in Allozyme Systems of Drosophila melanogaster."
+}

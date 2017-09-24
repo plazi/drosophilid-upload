@@ -1,0 +1,105 @@
+{
+  "conceptdoi": "10.5281/zenodo.805811", 
+  "conceptrecid": "805811", 
+  "created": "2017-06-10T20:11:10.299649+00:00", 
+  "doi": "10.5281/zenodo.805812", 
+  "id": 805812, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805812.svg", 
+    "bucket": "https://zenodo.org/api/files/c70e24be-a4eb-4347-bd78-f7089bbeb7f8", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805811.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805811", 
+    "doi": "https://doi.org/10.5281/zenodo.805812", 
+    "html": "https://zenodo.org/record/805812", 
+    "latest": "https://zenodo.org/api/records/805812", 
+    "latest_html": "https://zenodo.org/record/805812", 
+    "self": "https://zenodo.org/api/records/805812"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ananina, G."
+      }, 
+      {
+        "name": "Peixoto, A.A."
+      }, 
+      {
+        "name": "Bitner-Mathe, B.C."
+      }, 
+      {
+        "name": "Souza, W.N."
+      }, 
+      {
+        "name": "Basso da Silva, L."
+      }, 
+      {
+        "name": "Valente, V.L.S."
+      }, 
+      {
+        "name": "Klaczko, L.B."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805812", 
+    "journal": {
+      "pages": "61-69", 
+      "title": "Genet. and Molec. Biol.", 
+      "volume": "27"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2004-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805811", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805812"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805811"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Chromosomal inversion polymorphism in Drosophila mediopunctata: seasonal, altitudinal, and latitudinal variation."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 2, 
+  "updated": "2017-09-08T07:44:04.248651+00:00"
+}

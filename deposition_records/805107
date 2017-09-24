@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805106", 
+  "conceptrecid": "805106", 
+  "created": "2017-06-09T21:56:26.346787+00:00", 
+  "doi": "10.5281/zenodo.805107", 
+  "id": 805107, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805107.svg", 
+    "bucket": "https://zenodo.org/api/files/0fc1f9af-9b0a-49db-acd9-c37d5fe7d6f4", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805106.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805106", 
+    "doi": "https://doi.org/10.5281/zenodo.805107", 
+    "html": "https://zenodo.org/record/805107", 
+    "latest": "https://zenodo.org/api/records/805107", 
+    "latest_html": "https://zenodo.org/record/805107", 
+    "self": "https://zenodo.org/api/records/805107"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Agnew, J.D."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805107", 
+    "journal": {
+      "pages": "51-53", 
+      "title": "D. I. S.", 
+      "volume": "50"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "notspecified"
+    }, 
+    "publication_date": "1973-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805106", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805107"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805106"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Morphological differences in larval D. melanogaster and simulans."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 4, 
+  "updated": "2017-09-22T17:44:02.021752+00:00"
+}

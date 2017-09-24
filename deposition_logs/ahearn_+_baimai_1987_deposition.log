@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805122", 
+  "created": "2017-06-09T21:57:22.587759+00:00", 
+  "files": [], 
+  "id": 805123, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/6b3961f9-6221-48a7-b337-9cbed993b049", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805123/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805123/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805123/files", 
+    "html": "https://zenodo.org/deposit/805123", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805123", 
+    "latest_draft_html": "https://zenodo.org/deposit/805123", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805123/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805123"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ahearn, J.N."
+      }, 
+      {
+        "name": "Baimai, V."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "47-57", 
+    "journal_title": "Genome", 
+    "journal_volume": "29", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805123", 
+      "recid": 805123
+    }, 
+    "publication_date": "1987-12-31", 
+    "publication_type": "article", 
+    "title": "Cytogenetic study of three closely related species of Hawaiian Drosophila.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:57:22.587765+00:00", 
+  "owner": 1161, 
+  "record_id": 805123, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Cytogenetic study of three closely related species of Hawaiian Drosophila."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:57:30 GMT
+Content-Type: application/json
+Content-Length: 373
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497049043
+Retry-After: 3592
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "f3160f5f98de0c161816debc560a3bbe", "filename": "ahearn__baimai_1987.pdf", "filesize": 730215, "id": "38cacf39-4682-4393-bf35-1c2d8db562c2", "links": {"download": "https://zenodo.org/api/files/6b3961f9-6221-48a7-b337-9cbed993b049/ahearn__baimai_1987.pdf", "self": "https://zenodo.org/api/deposit/depositions/805123/files/38cacf39-4682-4393-bf35-1c2d8db562c2"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:57:32 GMT
+Content-Type: application/json
+Content-Length: 2536
+ETag: "2"
+Last-Modified: Fri, 09 Jun 2017 21:57:31 GMT
+Location: https://zenodo.org/api/deposit/depositions/805123
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497049051
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805122", 
+  "conceptrecid": "805122", 
+  "created": "2017-06-09T21:57:22.587759+00:00", 
+  "doi": "10.5281/zenodo.805123", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805123", 
+  "files": [
+    {
+      "checksum": "f3160f5f98de0c161816debc560a3bbe", 
+      "filename": "ahearn__baimai_1987.pdf", 
+      "filesize": 730215, 
+      "id": "38cacf39-4682-4393-bf35-1c2d8db562c2", 
+      "links": {
+        "download": "https://zenodo.org/api/files/6b3961f9-6221-48a7-b337-9cbed993b049/ahearn__baimai_1987.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/376790/files/38cacf39-4682-4393-bf35-1c2d8db562c2"
+      }
+    }
+  ], 
+  "id": 805123, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805123.svg", 
+    "bucket": "https://zenodo.org/api/files/6b3961f9-6221-48a7-b337-9cbed993b049", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805122.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805122", 
+    "doi": "https://doi.org/10.5281/zenodo.805123", 
+    "latest": "https://zenodo.org/api/records/805123", 
+    "latest_html": "https://zenodo.org/record/805123", 
+    "record": "https://zenodo.org/api/records/805123", 
+    "record_html": "https://zenodo.org/record/805123"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ahearn, J.N."
+      }, 
+      {
+        "name": "Baimai, V."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805123", 
+    "journal_pages": "47-57", 
+    "journal_title": "Genome", 
+    "journal_volume": "29", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805123", 
+      "recid": 805123
+    }, 
+    "publication_date": "1987-12-31", 
+    "publication_type": "article", 
+    "title": "Cytogenetic study of three closely related species of Hawaiian Drosophila.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:57:31.744442+00:00", 
+  "owner": 1161, 
+  "record_id": 805123, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Cytogenetic study of three closely related species of Hawaiian Drosophila."
+}

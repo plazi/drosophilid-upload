@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805084", 
+  "conceptrecid": "805084", 
+  "created": "2017-06-09T21:53:59.394236+00:00", 
+  "doi": "10.5281/zenodo.805085", 
+  "id": 805085, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805085.svg", 
+    "bucket": "https://zenodo.org/api/files/917ce4af-64dc-49b9-9262-7acb68af958d", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805084.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805084", 
+    "doi": "https://doi.org/10.5281/zenodo.805085", 
+    "html": "https://zenodo.org/record/805085", 
+    "latest": "https://zenodo.org/api/records/805085", 
+    "latest_html": "https://zenodo.org/record/805085", 
+    "self": "https://zenodo.org/api/records/805085"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Adamson, A.M."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805085", 
+    "journal": {
+      "pages": "1-93", 
+      "title": "Bernice P. Bishop Museum Bulletin", 
+      "volume": "159"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "notspecified"
+    }, 
+    "publication_date": "1939-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805084", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805085"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805084"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Review of the fauna of the Marquesas Islands and discussion of its origin."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 4, 
+  "updated": "2017-09-23T04:19:36.231968+00:00"
+}

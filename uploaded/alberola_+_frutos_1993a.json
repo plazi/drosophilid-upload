@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "title": "Gypsy Homologous Sequences in Drosophila subobscura (gypsyDS).",
+    "upload_type": "publication",
+    "description": "uploaded by Plazi from Taxodros",
+    "access_right": "open",
+    "journal_pages": "127-135",
+    "journal_title": "J. molec. Evol.",
+    "journal_volume": "36",
+    "publication_type": "article",
+    "publication_date": "1993-12-31",
+    "keywords": [
+      "Biodiversity",
+      "Taxonomy",
+      "Animalia",
+      "Arthropoda",
+      "Insecta",
+      "Diptera",
+      "Drosophilidae",
+      "flies",
+      "fruit flies",
+      "terrestrial"
+    ],
+    "license": "cc-by",
+    "creators": [
+      {
+        "name": "Alberola, T.M."
+      },
+      {
+        "name": "de Frutos, R."
+      }
+    ],
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805825", 
+  "created": "2017-06-10T20:11:48.456672+00:00", 
+  "files": [], 
+  "id": 805826, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/bda1cc36-19df-4663-a762-1eb193d3080f", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805826/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805826/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805826/files", 
+    "html": "https://zenodo.org/deposit/805826", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805826", 
+    "latest_draft_html": "https://zenodo.org/deposit/805826", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805826/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805826"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Anderson, W.W."
+      }, 
+      {
+        "name": "McGuire, P.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "416-423", 
+    "journal_title": "Evolution", 
+    "journal_volume": "32", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805826", 
+      "recid": 805826
+    }, 
+    "publication_date": "1978-06-30", 
+    "publication_type": "article", 
+    "title": "Mating pattern and mating success of Drosophila pseudoobscura karyotypes in large experimental populations.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:11:48.456679+00:00", 
+  "owner": 1161, 
+  "record_id": 805826, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Mating pattern and mating success of Drosophila pseudoobscura karyotypes in large experimental populations."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:11:51 GMT
+Content-Type: application/json
+Content-Length: 379
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497128980
+Retry-After: 3468
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "5e065a5ff83135fb99087e8016fc1f9a", "filename": "anderson__mcguire_1978.pdf", "filesize": 157630, "id": "c285b9dd-14ea-4abe-9fd6-0ad3b085b994", "links": {"download": "https://zenodo.org/api/files/bda1cc36-19df-4663-a762-1eb193d3080f/anderson__mcguire_1978.pdf", "self": "https://zenodo.org/api/deposit/depositions/805826/files/c285b9dd-14ea-4abe-9fd6-0ad3b085b994"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:11:53 GMT
+Content-Type: application/json
+Content-Length: 2618
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 20:11:53 GMT
+Location: https://zenodo.org/api/deposit/depositions/805826
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497129032
+Retry-After: 3518
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805825", 
+  "conceptrecid": "805825", 
+  "created": "2017-06-10T20:11:48.456672+00:00", 
+  "doi": "10.5281/zenodo.805826", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805826", 
+  "files": [
+    {
+      "checksum": "5e065a5ff83135fb99087e8016fc1f9a", 
+      "filename": "anderson__mcguire_1978.pdf", 
+      "filesize": 157630, 
+      "id": "c285b9dd-14ea-4abe-9fd6-0ad3b085b994", 
+      "links": {
+        "download": "https://zenodo.org/api/files/bda1cc36-19df-4663-a762-1eb193d3080f/anderson__mcguire_1978.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804727/files/c285b9dd-14ea-4abe-9fd6-0ad3b085b994"
+      }
+    }
+  ], 
+  "id": 805826, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805826.svg", 
+    "bucket": "https://zenodo.org/api/files/bda1cc36-19df-4663-a762-1eb193d3080f", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805825.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805825", 
+    "doi": "https://doi.org/10.5281/zenodo.805826", 
+    "latest": "https://zenodo.org/api/records/805826", 
+    "latest_html": "https://zenodo.org/record/805826", 
+    "record": "https://zenodo.org/api/records/805826", 
+    "record_html": "https://zenodo.org/record/805826"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Anderson, W.W."
+      }, 
+      {
+        "name": "McGuire, P.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805826", 
+    "journal_pages": "416-423", 
+    "journal_title": "Evolution", 
+    "journal_volume": "32", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805826", 
+      "recid": 805826
+    }, 
+    "publication_date": "1978-06-30", 
+    "publication_type": "article", 
+    "title": "Mating pattern and mating success of Drosophila pseudoobscura karyotypes in large experimental populations.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:11:53.353568+00:00", 
+  "owner": 1161, 
+  "record_id": 805826, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Mating pattern and mating success of Drosophila pseudoobscura karyotypes in large experimental populations."
+}

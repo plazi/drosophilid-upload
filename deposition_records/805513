@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805512", 
+  "conceptrecid": "805512", 
+  "created": "2017-06-10T11:54:08.514229+00:00", 
+  "doi": "10.5281/zenodo.805513", 
+  "id": 805513, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805513.svg", 
+    "bucket": "https://zenodo.org/api/files/67cc895a-9a0a-409e-924a-82b5d10b1c12", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805512.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805512", 
+    "doi": "https://doi.org/10.5281/zenodo.805513", 
+    "html": "https://zenodo.org/record/805513", 
+    "latest": "https://zenodo.org/api/records/805513", 
+    "latest_html": "https://zenodo.org/record/805513", 
+    "self": "https://zenodo.org/api/records/805513"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alahiotis, S.N."
+      }, 
+      {
+        "name": "Kilias, G."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805513", 
+    "journal": {
+      "pages": "53-58", 
+      "title": "J. Hered.", 
+      "volume": "73"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1982-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805512", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805513"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805512"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Mating propensities and variations in enzyme activities in long-term cage populations of Drosophila melanogaster."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:44:01.829523+00:00"
+}

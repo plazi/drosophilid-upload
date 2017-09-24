@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805819", 
+  "conceptrecid": "805819", 
+  "created": "2017-06-10T20:11:35.587418+00:00", 
+  "doi": "10.5281/zenodo.805820", 
+  "id": 805820, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805820.svg", 
+    "bucket": "https://zenodo.org/api/files/5acf802c-ee96-4d0d-8fc1-eb479eade93e", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805819.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805819", 
+    "doi": "https://doi.org/10.5281/zenodo.805820", 
+    "html": "https://zenodo.org/record/805820", 
+    "latest": "https://zenodo.org/api/records/805820", 
+    "latest_html": "https://zenodo.org/record/805820", 
+    "self": "https://zenodo.org/api/records/805820"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Anderson, D.G."
+      }, 
+      {
+        "name": "Gibson, J.B."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805820", 
+    "journal": {
+      "pages": "13-19", 
+      "title": "Genetica", 
+      "volume": "67"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1985-07-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805819", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805820"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805819"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Variation in alcohol dehydrogenase activity in vitro in flies from natural populations of Drosophila melanogaster."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:49:15.943856+00:00"
+}

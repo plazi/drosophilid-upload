@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805570", 
+  "conceptrecid": "805570", 
+  "created": "2017-06-10T13:13:13.723608+00:00", 
+  "doi": "10.5281/zenodo.805571", 
+  "id": 805571, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805571.svg", 
+    "bucket": "https://zenodo.org/api/files/9ae479f5-549c-4f66-b9ea-b891d0a3d676", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805570.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805570", 
+    "doi": "https://doi.org/10.5281/zenodo.805571", 
+    "html": "https://zenodo.org/record/805571", 
+    "latest": "https://zenodo.org/api/records/805571", 
+    "latest_html": "https://zenodo.org/record/805571", 
+    "self": "https://zenodo.org/api/records/805571"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Albers, M.A."
+      }, 
+      {
+        "name": "Bradley, T.J."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805571", 
+    "journal": {
+      "pages": "857-865", 
+      "title": "Physiol. Biochem. Zool.", 
+      "volume": "79"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2007-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805570", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805571"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805570"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Fecundity in Drosophila following Desiccation Is Dependent on Nutrition and Selection Regime."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:36:55.531296+00:00"
+}

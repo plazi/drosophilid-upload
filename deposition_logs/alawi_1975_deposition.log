@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805556", 
+  "created": "2017-06-10T13:12:12.433778+00:00", 
+  "files": [], 
+  "id": 805557, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/e71c9a7f-8686-430e-b6ab-ba62fedd5ac0", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805557/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805557/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805557/files", 
+    "html": "https://zenodo.org/deposit/805557", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805557", 
+    "latest_draft_html": "https://zenodo.org/deposit/805557", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805557/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805557"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alawi, A.A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "51-76", 
+    "journal_title": "Dirasat", 
+    "journal_volume": "2", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805557", 
+      "recid": 805557
+    }, 
+    "publication_date": "1975-12-31", 
+    "publication_type": "article", 
+    "title": "Electroretinogram of Drosophila: I. Separation of its components.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T13:12:12.433784+00:00", 
+  "owner": 1161, 
+  "record_id": 805557, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Electroretinogram of Drosophila: I. Separation of its components."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 13:12:17 GMT
+Content-Type: application/json
+Content-Length: 355
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497103934
+Retry-After: 3596
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "46385abdb60f82ca0a6d3b5e0d66fb73", "filename": "alawi_1975.pdf", "filesize": 645543, "id": "3d633039-9ccc-4dad-a4a7-dff8e1b8d9f6", "links": {"download": "https://zenodo.org/api/files/e71c9a7f-8686-430e-b6ab-ba62fedd5ac0/alawi_1975.pdf", "self": "https://zenodo.org/api/deposit/depositions/805557/files/3d633039-9ccc-4dad-a4a7-dff8e1b8d9f6"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 13:12:19 GMT
+Content-Type: application/json
+Content-Length: 2452
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 13:12:18 GMT
+Location: https://zenodo.org/api/deposit/depositions/805557
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497103938
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805556", 
+  "conceptrecid": "805556", 
+  "created": "2017-06-10T13:12:12.433778+00:00", 
+  "doi": "10.5281/zenodo.805557", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805557", 
+  "files": [
+    {
+      "checksum": "46385abdb60f82ca0a6d3b5e0d66fb73", 
+      "filename": "alawi_1975.pdf", 
+      "filesize": 645543, 
+      "id": "3d633039-9ccc-4dad-a4a7-dff8e1b8d9f6", 
+      "links": {
+        "download": "https://zenodo.org/api/files/e71c9a7f-8686-430e-b6ab-ba62fedd5ac0/alawi_1975.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804617/files/3d633039-9ccc-4dad-a4a7-dff8e1b8d9f6"
+      }
+    }
+  ], 
+  "id": 805557, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805557.svg", 
+    "bucket": "https://zenodo.org/api/files/e71c9a7f-8686-430e-b6ab-ba62fedd5ac0", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805556.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805556", 
+    "doi": "https://doi.org/10.5281/zenodo.805557", 
+    "latest": "https://zenodo.org/api/records/805557", 
+    "latest_html": "https://zenodo.org/record/805557", 
+    "record": "https://zenodo.org/api/records/805557", 
+    "record_html": "https://zenodo.org/record/805557"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alawi, A.A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805557", 
+    "journal_pages": "51-76", 
+    "journal_title": "Dirasat", 
+    "journal_volume": "2", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805557", 
+      "recid": 805557
+    }, 
+    "publication_date": "1975-12-31", 
+    "publication_type": "article", 
+    "title": "Electroretinogram of Drosophila: I. Separation of its components.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T13:12:18.669932+00:00", 
+  "owner": 1161, 
+  "record_id": 805557, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Electroretinogram of Drosophila: I. Separation of its components."
+}

@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805662", 
+  "created": "2017-06-10T16:20:06.963547+00:00", 
+  "files": [], 
+  "id": 805663, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/2a83e1d0-4dfa-4d5f-81c2-d7480ac8d628", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805663/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805663/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805663/files", 
+    "html": "https://zenodo.org/deposit/805663", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805663", 
+    "latest_draft_html": "https://zenodo.org/deposit/805663", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805663/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805663"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allen, A.C."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "629-637", 
+    "journal_title": "Genetics", 
+    "journal_volume": "63", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805663", 
+      "recid": 805663
+    }, 
+    "publication_date": "1969-11-30", 
+    "publication_type": "article", 
+    "title": "Lethal frequencies on second and third chromosomes in populations of Drosophila melanogaster.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:20:06.963554+00:00", 
+  "owner": 1161, 
+  "record_id": 805663, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Lethal frequencies on second and third chromosomes in populations of Drosophila melanogaster."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:20:09 GMT
+Content-Type: application/json
+Content-Length: 355
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497114367
+Retry-After: 2757
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "b85f1d05891bbc7f6d00d912a7bb385c", "filename": "allen_1969.pdf", "filesize": 185413, "id": "8469fd20-3648-4611-8dda-55e9650b9154", "links": {"download": "https://zenodo.org/api/files/2a83e1d0-4dfa-4d5f-81c2-d7480ac8d628/allen_1969.pdf", "self": "https://zenodo.org/api/deposit/depositions/805663/files/8469fd20-3648-4611-8dda-55e9650b9154"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:20:11 GMT
+Content-Type: application/json
+Content-Length: 2512
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:20:11 GMT
+Location: https://zenodo.org/api/deposit/depositions/805663
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497115210
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805662", 
+  "conceptrecid": "805662", 
+  "created": "2017-06-10T16:20:06.963547+00:00", 
+  "doi": "10.5281/zenodo.805663", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805663", 
+  "files": [
+    {
+      "checksum": "b85f1d05891bbc7f6d00d912a7bb385c", 
+      "filename": "allen_1969.pdf", 
+      "filesize": 185413, 
+      "id": "8469fd20-3648-4611-8dda-55e9650b9154", 
+      "links": {
+        "download": "https://zenodo.org/api/files/2a83e1d0-4dfa-4d5f-81c2-d7480ac8d628/allen_1969.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804699/files/8469fd20-3648-4611-8dda-55e9650b9154"
+      }
+    }
+  ], 
+  "id": 805663, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805663.svg", 
+    "bucket": "https://zenodo.org/api/files/2a83e1d0-4dfa-4d5f-81c2-d7480ac8d628", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805662.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805662", 
+    "doi": "https://doi.org/10.5281/zenodo.805663", 
+    "latest": "https://zenodo.org/api/records/805663", 
+    "latest_html": "https://zenodo.org/record/805663", 
+    "record": "https://zenodo.org/api/records/805663", 
+    "record_html": "https://zenodo.org/record/805663"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allen, A.C."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805663", 
+    "journal_pages": "629-637", 
+    "journal_title": "Genetics", 
+    "journal_volume": "63", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805663", 
+      "recid": 805663
+    }, 
+    "publication_date": "1969-11-30", 
+    "publication_type": "article", 
+    "title": "Lethal frequencies on second and third chromosomes in populations of Drosophila melanogaster.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:20:11.028822+00:00", 
+  "owner": 1161, 
+  "record_id": 805663, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Lethal frequencies on second and third chromosomes in populations of Drosophila melanogaster."
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "title": "First known Brazilian species of the genera Scutops and Neoscutops (Diptera: Periscelididae), with comments on the relationships among the species in each genus.",
+    "upload_type": "publication",
+    "description": "uploaded by Plazi from Taxodros",
+    "access_right": "open",
+    "journal_pages": "37-44",
+    "journal_title": "Mem. Inst. Oswaldo Cruz",
+    "journal_volume": "84",
+    "publication_type": "article",
+    "publication_date": "1989-12-31",
+    "keywords": [
+      "Biodiversity",
+      "Taxonomy",
+      "Animalia",
+      "Arthropoda",
+      "Insecta",
+      "Diptera",
+      "Drosophilidae",
+      "flies",
+      "fruit flies",
+      "terrestrial"
+    ],
+    "license": "cc-by",
+    "creators": [
+      {
+        "name": "Amorim, D. de S."
+      },
+      {
+        "name": "de Vasconcelos, C.M."
+      }
+    ],
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "conceptdoi": "10.5281/zenodo.805033", 
+  "conceptrecid": "805033", 
+  "created": "2017-06-09T21:16:04.729206+00:00", 
+  "doi": "10.5281/zenodo.805034", 
+  "id": 805034, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805034.svg", 
+    "bucket": "https://zenodo.org/api/files/a18a6183-92fb-44d8-828a-9e61fb15eca3", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805033.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805033", 
+    "doi": "https://doi.org/10.5281/zenodo.805034", 
+    "html": "https://zenodo.org/record/805034", 
+    "latest": "https://zenodo.org/api/records/805034", 
+    "latest_html": "https://zenodo.org/record/805034", 
+    "self": "https://zenodo.org/api/records/805034"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Abdallah, K."
+      }, 
+      {
+        "name": "Khan, S.M."
+      }, 
+      {
+        "name": "Yasmin, S."
+      }, 
+      {
+        "name": "Gowen, S."
+      }, 
+      {
+        "name": "Khattak, M.K."
+      }, 
+      {
+        "name": "Kiani, A.R."
+      }, 
+      {
+        "name": "Ukeh, D.A."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805034", 
+    "journal": {
+      "pages": "981-985", 
+      "title": "Life Sciences International Journal", 
+      "volume": "3"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2009-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805033", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805034"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805033"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Progeny Estimation of Different Entomopathogenic Nematodes in Full Fed Larvae of Fruit Flies Drosophila Sp. (Drosophilidae: Diptera)."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 5, 
+  "updated": "2017-09-08T08:38:07.160941+00:00"
+}

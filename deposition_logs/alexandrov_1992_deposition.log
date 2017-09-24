@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805618", 
+  "created": "2017-06-10T16:08:49.567191+00:00", 
+  "files": [], 
+  "id": 805619, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/0f5d7dad-4339-4b8b-b18e-2b6611bb1833", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805619/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805619/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805619/files", 
+    "html": "https://zenodo.org/deposit/805619", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805619", 
+    "latest_draft_html": "https://zenodo.org/deposit/805619", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805619/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805619"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alexandrov, I.D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "213-214", 
+    "journal_title": "D. I. S.", 
+    "journal_volume": "71", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805619", 
+      "recid": 805619
+    }, 
+    "publication_date": "1992-07-31", 
+    "publication_type": "article", 
+    "title": "Different patterns of spontaneous mutability in two wild-type sib stocks of D. melanogaster with long-term laboratory history.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:08:49.567208+00:00", 
+  "owner": 1161, 
+  "record_id": 805619, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Different patterns of spontaneous mutability in two wild-type sib stocks of D. melanogaster with long-term laboratory history."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:08:53 GMT
+Content-Type: application/json
+Content-Length: 364
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497114530
+Retry-After: 3596
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "e3e351f00e3260635d4515c530b293c5", "filename": "alexandrov_1992.pdf", "filesize": 64418, "id": "4ed553ca-ca33-4879-a558-e302caa406f2", "links": {"download": "https://zenodo.org/api/files/0f5d7dad-4339-4b8b-b18e-2b6611bb1833/alexandrov_1992.pdf", "self": "https://zenodo.org/api/deposit/depositions/805619/files/4ed553ca-ca33-4879-a558-e302caa406f2"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:08:55 GMT
+Content-Type: application/json
+Content-Length: 2592
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:08:54 GMT
+Location: https://zenodo.org/api/deposit/depositions/805619
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497114534
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805618", 
+  "conceptrecid": "805618", 
+  "created": "2017-06-10T16:08:49.567191+00:00", 
+  "doi": "10.5281/zenodo.805619", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805619", 
+  "files": [
+    {
+      "checksum": "e3e351f00e3260635d4515c530b293c5", 
+      "filename": "alexandrov_1992.pdf", 
+      "filesize": 64418, 
+      "id": "4ed553ca-ca33-4879-a558-e302caa406f2", 
+      "links": {
+        "download": "https://zenodo.org/api/files/0f5d7dad-4339-4b8b-b18e-2b6611bb1833/alexandrov_1992.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804612/files/4ed553ca-ca33-4879-a558-e302caa406f2"
+      }
+    }
+  ], 
+  "id": 805619, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805619.svg", 
+    "bucket": "https://zenodo.org/api/files/0f5d7dad-4339-4b8b-b18e-2b6611bb1833", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805618.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805618", 
+    "doi": "https://doi.org/10.5281/zenodo.805619", 
+    "latest": "https://zenodo.org/api/records/805619", 
+    "latest_html": "https://zenodo.org/record/805619", 
+    "record": "https://zenodo.org/api/records/805619", 
+    "record_html": "https://zenodo.org/record/805619"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alexandrov, I.D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805619", 
+    "journal_pages": "213-214", 
+    "journal_title": "D. I. S.", 
+    "journal_volume": "71", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805619", 
+      "recid": 805619
+    }, 
+    "publication_date": "1992-07-31", 
+    "publication_type": "article", 
+    "title": "Different patterns of spontaneous mutability in two wild-type sib stocks of D. melanogaster with long-term laboratory history.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:08:54.655351+00:00", 
+  "owner": 1161, 
+  "record_id": 805619, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Different patterns of spontaneous mutability in two wild-type sib stocks of D. melanogaster with long-term laboratory history."
+}

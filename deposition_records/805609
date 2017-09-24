@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805608", 
+  "conceptrecid": "805608", 
+  "created": "2017-06-10T16:06:52.339818+00:00", 
+  "doi": "10.5281/zenodo.805609", 
+  "id": 805609, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805609.svg", 
+    "bucket": "https://zenodo.org/api/files/e48c3c3a-1f70-43b4-9ad7-468e6189eeaa", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805608.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805608", 
+    "doi": "https://doi.org/10.5281/zenodo.805609", 
+    "html": "https://zenodo.org/record/805609", 
+    "latest": "https://zenodo.org/api/records/805609", 
+    "latest_html": "https://zenodo.org/record/805609", 
+    "self": "https://zenodo.org/api/records/805609"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alexander, M.L."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805609", 
+    "journal": {
+      "pages": "73-105", 
+      "title": "Univ. Texas Publs", 
+      "volume": "5204"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1952-02-15", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805608", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805609"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805608"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Gene variability in the Americana-Texana-Novamexicana complex of the virilis group of Drosophila."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:25:53.946544+00:00"
+}

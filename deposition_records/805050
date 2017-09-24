@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805049", 
+  "conceptrecid": "805049", 
+  "created": "2017-06-09T21:31:41.036055+00:00", 
+  "doi": "10.5281/zenodo.805050", 
+  "id": 805050, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805050.svg", 
+    "bucket": "https://zenodo.org/api/files/901d568d-ebab-4cc8-b697-66e091809c67", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805049.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805049", 
+    "doi": "https://doi.org/10.5281/zenodo.805050", 
+    "html": "https://zenodo.org/record/805050", 
+    "latest": "https://zenodo.org/api/records/805050", 
+    "latest_html": "https://zenodo.org/record/805050", 
+    "self": "https://zenodo.org/api/records/805050"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aboul-Nasr, A."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805050", 
+    "journal": {
+      "pages": "19-31", 
+      "title": "Bull. Soc. Fouad Ent.", 
+      "volume": "38"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1954-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805049", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805050"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805049"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "The effect of carbon-tetrachloride upon the wing-beat frequency of Drosophila virilis Sturtevant (1916)."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:38:11.444903+00:00"
+}

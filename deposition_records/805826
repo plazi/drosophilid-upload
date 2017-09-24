@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805825", 
+  "conceptrecid": "805825", 
+  "created": "2017-06-10T20:11:53.053276+00:00", 
+  "doi": "10.5281/zenodo.805826", 
+  "id": 805826, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805826.svg", 
+    "bucket": "https://zenodo.org/api/files/50afb7b8-c496-4e5d-8de6-3c37c1c7d391", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805825.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805825", 
+    "doi": "https://doi.org/10.5281/zenodo.805826", 
+    "html": "https://zenodo.org/record/805826", 
+    "latest": "https://zenodo.org/api/records/805826", 
+    "latest_html": "https://zenodo.org/record/805826", 
+    "self": "https://zenodo.org/api/records/805826"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Anderson, W.W."
+      }, 
+      {
+        "name": "McGuire, P.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805826", 
+    "journal": {
+      "pages": "416-423", 
+      "title": "Evolution", 
+      "volume": "32"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1978-06-30", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805825", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805826"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805825"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Mating pattern and mating success of Drosophila pseudoobscura karyotypes in large experimental populations."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:34:27.676521+00:00"
+}

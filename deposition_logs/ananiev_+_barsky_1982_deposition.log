@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805805", 
+  "created": "2017-06-10T20:10:44.484249+00:00", 
+  "files": [], 
+  "id": 805806, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/ee980d86-66df-4d00-8249-b77ce1f196a4", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805806/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805806/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805806/files", 
+    "html": "https://zenodo.org/deposit/805806", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805806", 
+    "latest_draft_html": "https://zenodo.org/deposit/805806", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805806/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805806"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ananiev, E.V."
+      }, 
+      {
+        "name": "Barsky, V.E."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "239-245", 
+    "journal_title": "Chromosoma", 
+    "journal_volume": "87", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805806", 
+      "recid": 805806
+    }, 
+    "publication_date": "1982-12-22", 
+    "publication_type": "article", 
+    "title": "A Photographic Map of Drosophila hydei Polytene Chromosomes.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:10:44.484256+00:00", 
+  "owner": 1161, 
+  "record_id": 805806, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "A Photographic Map of Drosophila hydei Polytene Chromosomes."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:10:46 GMT
+Content-Type: application/json
+Content-Length: 375
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497128888
+Retry-After: 3441
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "fcb8dc0bdfa6ffad0ec03eb9ea349074", "filename": "ananiev__barsky_1982.pdf", "filesize": 131563, "id": "035a9c6b-b8d7-4326-bfaf-321c0302a542", "links": {"download": "https://zenodo.org/api/files/ee980d86-66df-4d00-8249-b77ce1f196a4/ananiev__barsky_1982.pdf", "self": "https://zenodo.org/api/deposit/depositions/805806/files/035a9c6b-b8d7-4326-bfaf-321c0302a542"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 20:10:48 GMT
+Content-Type: application/json
+Content-Length: 2519
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 20:10:48 GMT
+Location: https://zenodo.org/api/deposit/depositions/805806
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497129047
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805805", 
+  "conceptrecid": "805805", 
+  "created": "2017-06-10T20:10:44.484249+00:00", 
+  "doi": "10.5281/zenodo.805806", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805806", 
+  "files": [
+    {
+      "checksum": "fcb8dc0bdfa6ffad0ec03eb9ea349074", 
+      "filename": "ananiev__barsky_1982.pdf", 
+      "filesize": 131563, 
+      "id": "035a9c6b-b8d7-4326-bfaf-321c0302a542", 
+      "links": {
+        "download": "https://zenodo.org/api/files/ee980d86-66df-4d00-8249-b77ce1f196a4/ananiev__barsky_1982.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804529/files/035a9c6b-b8d7-4326-bfaf-321c0302a542"
+      }
+    }
+  ], 
+  "id": 805806, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805806.svg", 
+    "bucket": "https://zenodo.org/api/files/ee980d86-66df-4d00-8249-b77ce1f196a4", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805805.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805805", 
+    "doi": "https://doi.org/10.5281/zenodo.805806", 
+    "latest": "https://zenodo.org/api/records/805806", 
+    "latest_html": "https://zenodo.org/record/805806", 
+    "record": "https://zenodo.org/api/records/805806", 
+    "record_html": "https://zenodo.org/record/805806"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Ananiev, E.V."
+      }, 
+      {
+        "name": "Barsky, V.E."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805806", 
+    "journal_pages": "239-245", 
+    "journal_title": "Chromosoma", 
+    "journal_volume": "87", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805806", 
+      "recid": 805806
+    }, 
+    "publication_date": "1982-12-22", 
+    "publication_type": "article", 
+    "title": "A Photographic Map of Drosophila hydei Polytene Chromosomes.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T20:10:48.251085+00:00", 
+  "owner": 1161, 
+  "record_id": 805806, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "A Photographic Map of Drosophila hydei Polytene Chromosomes."
+}

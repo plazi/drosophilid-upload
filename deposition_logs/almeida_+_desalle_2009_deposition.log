@@ -1,0 +1,175 @@
+{
+  "conceptrecid": "805674", 
+  "created": "2017-06-10T16:20:40.080737+00:00", 
+  "files": [], 
+  "id": 805675, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/0bee093b-59a8-4494-b6b5-ee22b669365c", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805675/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805675/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805675/files", 
+    "html": "https://zenodo.org/deposit/805675", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805675", 
+    "latest_draft_html": "https://zenodo.org/deposit/805675", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805675/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805675"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Almeida, F.C."
+      }, 
+      {
+        "name": "DeSalle, R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "235-245", 
+    "journal_title": "Genetics", 
+    "journal_volume": "181", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805675", 
+      "recid": 805675
+    }, 
+    "publication_date": "2009-12-31", 
+    "publication_type": "article", 
+    "title": "Orthology, Function and Evolution of Accessory Gland Proteins in the Drosophila repleta Group.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:20:40.080751+00:00", 
+  "owner": 1161, 
+  "record_id": 805675, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Orthology, Function and Evolution of Accessory Gland Proteins in the Drosophila repleta Group."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:20:43 GMT
+Content-Type: application/json
+Content-Length: 377
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497115241
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "16efb0c8b0cdda792155bf313f28c485", "filename": "almeida__desalle_2009.pdf", "filesize": 132208, "id": "85279010-0c86-4152-99b9-78397e6db57f", "links": {"download": "https://zenodo.org/api/files/0bee093b-59a8-4494-b6b5-ee22b669365c/almeida__desalle_2009.pdf", "self": "https://zenodo.org/api/deposit/depositions/805675/files/85279010-0c86-4152-99b9-78397e6db57f"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Sat, 10 Jun 2017 16:20:44 GMT
+Content-Type: application/json
+Content-Length: 2560
+ETag: "2"
+Last-Modified: Sat, 10 Jun 2017 16:20:44 GMT
+Location: https://zenodo.org/api/deposit/depositions/805675
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497114424
+Retry-After: 2779
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805674", 
+  "conceptrecid": "805674", 
+  "created": "2017-06-10T16:20:40.080737+00:00", 
+  "doi": "10.5281/zenodo.805675", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805675", 
+  "files": [
+    {
+      "checksum": "16efb0c8b0cdda792155bf313f28c485", 
+      "filename": "almeida__desalle_2009.pdf", 
+      "filesize": 132208, 
+      "id": "85279010-0c86-4152-99b9-78397e6db57f", 
+      "links": {
+        "download": "https://zenodo.org/api/files/0bee093b-59a8-4494-b6b5-ee22b669365c/almeida__desalle_2009.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804612/files/85279010-0c86-4152-99b9-78397e6db57f"
+      }
+    }
+  ], 
+  "id": 805675, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805675.svg", 
+    "bucket": "https://zenodo.org/api/files/0bee093b-59a8-4494-b6b5-ee22b669365c", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805674.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805674", 
+    "doi": "https://doi.org/10.5281/zenodo.805675", 
+    "latest": "https://zenodo.org/api/records/805675", 
+    "latest_html": "https://zenodo.org/record/805675", 
+    "record": "https://zenodo.org/api/records/805675", 
+    "record_html": "https://zenodo.org/record/805675"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Almeida, F.C."
+      }, 
+      {
+        "name": "DeSalle, R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805675", 
+    "journal_pages": "235-245", 
+    "journal_title": "Genetics", 
+    "journal_volume": "181", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805675", 
+      "recid": 805675
+    }, 
+    "publication_date": "2009-12-31", 
+    "publication_type": "article", 
+    "title": "Orthology, Function and Evolution of Accessory Gland Proteins in the Drosophila repleta Group.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-10T16:20:44.528433+00:00", 
+  "owner": 1161, 
+  "record_id": 805675, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Orthology, Function and Evolution of Accessory Gland Proteins in the Drosophila repleta Group."
+}

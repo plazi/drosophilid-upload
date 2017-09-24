@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805578", 
+  "conceptrecid": "805578", 
+  "created": "2017-06-10T13:13:38.833327+00:00", 
+  "doi": "10.5281/zenodo.805579", 
+  "id": 805579, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805579.svg", 
+    "bucket": "https://zenodo.org/api/files/d6c727b6-6654-4ddb-b93e-561c9710d44c", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805578.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805578", 
+    "doi": "https://doi.org/10.5281/zenodo.805579", 
+    "html": "https://zenodo.org/record/805579", 
+    "latest": "https://zenodo.org/api/records/805579", 
+    "latest_html": "https://zenodo.org/record/805579", 
+    "self": "https://zenodo.org/api/records/805579"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alcorta, E."
+      }, 
+      {
+        "name": "Rubio, J."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805579", 
+    "journal": {
+      "pages": "285-300", 
+      "title": "Behav. Genet.", 
+      "volume": "19"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1989-03-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805578", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805579"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805578"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Intrapopulational Variation of Olfactory Responses in Drosophila melanogaster."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:52:45.387746+00:00"
+}

@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805041", 
+  "conceptrecid": "805041", 
+  "created": "2017-06-09T21:31:18.766348+00:00", 
+  "doi": "10.5281/zenodo.805042", 
+  "id": 805042, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805042.svg", 
+    "bucket": "https://zenodo.org/api/files/f96ab376-78f4-46db-90bb-715ec7fa906e", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805041.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805041", 
+    "doi": "https://doi.org/10.5281/zenodo.805042", 
+    "html": "https://zenodo.org/record/805042", 
+    "latest": "https://zenodo.org/api/records/805042", 
+    "latest_html": "https://zenodo.org/record/805042", 
+    "self": "https://zenodo.org/api/records/805042"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Abou-Youssef, A.Y."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805042", 
+    "journal": {
+      "pages": "80-94", 
+      "title": "Egypt. J. Genet. Cytol.", 
+      "volume": "8"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1979-01-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805041", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805042"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805041"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Genetic studies on isozyme polymorphism in Drosophila. II. Gene frequency changes at the amylase locus in cage population of D. virilis."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:55:19.729866+00:00"
+}

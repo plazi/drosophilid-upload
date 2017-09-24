@@ -1,0 +1,177 @@
+{
+  "conceptrecid": "805066", 
+  "created": "2017-06-09T21:39:17.649974+00:00", 
+  "files": [], 
+  "id": 805067, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/395a97d8-358f-4a7e-8d9f-3650e6deeaec", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805067/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805067/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805067/files", 
+    "html": "https://zenodo.org/deposit/805067", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805067", 
+    "latest_draft_html": "https://zenodo.org/deposit/805067", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805067/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805067"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Acurio, A.E."
+      }, 
+      {
+        "name": "Rafael, V.L."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "713-718", 
+    "journal_title": "Acta Amazon.", 
+    "journal_volume": "39", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805067", 
+      "recid": 805067
+    }, 
+    "publication_date": "2009-12-31", 
+    "publication_type": "article", 
+    "title": "Inventario Taxonomico de Drosophilidae (Diptera) en el Parque Nacional Yasuni, Amazonia Ecuatoriana.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:39:17.649981+00:00", 
+  "owner": 1161, 
+  "record_id": 805067, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Inventario Taxonomico de Drosophilidae (Diptera) en el Parque Nacional Yasuni, Amazonia Ecuatoriana."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:39:20 GMT
+Content-Type: application/json
+Content-Length: 375
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4998
+X-RateLimit-Reset: 1497045272
+Retry-After: 911
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "f09b24b50086fd15a2d8a1a655add229", "filename": "acurio__rafael_2009a.pdf", "filesize": 260070, "id": "a9beb378-b0ae-42bd-9421-2d59d0802cda", "links": {"download": "https://zenodo.org/api/files/395a97d8-358f-4a7e-8d9f-3650e6deeaec/acurio__rafael_2009a.pdf", "self": "https://zenodo.org/api/deposit/depositions/805067/files/a9beb378-b0ae-42bd-9421-2d59d0802cda"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:39:22 GMT
+Content-Type: application/json
+Content-Length: 2600
+ETag: "2"
+Last-Modified: Fri, 09 Jun 2017 21:39:22 GMT
+Location: https://zenodo.org/api/deposit/depositions/805067
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497047961
+Retry-After: 3598
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805066", 
+  "conceptrecid": "805066", 
+  "created": "2017-06-09T21:39:17.649974+00:00", 
+  "doi": "10.5281/zenodo.805067", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805067", 
+  "files": [
+    {
+      "checksum": "f09b24b50086fd15a2d8a1a655add229", 
+      "filename": "acurio__rafael_2009a.pdf", 
+      "filesize": 260070, 
+      "id": "a9beb378-b0ae-42bd-9421-2d59d0802cda", 
+      "links": {
+        "download": "https://zenodo.org/api/files/395a97d8-358f-4a7e-8d9f-3650e6deeaec/acurio__rafael_2009a.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804695/files/a9beb378-b0ae-42bd-9421-2d59d0802cda"
+      }
+    }
+  ], 
+  "id": 805067, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805067.svg", 
+    "bucket": "https://zenodo.org/api/files/395a97d8-358f-4a7e-8d9f-3650e6deeaec", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805066.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805066", 
+    "doi": "https://doi.org/10.5281/zenodo.805067", 
+    "latest": "https://zenodo.org/api/records/805067", 
+    "latest_html": "https://zenodo.org/record/805067", 
+    "record": "https://zenodo.org/api/records/805067", 
+    "record_html": "https://zenodo.org/record/805067"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Acurio, A.E."
+      }, 
+      {
+        "name": "Rafael, V.L."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805067", 
+    "journal_pages": "713-718", 
+    "journal_title": "Acta Amazon.", 
+    "journal_volume": "39", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805067", 
+      "recid": 805067
+    }, 
+    "publication_date": "2009-12-31", 
+    "publication_type": "article", 
+    "title": "Inventario Taxonomico de Drosophilidae (Diptera) en el Parque Nacional Yasuni, Amazonia Ecuatoriana.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:39:22.394024+00:00", 
+  "owner": 1161, 
+  "record_id": 805067, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Inventario Taxonomico de Drosophilidae (Diptera) en el Parque Nacional Yasuni, Amazonia Ecuatoriana."
+}

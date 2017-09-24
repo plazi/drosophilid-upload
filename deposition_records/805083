@@ -1,0 +1,95 @@
+{
+  "conceptdoi": "10.5281/zenodo.805082", 
+  "conceptrecid": "805082", 
+  "created": "2017-06-09T21:53:41.694738+00:00", 
+  "doi": "10.5281/zenodo.805083", 
+  "id": 805083, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805083.svg", 
+    "bucket": "https://zenodo.org/api/files/32a2127c-2152-4e60-81ef-94f6c1049223", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805082.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805082", 
+    "doi": "https://doi.org/10.5281/zenodo.805083", 
+    "html": "https://zenodo.org/record/805083", 
+    "latest": "https://zenodo.org/api/records/805083", 
+    "latest_html": "https://zenodo.org/record/805083", 
+    "self": "https://zenodo.org/api/records/805083"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Adams, F.C."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805083", 
+    "journal": {
+      "pages": "116-117", 
+      "title": "The Entomologist's monthly magazine", 
+      "volume": "42"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "notspecified"
+    }, 
+    "publication_date": "1906-05-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5962/bhl.part.5417", 
+        "relation": "isIdenticalTo", 
+        "scheme": "doi"
+      }, 
+      {
+        "identifier": "10.5281/zenodo.805082", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805083"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805082"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Notes on Diptera in the New Forest, 1905."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 4, 
+  "updated": "2017-09-23T04:23:29.417360+00:00"
+}

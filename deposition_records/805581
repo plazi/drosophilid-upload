@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805580", 
+  "conceptrecid": "805580", 
+  "created": "2017-06-10T13:13:51.510384+00:00", 
+  "doi": "10.5281/zenodo.805581", 
+  "id": 805581, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805581.svg", 
+    "bucket": "https://zenodo.org/api/files/c20ca601-a9eb-4252-8f52-f55708f5218a", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805580.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805580", 
+    "doi": "https://doi.org/10.5281/zenodo.805581", 
+    "html": "https://zenodo.org/record/805581", 
+    "latest": "https://zenodo.org/api/records/805581", 
+    "latest_html": "https://zenodo.org/record/805581", 
+    "self": "https://zenodo.org/api/records/805581"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Aldinger-von Kleist, R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805581", 
+    "journal": {
+      "pages": "123-134", 
+      "title": "Behav. Genet.", 
+      "volume": "15"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1985-03-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805580", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805581"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805580"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Genetic Analysis of the Light Dependence of Courtship in Drosophila subobscura."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:54:28.344485+00:00"
+}

@@ -1,0 +1,93 @@
+{
+  "conceptdoi": "10.5281/zenodo.805602", 
+  "conceptrecid": "805602", 
+  "created": "2017-06-10T16:06:33.901890+00:00", 
+  "doi": "10.5281/zenodo.805603", 
+  "id": 805603, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805603.svg", 
+    "bucket": "https://zenodo.org/api/files/447fd46b-a56b-47a2-a63f-ee3398897b4d", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805602.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805602", 
+    "doi": "https://doi.org/10.5281/zenodo.805603", 
+    "html": "https://zenodo.org/record/805603", 
+    "latest": "https://zenodo.org/api/records/805603", 
+    "latest_html": "https://zenodo.org/record/805603", 
+    "self": "https://zenodo.org/api/records/805603"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alexander, M.L."
+      }, 
+      {
+        "name": "Stone, W.S."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805603", 
+    "journal": {
+      "pages": "1046-1057", 
+      "title": "Proc. Natl. Acad. Sci. USA", 
+      "volume": "41"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "notspecified"
+    }, 
+    "publication_date": "1955-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805602", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805603"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805602"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Radiation damage in the developing germ cells of Drosophila virilis."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-08-05T11:29:18.726550+00:00"
+}

@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805068", 
+  "conceptrecid": "805068", 
+  "created": "2017-06-09T21:39:31.055603+00:00", 
+  "doi": "10.5281/zenodo.805069", 
+  "id": 805069, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805069.svg", 
+    "bucket": "https://zenodo.org/api/files/4bf25678-0f1a-40e9-876a-615931f6fc91", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805068.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805068", 
+    "doi": "https://doi.org/10.5281/zenodo.805069", 
+    "html": "https://zenodo.org/record/805069", 
+    "latest": "https://zenodo.org/api/records/805069", 
+    "latest_html": "https://zenodo.org/record/805069", 
+    "self": "https://zenodo.org/api/records/805069"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Acurio, A."
+      }, 
+      {
+        "name": "Rafael, V."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805069", 
+    "journal": {
+      "pages": "20-25", 
+      "title": "D. I. S.", 
+      "volume": "92"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2009-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805068", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805069"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805068"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Diversity and geographical distribution of Drosophila (Diptera, Drosophilidae) in Ecuador."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 6, 
+  "updated": "2017-09-22T17:35:24.800376+00:00"
+}

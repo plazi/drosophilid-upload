@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805831", 
+  "conceptrecid": "805831", 
+  "created": "2017-06-10T20:12:16.352295+00:00", 
+  "doi": "10.5281/zenodo.805832", 
+  "id": 805832, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805832.svg", 
+    "bucket": "https://zenodo.org/api/files/506a8573-61d2-402b-a249-876eb60b5008", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805831.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805831", 
+    "doi": "https://doi.org/10.5281/zenodo.805832", 
+    "html": "https://zenodo.org/record/805832", 
+    "latest": "https://zenodo.org/api/records/805832", 
+    "latest_html": "https://zenodo.org/record/805832", 
+    "self": "https://zenodo.org/api/records/805832"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Anderson, W.W."
+      }, 
+      {
+        "name": "Dobzhansky, T."
+      }, 
+      {
+        "name": "Kastritsis, C.D."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805832", 
+    "journal": {
+      "pages": "664-671", 
+      "title": "Evolution", 
+      "volume": "21"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1967-12-28", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805831", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805832"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805831"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Selection and inversion polymorphism in experimental populations of Drosophila pseudoobscura initiated with the chromosomal constitutions of natural populations."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:28:34.443054+00:00"
+}

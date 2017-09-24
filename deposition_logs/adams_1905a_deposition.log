@@ -1,0 +1,171 @@
+{
+  "conceptrecid": "805080", 
+  "created": "2017-06-09T21:40:17.039225+00:00", 
+  "files": [], 
+  "id": 805081, 
+  "links": {
+    "bucket": "https://zenodo.org/api/files/0969c5b1-18a0-4ec0-a6bf-19f29cdd2f42", 
+    "discard": "https://zenodo.org/api/deposit/depositions/805081/actions/discard", 
+    "edit": "https://zenodo.org/api/deposit/depositions/805081/actions/edit", 
+    "files": "https://zenodo.org/api/deposit/depositions/805081/files", 
+    "html": "https://zenodo.org/deposit/805081", 
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/805081", 
+    "latest_draft_html": "https://zenodo.org/deposit/805081", 
+    "publish": "https://zenodo.org/api/deposit/depositions/805081/actions/publish", 
+    "self": "https://zenodo.org/api/deposit/depositions/805081"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Adams, C.F."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "journal_pages": "149-208", 
+    "journal_title": "Kans. Univ. Sci. Bull.", 
+    "journal_volume": "3", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805081", 
+      "recid": 805081
+    }, 
+    "publication_date": "1905-10-31", 
+    "publication_type": "article", 
+    "title": "Diptera africana, I.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:40:17.039232+00:00", 
+  "owner": 1161, 
+  "record_id": 805081, 
+  "state": "unsubmitted", 
+  "submitted": false, 
+  "title": "Diptera africana, I."
+}HTTP/1.1 100 Continue
+
+HTTP/1.1 201 CREATED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:40:20 GMT
+Content-Type: application/json
+Content-Length: 357
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4999
+X-RateLimit-Reset: 1497048018
+Retry-After: 3597
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+Strict-Transport-Security: max-age=31536000
+
+{"checksum": "a6a38d98b36fc829c0f86aca1ac5c76a", "filename": "adams_1905a.pdf", "filesize": 411234, "id": "fc6c6498-6e36-4c35-9f16-e87918022b8b", "links": {"download": "https://zenodo.org/api/files/0969c5b1-18a0-4ec0-a6bf-19f29cdd2f42/adams_1905a.pdf", "self": "https://zenodo.org/api/deposit/depositions/805081/files/fc6c6498-6e36-4c35-9f16-e87918022b8b"}}HTTP/1.1 202 ACCEPTED
+Server: nginx/1.10.2
+Date: Fri, 09 Jun 2017 21:40:22 GMT
+Content-Type: application/json
+Content-Length: 2381
+ETag: "2"
+Last-Modified: Fri, 09 Jun 2017 21:40:21 GMT
+Location: https://zenodo.org/api/deposit/depositions/805081
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 4997
+X-RateLimit-Reset: 1497046564
+Retry-After: 2141
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, ETag, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset
+X-Sentry-ID: None
+
+{
+  "conceptdoi": "10.5281/zenodo.805080", 
+  "conceptrecid": "805080", 
+  "created": "2017-06-09T21:40:17.039225+00:00", 
+  "doi": "10.5281/zenodo.805081", 
+  "doi_url": "https://doi.org/10.5281/zenodo.805081", 
+  "files": [
+    {
+      "checksum": "a6a38d98b36fc829c0f86aca1ac5c76a", 
+      "filename": "adams_1905a.pdf", 
+      "filesize": 411234, 
+      "id": "fc6c6498-6e36-4c35-9f16-e87918022b8b", 
+      "links": {
+        "download": "https://zenodo.org/api/files/0969c5b1-18a0-4ec0-a6bf-19f29cdd2f42/adams_1905a.pdf", 
+        "self": "https://zenodo.org/api/deposit/depositions/804711/files/fc6c6498-6e36-4c35-9f16-e87918022b8b"
+      }
+    }
+  ], 
+  "id": 805081, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805081.svg", 
+    "bucket": "https://zenodo.org/api/files/0969c5b1-18a0-4ec0-a6bf-19f29cdd2f42", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805080.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805080", 
+    "doi": "https://doi.org/10.5281/zenodo.805081", 
+    "latest": "https://zenodo.org/api/records/805081", 
+    "latest_html": "https://zenodo.org/record/805081", 
+    "record": "https://zenodo.org/api/records/805081", 
+    "record_html": "https://zenodo.org/record/805081"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "communities": [
+      {
+        "identifier": "biosyslit"
+      }, 
+      {
+        "identifier": "zenodo"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Adams, C.F."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805081", 
+    "journal_pages": "149-208", 
+    "journal_title": "Kans. Univ. Sci. Bull.", 
+    "journal_volume": "3", 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": "CC-BY-4.0", 
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.805081", 
+      "recid": 805081
+    }, 
+    "publication_date": "1905-10-31", 
+    "publication_type": "article", 
+    "title": "Diptera africana, I.", 
+    "upload_type": "publication"
+  }, 
+  "modified": "2017-06-09T21:40:21.907968+00:00", 
+  "owner": 1161, 
+  "record_id": 805081, 
+  "state": "done", 
+  "submitted": true, 
+  "title": "Diptera africana, I."
+}

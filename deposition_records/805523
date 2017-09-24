@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805522", 
+  "conceptrecid": "805522", 
+  "created": "2017-06-10T11:54:38.926248+00:00", 
+  "doi": "10.5281/zenodo.805523", 
+  "id": 805523, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805523.svg", 
+    "bucket": "https://zenodo.org/api/files/d8ecfd3e-30b6-47d2-b55f-21463129faa5", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805522.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805522", 
+    "doi": "https://doi.org/10.5281/zenodo.805523", 
+    "html": "https://zenodo.org/record/805523", 
+    "latest": "https://zenodo.org/api/records/805523", 
+    "latest_html": "https://zenodo.org/record/805523", 
+    "self": "https://zenodo.org/api/records/805523"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alahiotis, S."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805523", 
+    "journal": {
+      "pages": "88", 
+      "title": "D. I. S.", 
+      "volume": "51"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1974-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805522", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805523"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805522"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Enzyme polymorphisms in two D. melanogaster populations of Southern Greece."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:00:14.043181+00:00"
+}

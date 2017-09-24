@@ -1,0 +1,90 @@
+{
+  "conceptdoi": "10.5281/zenodo.805660", 
+  "conceptrecid": "805660", 
+  "created": "2017-06-10T16:20:04.841244+00:00", 
+  "doi": "10.5281/zenodo.805661", 
+  "id": 805661, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805661.svg", 
+    "bucket": "https://zenodo.org/api/files/a2be7746-d364-4661-b8a2-d65e8300064b", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805660.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805660", 
+    "doi": "https://doi.org/10.5281/zenodo.805661", 
+    "html": "https://zenodo.org/record/805661", 
+    "latest": "https://zenodo.org/api/records/805661", 
+    "latest_html": "https://zenodo.org/record/805661", 
+    "self": "https://zenodo.org/api/records/805661"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Allen, A.C."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805661", 
+    "journal": {
+      "pages": "1409-1422", 
+      "title": "Genetics", 
+      "volume": "54"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1966-12-06", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805660", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805661"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805660"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "The effects of recombination on quasinormal second and third chromosomes of Drosophila melanogaster from a natural population."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:47:41.788892+00:00"
+}

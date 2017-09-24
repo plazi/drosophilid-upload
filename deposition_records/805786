@@ -1,0 +1,96 @@
+{
+  "conceptdoi": "10.5281/zenodo.805785", 
+  "conceptrecid": "805785", 
+  "created": "2017-06-10T20:09:44.390477+00:00", 
+  "doi": "10.5281/zenodo.805786", 
+  "id": 805786, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805786.svg", 
+    "bucket": "https://zenodo.org/api/files/32adf953-b3ec-47e4-b032-210c7a83158e", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805785.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805785", 
+    "doi": "https://doi.org/10.5281/zenodo.805786", 
+    "html": "https://zenodo.org/record/805786", 
+    "latest": "https://zenodo.org/api/records/805786", 
+    "latest_html": "https://zenodo.org/record/805786", 
+    "self": "https://zenodo.org/api/records/805786"
+  }, 
+  "metadata": {
+    "access_right": "open", 
+    "access_right_category": "success", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Amlou, M."
+      }, 
+      {
+        "name": "Moreteau, B."
+      }, 
+      {
+        "name": "David, J.R."
+      }
+    ], 
+    "description": "uploaded by Plazi from Taxodros", 
+    "doi": "10.5281/zenodo.805786", 
+    "journal": {
+      "pages": "7-14", 
+      "title": "Hereditas", 
+      "volume": "129"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "publication_date": "1998-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805785", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805786"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805785"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Larval tolerance in the Drosophila melanogaster species complex toward the two toxic acids of the D. sechellia host plant."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T07:39:06.019110+00:00"
+}

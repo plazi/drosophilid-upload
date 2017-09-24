@@ -1,0 +1,87 @@
+{
+  "conceptdoi": "10.5281/zenodo.805552", 
+  "conceptrecid": "805552", 
+  "created": "2017-06-10T13:11:57.492318+00:00", 
+  "doi": "10.5281/zenodo.805553", 
+  "id": 805553, 
+  "links": {
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.805553.svg", 
+    "bucket": "https://zenodo.org/api/files/fe6919de-34f2-4a70-954c-c7452c913ae6", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.805552.svg", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.805552", 
+    "doi": "https://doi.org/10.5281/zenodo.805553", 
+    "html": "https://zenodo.org/record/805553", 
+    "latest": "https://zenodo.org/api/records/805553", 
+    "latest_html": "https://zenodo.org/record/805553", 
+    "self": "https://zenodo.org/api/records/805553"
+  }, 
+  "metadata": {
+    "access_right": "closed", 
+    "access_right_category": "danger", 
+    "communities": [
+      {
+        "id": "biosyslit"
+      }
+    ], 
+    "creators": [
+      {
+        "name": "Alamiri, Z."
+      }
+    ], 
+    "description": "<p>uploaded by Plazi from Taxodros</p>", 
+    "doi": "10.5281/zenodo.805553", 
+    "journal": {
+      "pages": "17-24", 
+      "title": "Revta chil. Ent.", 
+      "volume": "28"
+    }, 
+    "keywords": [
+      "Biodiversity", 
+      "Taxonomy", 
+      "Animalia", 
+      "Arthropoda", 
+      "Insecta", 
+      "Diptera", 
+      "Drosophilidae", 
+      "flies", 
+      "fruit flies", 
+      "terrestrial"
+    ], 
+    "publication_date": "2001-12-31", 
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.805552", 
+        "relation": "isPartOf", 
+        "scheme": "doi"
+      }
+    ], 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "805553"
+          }, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "805552"
+          }
+        }
+      ]
+    }, 
+    "resource_type": {
+      "subtype": "article", 
+      "title": "Journal article", 
+      "type": "publication"
+    }, 
+    "title": "Preadults interactions between the colonizing Drosophila subobscura and the established species D. hydei and D. melanogaster (Diptera: Drosophilidae) in Chile using natural substrates."
+  }, 
+  "owners": [
+    1161
+  ], 
+  "revision": 3, 
+  "updated": "2017-09-08T08:01:55.683713+00:00"
+}
